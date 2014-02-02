@@ -39,13 +39,18 @@ class ESVAPI
       div.replace(blockquote_node)
     end
 
-    #doc.css("p.line-group").each do |node|
-    #  node.swap(node.children)
-    #end
+    doc.css("div.esv-text").each do |node|
+      node.swap(node.children)
+    end
 
-    doc.css("span.indent").each do |node|
+    doc.css("span.indent, span.chapter-num").each do |node|
       node.remove
     end
+
+    doc.xpath('//@class').remove
+    doc.xpath('//@id').remove
+
+    doc.root['class'] = "esv-text"
 
     #doc.css("p").find_all {|p| self.all_children_are_blank?(p)}.each do |p|
     #  p.remove
@@ -60,7 +65,12 @@ class ESVAPI
     #
     #doc.css("br").remove
 
-    doc.root.to_s
+    output = ""
+    doc.root.to_s.each_line do |line|
+      output << line.sub(/^\s*/, '    ') if line != "\n"
+    end
+
+    output
   end
 end
 
@@ -100,20 +110,28 @@ class GospelParallelsGenerator
   end
 
   def entries_to_markdown
-    puts "# Gospel Parallels\n\n"
+    puts "\n<div id=\"gospel-synopsis\" markdown=\"1\">\n\n"
+    puts "## Gospel Synopsis\n"
 
     current_section = ""
     @entries.each do |entry|
       if entry.section != current_section
-        puts "## <a name=\"#{entry.section_url}\"></a>#{entry.section} <span class=\"toc-jump\">[&and;](##{entry.section_toc_url} \"Go to the Table of Contents\")</span>\n"
+        puts "\n### <a name=\"#{entry.section_url}\"></a>#{entry.section} <span class=\"toc-jump\">[&and;](##{entry.section_toc_url} \"Go to the Table of Contents\")</span>\n"
         current_section = entry.section
       end
       puts entry.to_markdown
     end
+    puts "\n</div>\n"
+  end
+
+  def header_to_markdown
+    puts "# A Harmony of the Gospel\n\n"
+    puts "Derived from _Synopsis Quattuor Evangeliorum_ by **Kurt Aland**.\n"
   end
 
   def toc_to_markdown
-    puts "# <a name=\"toc\"></a>Table of Contents\n\n"
+    puts "\n<div id=\"table-of-contents\" markdown=\"1\">\n\n"
+    puts "## <a name=\"toc\"></a>Table of Contents\n\n"
 
     current_section = ""
     @entries.each do |entry|
@@ -123,7 +141,7 @@ class GospelParallelsGenerator
       end
       puts "    + <a name=\"#{entry.toc_url}\"></a>[#{entry.num}. #{entry.pericope}](##{entry.url})\n"
     end
-    puts "\n"
+    puts "\n</div>\n"
   end
 end
 
@@ -194,48 +212,46 @@ class GospelParallelsEntry
     "section-#{@section.urlize}-toc"
   end
 
-  def to_debug
-    output = "No. #{num}: #{pericope}"
-    output << "\nESSENTIAL: " + @@SEARCH_QUERY + URI.escape(@essential_references.join("; ")) unless @essential_references.empty?
-    output << "\nADDITIONAL: " + @@SEARCH_QUERY + URI.escape(@additional_references.join("; ")) unless @additional_references.empty?
-    output << "\nALL: " + @@SEARCH_QUERY + URI.escape((@all_references).join("; ")) unless @all_references.empty?
-    output << "\n"
-  end
-
   def to_markdown
-    output = "\n### <a name=\"#{self.url}\"></a>#{num}. #{pericope} <span class=\"toc-jump\">[&and;](##{self.toc_url} \"Go to the Table of Contents\")</a>"
+    output = "\n+ #### <a name=\"#{self.url}\"></a>#{num}. #{pericope} <span class=\"toc-jump\">[&and;](##{self.toc_url} \"Go to the Table of Contents\")</span>"
+    output << "\n\n    <p class=\"entry-references\" markdown=\"1\">"
 
     if @essential_references.count > 0 and @additional_references.count > 0
-      output << "\nEssential Verses:"
+      output << "\n    Essential Verses:"
       @essential_references.each do |reference|
         output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
       output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@essential_references.join("; "))} \"Read essential verses on esvbible.org\")" if @essential_references.count > 1
+      output << "  "
     end
 
     if @additional_references.count > 0 and @additional_references.count > 0
-      output << "\nAdditional Verses:"
+      output << "\n    Additional Verses:"
       @additional_references.each do |reference|
         output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
       output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@additional_references.join("; "))} \"Read additional verses on esvbible.org\")" if @additional_references.count > 1
+      output << "  "
     end
 
     if true #@essential_references.count == 0 or @additional_references.count == 0
-      output << "\nAll Verses:"
+      (@additional_references.count > 0 and @additional_references.count > 0) ? output << "\n    All Verses:" : output << "\n    Verses:"
       @all_references.each do |reference|
         output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
-      output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@all_references.join("; "))} \"Read all the verses on esvbible.org\")"
+      output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@all_references.join("; "))} \"Read all verses on esvbible.org\")" if @all_references.count > 1
     end
+    output << "\n    </p>"
 
+    output << "\n\n    <div class=\"entry-verses\">"
     @all_references.each do |reference|
-      output << "\n\n#### #{reference}"
+      output << "\n\n    <h5>#{reference}</h5>"
       output << "\n#{ESVAPI.get(reference)}"
     end
+    output << "\n\n    </div>"
 
     output
   end
@@ -243,7 +259,8 @@ end
 
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
-  generator.process_data 10
+  generator.process_data 20
+  generator.header_to_markdown
   generator.toc_to_markdown
   generator.entries_to_markdown
 end
