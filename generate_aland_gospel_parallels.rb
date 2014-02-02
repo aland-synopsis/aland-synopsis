@@ -105,7 +105,7 @@ class GospelParallelsGenerator
     current_section = ""
     @entries.each do |entry|
       if entry.section != current_section
-        puts "## #{entry.section} ([\^](##{entry.section_toc_url}))<a name=\"#{entry.section_url}\"></a>\n"
+        puts "## <a name=\"#{entry.section_url}\"></a>#{entry.section} <span class=\"toc-jump\">[&and;](##{entry.section_toc_url} \"Go to the Table of Contents\")</span>\n"
         current_section = entry.section
       end
       puts entry.to_markdown
@@ -113,15 +113,15 @@ class GospelParallelsGenerator
   end
 
   def toc_to_markdown
-    puts "# Table of Contents<a name=\"pericopetoc\"></a>\n\n"
+    puts "# <a name=\"toc\"></a>Table of Contents\n\n"
 
     current_section = ""
     @entries.each do |entry|
       if entry.section != current_section
-        puts "+ [#{entry.section}](##{entry.section_url})<a name=\"#{entry.section_toc_url}\"></a>\n"
+        puts "+ <a name=\"#{entry.section_toc_url}\"></a>[#{entry.section}](##{entry.section_url})\n"
         current_section = entry.section
       end
-      puts "    + [#{entry.num}. #{entry.pericope}](##{entry.url})<a name=\"#{entry.toc_url}\"></a>\n"
+      puts "    + <a name=\"#{entry.toc_url}\"></a>[#{entry.num}. #{entry.pericope}](##{entry.url})\n"
     end
     puts "\n"
   end
@@ -136,7 +136,9 @@ class GospelParallelsEntry
 
   def initialize entry_data
     @num = entry_data["gsx$no."]["$t"]
-    @pericope = entry_data["gsx$pericope"]["$t"].split(" ").map(&:capitalize).join(" ")
+    @pericope = entry_data["gsx$pericope"]["$t"].split(" ").map(&:capitalize).join(" ").sub(/\(./) do |w|
+      w.upcase
+    end
     @section = entry_data["gsx$section"]["$t"]
     @all_references = []
     @essential_references = []
@@ -201,33 +203,33 @@ class GospelParallelsEntry
   end
 
   def to_markdown
-    output = "\n### #{num}. #{pericope}<a name=\"#{self.url}\"></a> ([^](##{self.toc_url}))"
+    output = "\n### <a name=\"#{self.url}\"></a>#{num}. #{pericope} <span class=\"toc-jump\">[&and;](##{self.toc_url} \"Go to the Table of Contents\")</a>"
 
     if @essential_references.count > 0 and @additional_references.count > 0
       output << "\nEssential Verses:"
       @essential_references.each do |reference|
-        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)});"
+        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
-      output << " ([All](#{@@SEARCH_QUERY + URI.escape(@essential_references.join("; "))}))" if @essential_references.count > 1
+      output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@essential_references.join("; "))} \"Read essential verses on esvbible.org\")" if @essential_references.count > 1
     end
 
     if @additional_references.count > 0 and @additional_references.count > 0
       output << "\nAdditional Verses:"
       @additional_references.each do |reference|
-        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)});"
+        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
-      output << " ([All](#{@@SEARCH_QUERY + URI.escape(@additional_references.join("; "))}))" if @additional_references.count > 1
+      output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@additional_references.join("; "))} \"Read additional verses on esvbible.org\")" if @additional_references.count > 1
     end
 
     if true #@essential_references.count == 0 or @additional_references.count == 0
       output << "\nAll Verses:"
       @all_references.each do |reference|
-        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)});"
+        output << " [#{reference}](#{@@SEARCH_QUERY + URI.escape(reference)} \"Read #{reference} on esvbible.org\");"
       end
       output.chop!
-      output << " ([All](#{@@SEARCH_QUERY + URI.escape(@all_references.join("; "))}))"
+      output << " &mdash; [All](#{@@SEARCH_QUERY + URI.escape(@all_references.join("; "))} \"Read all the verses on esvbible.org\")"
     end
 
     @all_references.each do |reference|
@@ -241,7 +243,7 @@ end
 
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
-  generator.process_data
+  generator.process_data 10
   generator.toc_to_markdown
   generator.entries_to_markdown
 end
