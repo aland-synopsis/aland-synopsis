@@ -1,376 +1,376 @@
 # Table of Contents<a name="pericopetoc"></a>
 
-1. [Prologue](#pericope1)
-1. [The Promise Of The Birth Of John The Baptist](#pericope2)
-1. [The Annunciation](#pericope3)
-1. [Mary's Visit To Elizabeth](#pericope4)
-1. [The Birth Of John The Baptist](#pericope5)
-1. [The Genealogy Of Jesus](#pericope6)
-1. [The Birth Of Jesus](#pericope7)
-1. [The Adoration Of The Infant Jesus](#pericope8)
-1. [The Circumcision And Presentation In The Temple](#pericope9)
-1. [The Flight Into Egypt And Return](#pericope10)
-1. [The Childhood Of Jesus At Nazareth](#pericope11)
-1. [The Boy Jesus In The Temple](#pericope12)
-1. [John The Baptist](#pericope13)
-1. [John's Preaching Of Repentance](#pericope14)
-1. [John Replies To Questioners](#pericope15)
-1. [John's Messianic Preaching](#pericope16)
-1. [The Imprisonment Of John](#pericope17)
-1. [The Baptism Of Jesus](#pericope18)
-1. [The Genealogy Of Jesus](#pericope19)
-1. [The Temptation](#pericope20)
-1. [The Call Of The First Disciples](#pericope21)
-1. [The Marriage At Cana](#pericope22)
-1. [The Sojourn At Capernaum](#pericope23)
-1. [The First Journey To Jerusalem](#pericope24)
-1. [The Cleansing Of The Temple](#pericope25)
-1. [Jesus' Ministry In Jerusalem](#pericope26)
-1. [The Discourse With Nicodemus](#pericope27)
-1. [Jesus' Ministry In Judea](#pericope28)
-1. [John's Testimony To Christ](#pericope29)
-1. [The Journey Into Galilee](#pericope30)
-1. [The Discourse With The Woman Of Samaria](#pericope31)
-1. [Ministry In Galilee](#pericope32)
-1. [Jesus' Preaching At Nazareth](#pericope33)
-1. [The Call Of The Disciples](#pericope34)
-1. [Teaching In The Synagogue At Capernaum](#pericope35)
-1. [The Healing Of The Demoniac In The Synagogue](#pericope36)
-1. [The Healing Of Peter's Mother-in-law](#pericope37)
-1. [The Sick Healed At Evening](#pericope38)
-1. [Jesus Departs From Capernaurn](#pericope39)
-1. [First Preaching Tour In Galilee](#pericope40)
-1. [The Miraculous Draught Of Fish](#pericope41)
-1. [The Cleansing Of The Leper](#pericope42)
-1. [The Healing Of The Paralytic](#pericope43)
-1. [The Call Of Levi (matthew)](#pericope44)
-1. [The Question About Fasting](#pericope45)
-1. [Plucking Grain On The Sabbath](#pericope46)
-1. [The Man With The Withered Hand](#pericope47)
-1. [Jesus Heals Multitudes By The Sea](#pericope48)
-1. [The Choosing Of The Twelve](#pericope49)
-1. [Occasion Of The Sermon](#pericope50)
-1. [The Beatitudes](#pericope51)
-1. [The Salt Of The Earth](#pericope52)
-1. [The Light Of The World](#pericope53)
-1. [On The Law And The Prophets](#pericope54)
-1. [On Murder And Wrath](#pericope55)
-1. [On Adultery And Divorce](#pericope56)
-1. [On Oaths](#pericope57)
-1. [On Retaliation](#pericope58)
-1. [On Love Of One's Enemies](#pericope59)
-1. [On Almsgiving](#pericope60)
-1. [On Prayer](#pericope61)
-1. [The Lord's Prayer](#pericope62)
-1. [On Fasting](#pericope63)
-1. [On Treasures](#pericope64)
-1. [The Sound Eye](#pericope65)
-1. [On Serving Two Masters](#pericope66)
-1. [On Anxiety](#pericope67)
-1. [On Judging](#pericope68)
-1. [On Profaning The Holy](#pericope69)
-1. [God's Answering Of Prayer](#pericope70)
-1. [The Golden Rule](#pericope71)
-1. [The Two Ways](#pericope72)
-1. [By Their Fruits](#pericope73)
-1. [Saying Lord, Lord](#pericope74)
-1. [The House Built Upon The Rock](#pericope75)
-1. [The Effect Of The Sermon](#pericope76)
-1. [Occasion Of The Sermon](#pericope77)
-1. [The Beatitudes](#pericope78)
-1. [The Woes](#pericope79)
-1. [On Love Of One's Enemies](#pericope80)
-1. [On Judging](#pericope81)
-1. [By Their Fruits](#pericope82)
-1. [The House Built Upon The Rock](#pericope83)
-1. [Cleansing Of The Leper](#pericope84)
-1. [The Centurion Of Capernaum](#pericope85)
-1. [The Widow's Son At Nain](#pericope86)
-1. [The Healing Of Peter's Mother-in-law](#pericope87)
-1. [The Sick Healed At Evening](#pericope88)
-1. [On Following Jesus](#pericope89)
-1. [Stilling The Storm](#pericope90)
-1. [The Gadarene Demoniacs](#pericope91)
-1. [The Healing Of The Paralytic](#pericope92)
-1. [The Call Of Levi (matthew)](#pericope93)
-1. [The Question About Fasting](#pericope94)
-1. [Jairus' Daughter And The Woman With A Hemorrhage](#pericope95)
-1. [Two Blind Men](#pericope96)
-1. [The Dumb Demoniac](#pericope97)
-1. [The Harvest Is Great](#pericope98)
-1. [Commissioning The Twelve](#pericope99)
-1. [The Fate Of The Disciples](#pericope100)
-1. [Exhortation To Fearless Confession](#pericope101)
-1. [Divisions Within Households](#pericope102)
-1. [Conditions Of Discipleship](#pericope103)
-1. [Rewards Of Discipleship](#pericope104)
-1. [Continuation Of Journey](#pericope105)
-1. [John The Baptist's Question And Jesus' Answer](#pericope106)
-1. [Jesus' Witness Concerning John](#pericope107)
-1. [Woes Pronounced On Galilean Cities](#pericope108)
-1. [Jesus' Thanksgiving To The Father](#pericope109)
-1. [Come Unto Me](#pericope110)
-1. [Plucking Grain On The Sabbath](#pericope111)
-1. [Healing The Withered Hand](#pericope112)
-1. [Jesus Heals Multitudes By The Sea](#pericope113)
-1. [The Woman With The Ointment](#pericope114)
-1. [The Ministering Women](#pericope115)
-1. [Jesus Is Thought To Be Beside Himself](#pericope116)
-1. [On Collusion With Satan](#pericope117)
-1. [The Sin Against The Holy Spirit](#pericope118)
-1. [The Sign Of Jonah](#pericope119)
-1. [The Return Of The Evil Spirit](#pericope120)
-1. [Jesus' True Kindred](#pericope121)
-1. [The Parable Of The Sower](#pericope122)
-1. [The Reason For Speaking In Parables](#pericope123)
-1. [Interpretation Of The Parable Of The Sower](#pericope124)
-1. [He Who Has Ears To Hear, Let Him Hear](#pericope125)
-1. [The Parable Of The Seed Growing Secretly](#pericope126)
-1. [The Parable Of The Tares](#pericope127)
-1. [The Parable Of The Mustard Seed](#pericope128)
-1. [The Parable Of The Leaven](#pericope129)
-1. [Jesus' Use Of Parables](#pericope130)
-1. [Interpretation Of The Parable Of The Tares](#pericope131)
-1. [The Parables Of The Hidden Treasure And Of The Pearl](#pericope132)
-1. [The Parable Of The Net](#pericope133)
-1. [Treasures New And Old](#pericope134)
-1. [Jesus' True Kindred](#pericope135)
-1. [Stilling The Storm](#pericope136)
-1. [The Gerasene Demoniac](#pericope137)
-1. [Jairus' Daughter And The Woman With A Hemorrhage](#pericope138)
-1. [Jesus Is Rejected At Nazareth](#pericope139)
-1. [Second Journey (to Jerusalem)](#pericope140)
-1. [The Healing At The Pool](#pericope141)
-1. [Commissioning The Twelve](#pericope142)
-1. [Opinions Regarding Jesus](#pericope143)
-1. [The Death Of John The Baptist](#pericope144)
-1. [The Return Of The Apostles](#pericope145)
-1. [Five Thousand Are Fed](#pericope146)
-1. [The Walking On The Water](#pericope147)
-1. [Healings At Gennesaret](#pericope148)
-1. [The Bread Of Life](#pericope149)
-1. [Defilement - Traditional And Real](#pericope150)
-1. [The Syrophoenician (canaanite) Woman](#pericope151)
-1. [Jesus Heals A Deaf Mute And Many Others](#pericope152)
-1. [Four Thousand Are Fed](#pericope153)
-1. [The Pharisees Seek A Sign](#pericope154)
-1. [The Leaven Of The Pharisees](#pericope155)
-1. [A Blind Man Is Healed At Bethsaida](#pericope156)
-1. [Many Disciples Take Offense At Jesus](#pericope157)
-1. [Peter's Confession](#pericope158)
-1. [Jesus Foretells His Passion](#pericope159)
-1. [If Any Man Would Come After Me](#pericope160)
-1. [The Transfiguration](#pericope161)
-1. [The Coming Of Elijah](#pericope162)
-1. [Jesus Heals A Boy Possessed By A Spirit](#pericope163)
-1. [Jesus Foretells His Passion Again](#pericope164)
-1. [Payment Of The Temple Tax](#pericope165)
-1. [True Greatness](#pericope166)
-1. [The Strange Exorcist](#pericope167)
-1. [Warnings Concerning Temptations](#pericope168)
-1. [The Parable Of The Lost Sheep](#pericope169)
-1. [On Reproving One's Brother](#pericope170)
-1. [Where Two Or Three Are Gathered Together](#pericope171)
-1. [On Reconciliation](#pericope172)
-1. [The Parable Of The Unforgiving Servant](#pericope173)
-1. [Decision To Go To Jerusalem](#pericope174)
-1. [Jesus Is Rejected By Samaritans](#pericope175)
-1. [On Following Jesus](#pericope176)
-1. [Commissioning The Seventy](#pericope177)
-1. [Woes Pronounced On Galilaean Cities](#pericope178)
-1. [He Who Hears You, Hears Me](#pericope179)
-1. [The Return Of The Seventy](#pericope180)
-1. [Jesus' Thanksgiving To The Father, And The Blessedness Of The Disciples](#pericope181)
-1. [The Lawyer's Question](#pericope182)
-1. [The Parable Of The Good Samaritan](#pericope183)
-1. [Mary And Martha](#pericope184)
-1. [The Lord's Prayer](#pericope185)
-1. [The Importunate Friend At Midnight](#pericope186)
-1. [Encouragement To Pray](#pericope187)
-1. [The Beelzebub Controversy](#pericope188)
-1. [The Return Of The Evil Spirit](#pericope189)
-1. [True Blessedness](#pericope190)
-1. [The Sign Of Jonah](#pericope191)
-1. [Concerning Light](#pericope192)
-1. [The Sound Eye](#pericope193)
-1. [Discourses Against The Pharisees And Lawyers](#pericope194)
-1. [The Leaven Of The Pharisees](#pericope195)
-1. [Exhortation To Fearless Confession](#pericope196)
-1. [The Sin Against The Holy Spirit](#pericope197)
-1. [The Assistance Of The Holy Spirit](#pericope198)
-1. [Warning Against Avarice](#pericope199)
-1. [The Parable Of The Rich Fool](#pericope200)
-1. [Anxieties About Earthly Things](#pericope201)
-1. [Treasures In Heaven](#pericope202)
-1. [Watchfulness And Faithfulness](#pericope203)
-1. [Division In Households](#pericope204)
-1. [Interpreting The Times](#pericope205)
-1. [Agreement With One's Accuser](#pericope206)
-1. [Repentance Or Destruction (the Parable Of The Barren Fig Tree)](#pericope207)
-1. [The Healing Of The Crippled Woman On The Sabbath](#pericope208)
-1. [The Parable Of The Mustard Seed](#pericope209)
-1. [The Parable Of The Leaven](#pericope210)
-1. [Exclusion From The Kingdom](#pericope211)
-1. [A Warning Against Herod](#pericope212)
-1. [The Lament Over Jerusalem](#pericope213)
-1. [The Healing Of The Man With Dropsy](#pericope214)
-1. [Teaching On Humility](#pericope215)
-1. [The Parable Of The Great Supper](#pericope216)
-1. [The Conditions Of Discipleship](#pericope217)
-1. [The Parable Of Salt](#pericope218)
-1. [The Parable Of The Lost Sheep](#pericope219)
-1. [The Parable Of The Lost Coin](#pericope220)
-1. [The Parable Of The Prodigal Son](#pericope221)
-1. [The Parable Of The Unjust Steward](#pericope222)
-1. [On Faithfulness In What Is Least](#pericope223)
-1. [On Serving Two Masters](#pericope224)
-1. [The Pharisees Reproved](#pericope225)
-1. [Concerning The Law](#pericope226)
-1. [Concerning Divorce](#pericope227)
-1. [The Parable Of The Rich Man And Lazarus](#pericope228)
-1. [Warning Against Offenses](#pericope229)
-1. [On Forgiveness](#pericope230)
-1. [On Faith](#pericope231)
-1. [We Are Unprofitable Servants](#pericope232)
-1. [The Cleansing Of The Ten Lepers](#pericope233)
-1. [On The Coming Of The Kingdom Of God](#pericope234)
-1. [The Day Of The Son Of Man](#pericope235)
-1. [The Parable Of The Unjust Judge](#pericope236)
-1. [The Pharisee And The Publican](#pericope237)
-1. [Jesus Remains In Galilee](#pericope238)
-1. [Journey To Jerusalem In Secret](#pericope239)
-1. [Teaching In The Temple](#pericope240)
-1. [Division Among The People Regarding Jesus](#pericope241)
-1. [The Woman Caught In Adultery](#pericope242)
-1. [I Am The Light Of The World](#pericope243)
-1. [Discussion With The Jews](#pericope244)
-1. [The Truth Will Make You Free](#pericope245)
-1. [Children Of The Devil](#pericope246)
-1. [Before Abraham Was, I Am](#pericope247)
-1. [Jesus Heals The Man Born Blind](#pericope248)
-1. [I Am The Good Shepherd](#pericope249)
-1. [Division Among The Jews Again](#pericope250)
-1. [Departure To Judea](#pericope251)
-1. [On Divorce And Celibacy](#pericope252)
-1. [Jesus Blesses The Children](#pericope253)
-1. [The Rich Young Man](#pericope254)
-1. [On Riches And The Rewards Of Discipleship](#pericope255)
-1. [The Parable Of The Laborers In The Vineyard](#pericope256)
-1. [Jesus At The Feast Of Dedication In Jerusalem](#pericope257)
-1. [Jesus Withdraws Across The Jordan](#pericope258)
-1. [The Raising Of Lazarus](#pericope259)
-1. [The Chief Priests And Pharisees Take Counsel Against Jesus](#pericope260)
-1. [Jesus Retires To Ephraim](#pericope261)
-1. [The Third Prediction Of The Passion](#pericope262)
-1. [The Sons Of Zebedee; Precedence Among The Disciples](#pericope263)
-1. [The Healing Of The Blind Men (bartimaeus)](#pericope264)
-1. [Zacchaeus](#pericope265)
-1. [The Parable Of The Pounds](#pericope266)
-1. [The Anointing At Bethany](#pericope267)
-1. [The Plot Against Lazarus](#pericope268)
-1. [The Triumphal Entry](#pericope269)
-1. [Jesus Weeps Over Jerusalem](#pericope270)
-1. [Jesus In Jerusalem (cleansing The Temple), Return To Bethany](#pericope271)
-1. [The Cursing Of The Fig Tree](#pericope272)
-1. [The Cleansing Of The Temple](#pericope273)
-1. [The Chief Priests And Scribes Conspire Against Jesus](#pericope274)
-1. [The Fig Tree Is Withered](#pericope275)
-1. [The Question About Authority](#pericope276)
-1. [The Parable Of The Two Sons](#pericope277)
-1. [The Parable Of The Wicked Husbandmen](#pericope278)
-1. [The Parable Of The Great Supper](#pericope279)
-1. [On Paying Tribute To Caesar](#pericope280)
-1. [The Question About The Resurrection](#pericope281)
-1. [The Great Commandment](#pericope282)
-1. [The Question About David's Son](#pericope283)
-1. [Woe To The Scribes And Pharisees](#pericope284)
-1. [Jesus' Lament Over Jerusalem](#pericope285)
-1. [The Widow's Mite](#pericope286)
-1. [Prediction Of The Destruction Of The Temple](#pericope287)
-1. [Signs Before The End](#pericope288)
-1. [Persecutions Foretold](#pericope289)
-1. [The Desolating Sacrilege](#pericope290)
-1. [False Christs And False Prophets](#pericope291)
-1. [The Coming Of The Son Of Man](#pericope292)
-1. [The Time Of The Coming: The Parable Of The Fig Tree](#pericope293)
-1. [Conclusion: "take Heed, Watch!" (according To Mark)](#pericope294)
-1. [Conclusion: "take Heed, Watch!" (according To Luke)](#pericope295)
-1. [The Parable Of The Flood And Exhortation To Watchfulness](#pericope296)
-1. [The Parable Of The Good Servant And The Wicked Servant](#pericope297)
-1. [The Parable Of The Ten Virgins](#pericope298)
-1. [The Parable Of The Talents](#pericope299)
-1. [The Last Judgment](#pericope300)
-1. [The Ministry Of Jesus In Jerusalem](#pericope301)
-1. [Greeks Seek Jesus; Discourse On His Death](#pericope302)
-1. [The Unbelief Of The People](#pericope303)
-1. [Judgment By The Word](#pericope304)
-1. [Jesus' Death Is Premeditated](#pericope305)
-1. [The Anointing In Bethany](#pericope306)
-1. [The Betrayal By Judas](#pericope307)
-1. [Preparation For The Passover](#pericope308)
-1. [Washing The Disciples' Feet](#pericope309)
-1. [Jesus Foretells His Betrayal](#pericope310)
-1. [The Last Supper](#pericope311)
-1. [Jesus Foretells His Betrayal](#pericope312)
-1. [Precedence Among The Disciples And The Reward Of Discipleship](#pericope313)
-1. [The New Commandment Of Love](#pericope314)
-1. [Peter's Denial Predicted](#pericope315)
-1. [The Two Swords](#pericope316)
-1. [Let Not Your Hearts Be Troubled](#pericope317)
-1. [The Promise Of The Paraclete](#pericope318)
-1. [The Gift Of Peace](#pericope319)
-1. [Jesus The True Vine](#pericope320)
-1. [Abide In My Love](#pericope321)
-1. [The World's Hatred](#pericope322)
-1. [The Witness Of The Paraclete](#pericope323)
-1. [On Persecutions](#pericope324)
-1. [The Work Of The Paraclete](#pericope325)
-1. [Sorrow Turned To Joy](#pericope326)
-1. [Prayer In The Name Of Jesus](#pericope327)
-1. [Prediction Of The Disciples' Flight](#pericope328)
-1. [The Intercessory Prayer](#pericope329)
-1. [Gethsemane](#pericope330)
-1. [Jesus Arrested](#pericope331)
-1. [Jesus Before The Sanhedrin (peter's Denial)](#pericope332)
-1. [Peter's Denial](#pericope333)
-1. [Jesus Delivered To Pilate](#pericope334)
-1. [The Death Of Judas](#pericope335)
-1. [The Trial Before Pilate](#pericope336)
-1. [Jesus Before Herod](#pericope337)
-1. [Pilate Declares Jesus Innocent](#pericope338)
-1. [Jesus Or Barabbas?](#pericope339)
-1. [Behold The Man!](#pericope340)
-1. [Pilate Delivers Jesus To Be Crucified](#pericope341)
-1. [Jesus Mocked By The Soldiers](#pericope342)
-1. [The Road To Golgotha](#pericope343)
-1. [The Crucifixion](#pericope344)
-1. [Jesus Derided On The Cross](#pericope345)
-1. [The Two Thieves](#pericope346)
-1. [The Death Of Jesus](#pericope347)
-1. [Witnesses Of The Crucifixion](#pericope348)
-1. [Jesus' Side Pierced](#pericope349)
-1. [The Burial Of Jesus](#pericope350)
-1. [The Guard At The Tomb](#pericope351)
-1. [The Women At The Tomb](#pericope352)
-1. [Jesus Appears To The Women](#pericope353)
-1. [The Report Of The Guard](#pericope354)
-1. [Jesus Appears To Two On The Way To Emmaus](#pericope355)
-1. [Jesus Appears To His Disciples (thomas Being Absent)](#pericope356)
-1. [Jesus Appears To His Disciples (thomas Being Present)](#pericope357)
-1. [Jesus Appears To The Eleven While They Sit At Table](#pericope358)
-1. [Jesus Appears To The Eleven On A Mountain In Galilee](#pericope359)
-1. [Jesus Appears To His Disciples By The Sea Of Tiberias](#pericope360)
-1. [Paul's Account Of The Appearances Of Jesus](#pericope361)
-1. [The Longer Ending Of Mark](#pericope362)
-1. [The Ending Of Matthew: The Great Commission](#pericope363)
-1. [The Ending Of Luke: Jesus' Last Words And Ascension](#pericope364)
-1. [The Ending Of John](#pericope365)
-1. [The Appendix To John: Jesus At The Sea Of Tiberias.](#pericope366)
+1. [Prologue](#pericope1)<a name="pericope1toc"></a>
+1. [The Promise Of The Birth Of John The Baptist](#pericope2)<a name="pericope2toc"></a>
+1. [The Annunciation](#pericope3)<a name="pericope3toc"></a>
+1. [Mary's Visit To Elizabeth](#pericope4)<a name="pericope4toc"></a>
+1. [The Birth Of John The Baptist](#pericope5)<a name="pericope5toc"></a>
+1. [The Genealogy Of Jesus](#pericope6)<a name="pericope6toc"></a>
+1. [The Birth Of Jesus](#pericope7)<a name="pericope7toc"></a>
+1. [The Adoration Of The Infant Jesus](#pericope8)<a name="pericope8toc"></a>
+1. [The Circumcision And Presentation In The Temple](#pericope9)<a name="pericope9toc"></a>
+1. [The Flight Into Egypt And Return](#pericope10)<a name="pericope10toc"></a>
+1. [The Childhood Of Jesus At Nazareth](#pericope11)<a name="pericope11toc"></a>
+1. [The Boy Jesus In The Temple](#pericope12)<a name="pericope12toc"></a>
+1. [John The Baptist](#pericope13)<a name="pericope13toc"></a>
+1. [John's Preaching Of Repentance](#pericope14)<a name="pericope14toc"></a>
+1. [John Replies To Questioners](#pericope15)<a name="pericope15toc"></a>
+1. [John's Messianic Preaching](#pericope16)<a name="pericope16toc"></a>
+1. [The Imprisonment Of John](#pericope17)<a name="pericope17toc"></a>
+1. [The Baptism Of Jesus](#pericope18)<a name="pericope18toc"></a>
+1. [The Genealogy Of Jesus](#pericope19)<a name="pericope19toc"></a>
+1. [The Temptation](#pericope20)<a name="pericope20toc"></a>
+1. [The Call Of The First Disciples](#pericope21)<a name="pericope21toc"></a>
+1. [The Marriage At Cana](#pericope22)<a name="pericope22toc"></a>
+1. [The Sojourn At Capernaum](#pericope23)<a name="pericope23toc"></a>
+1. [The First Journey To Jerusalem](#pericope24)<a name="pericope24toc"></a>
+1. [The Cleansing Of The Temple](#pericope25)<a name="pericope25toc"></a>
+1. [Jesus' Ministry In Jerusalem](#pericope26)<a name="pericope26toc"></a>
+1. [The Discourse With Nicodemus](#pericope27)<a name="pericope27toc"></a>
+1. [Jesus' Ministry In Judea](#pericope28)<a name="pericope28toc"></a>
+1. [John's Testimony To Christ](#pericope29)<a name="pericope29toc"></a>
+1. [The Journey Into Galilee](#pericope30)<a name="pericope30toc"></a>
+1. [The Discourse With The Woman Of Samaria](#pericope31)<a name="pericope31toc"></a>
+1. [Ministry In Galilee](#pericope32)<a name="pericope32toc"></a>
+1. [Jesus' Preaching At Nazareth](#pericope33)<a name="pericope33toc"></a>
+1. [The Call Of The Disciples](#pericope34)<a name="pericope34toc"></a>
+1. [Teaching In The Synagogue At Capernaum](#pericope35)<a name="pericope35toc"></a>
+1. [The Healing Of The Demoniac In The Synagogue](#pericope36)<a name="pericope36toc"></a>
+1. [The Healing Of Peter's Mother-in-law](#pericope37)<a name="pericope37toc"></a>
+1. [The Sick Healed At Evening](#pericope38)<a name="pericope38toc"></a>
+1. [Jesus Departs From Capernaurn](#pericope39)<a name="pericope39toc"></a>
+1. [First Preaching Tour In Galilee](#pericope40)<a name="pericope40toc"></a>
+1. [The Miraculous Draught Of Fish](#pericope41)<a name="pericope41toc"></a>
+1. [The Cleansing Of The Leper](#pericope42)<a name="pericope42toc"></a>
+1. [The Healing Of The Paralytic](#pericope43)<a name="pericope43toc"></a>
+1. [The Call Of Levi (matthew)](#pericope44)<a name="pericope44toc"></a>
+1. [The Question About Fasting](#pericope45)<a name="pericope45toc"></a>
+1. [Plucking Grain On The Sabbath](#pericope46)<a name="pericope46toc"></a>
+1. [The Man With The Withered Hand](#pericope47)<a name="pericope47toc"></a>
+1. [Jesus Heals Multitudes By The Sea](#pericope48)<a name="pericope48toc"></a>
+1. [The Choosing Of The Twelve](#pericope49)<a name="pericope49toc"></a>
+1. [Occasion Of The Sermon](#pericope50)<a name="pericope50toc"></a>
+1. [The Beatitudes](#pericope51)<a name="pericope51toc"></a>
+1. [The Salt Of The Earth](#pericope52)<a name="pericope52toc"></a>
+1. [The Light Of The World](#pericope53)<a name="pericope53toc"></a>
+1. [On The Law And The Prophets](#pericope54)<a name="pericope54toc"></a>
+1. [On Murder And Wrath](#pericope55)<a name="pericope55toc"></a>
+1. [On Adultery And Divorce](#pericope56)<a name="pericope56toc"></a>
+1. [On Oaths](#pericope57)<a name="pericope57toc"></a>
+1. [On Retaliation](#pericope58)<a name="pericope58toc"></a>
+1. [On Love Of One's Enemies](#pericope59)<a name="pericope59toc"></a>
+1. [On Almsgiving](#pericope60)<a name="pericope60toc"></a>
+1. [On Prayer](#pericope61)<a name="pericope61toc"></a>
+1. [The Lord's Prayer](#pericope62)<a name="pericope62toc"></a>
+1. [On Fasting](#pericope63)<a name="pericope63toc"></a>
+1. [On Treasures](#pericope64)<a name="pericope64toc"></a>
+1. [The Sound Eye](#pericope65)<a name="pericope65toc"></a>
+1. [On Serving Two Masters](#pericope66)<a name="pericope66toc"></a>
+1. [On Anxiety](#pericope67)<a name="pericope67toc"></a>
+1. [On Judging](#pericope68)<a name="pericope68toc"></a>
+1. [On Profaning The Holy](#pericope69)<a name="pericope69toc"></a>
+1. [God's Answering Of Prayer](#pericope70)<a name="pericope70toc"></a>
+1. [The Golden Rule](#pericope71)<a name="pericope71toc"></a>
+1. [The Two Ways](#pericope72)<a name="pericope72toc"></a>
+1. [By Their Fruits](#pericope73)<a name="pericope73toc"></a>
+1. [Saying Lord, Lord](#pericope74)<a name="pericope74toc"></a>
+1. [The House Built Upon The Rock](#pericope75)<a name="pericope75toc"></a>
+1. [The Effect Of The Sermon](#pericope76)<a name="pericope76toc"></a>
+1. [Occasion Of The Sermon](#pericope77)<a name="pericope77toc"></a>
+1. [The Beatitudes](#pericope78)<a name="pericope78toc"></a>
+1. [The Woes](#pericope79)<a name="pericope79toc"></a>
+1. [On Love Of One's Enemies](#pericope80)<a name="pericope80toc"></a>
+1. [On Judging](#pericope81)<a name="pericope81toc"></a>
+1. [By Their Fruits](#pericope82)<a name="pericope82toc"></a>
+1. [The House Built Upon The Rock](#pericope83)<a name="pericope83toc"></a>
+1. [Cleansing Of The Leper](#pericope84)<a name="pericope84toc"></a>
+1. [The Centurion Of Capernaum](#pericope85)<a name="pericope85toc"></a>
+1. [The Widow's Son At Nain](#pericope86)<a name="pericope86toc"></a>
+1. [The Healing Of Peter's Mother-in-law](#pericope87)<a name="pericope87toc"></a>
+1. [The Sick Healed At Evening](#pericope88)<a name="pericope88toc"></a>
+1. [On Following Jesus](#pericope89)<a name="pericope89toc"></a>
+1. [Stilling The Storm](#pericope90)<a name="pericope90toc"></a>
+1. [The Gadarene Demoniacs](#pericope91)<a name="pericope91toc"></a>
+1. [The Healing Of The Paralytic](#pericope92)<a name="pericope92toc"></a>
+1. [The Call Of Levi (matthew)](#pericope93)<a name="pericope93toc"></a>
+1. [The Question About Fasting](#pericope94)<a name="pericope94toc"></a>
+1. [Jairus' Daughter And The Woman With A Hemorrhage](#pericope95)<a name="pericope95toc"></a>
+1. [Two Blind Men](#pericope96)<a name="pericope96toc"></a>
+1. [The Dumb Demoniac](#pericope97)<a name="pericope97toc"></a>
+1. [The Harvest Is Great](#pericope98)<a name="pericope98toc"></a>
+1. [Commissioning The Twelve](#pericope99)<a name="pericope99toc"></a>
+1. [The Fate Of The Disciples](#pericope100)<a name="pericope100toc"></a>
+1. [Exhortation To Fearless Confession](#pericope101)<a name="pericope101toc"></a>
+1. [Divisions Within Households](#pericope102)<a name="pericope102toc"></a>
+1. [Conditions Of Discipleship](#pericope103)<a name="pericope103toc"></a>
+1. [Rewards Of Discipleship](#pericope104)<a name="pericope104toc"></a>
+1. [Continuation Of Journey](#pericope105)<a name="pericope105toc"></a>
+1. [John The Baptist's Question And Jesus' Answer](#pericope106)<a name="pericope106toc"></a>
+1. [Jesus' Witness Concerning John](#pericope107)<a name="pericope107toc"></a>
+1. [Woes Pronounced On Galilean Cities](#pericope108)<a name="pericope108toc"></a>
+1. [Jesus' Thanksgiving To The Father](#pericope109)<a name="pericope109toc"></a>
+1. [Come Unto Me](#pericope110)<a name="pericope110toc"></a>
+1. [Plucking Grain On The Sabbath](#pericope111)<a name="pericope111toc"></a>
+1. [Healing The Withered Hand](#pericope112)<a name="pericope112toc"></a>
+1. [Jesus Heals Multitudes By The Sea](#pericope113)<a name="pericope113toc"></a>
+1. [The Woman With The Ointment](#pericope114)<a name="pericope114toc"></a>
+1. [The Ministering Women](#pericope115)<a name="pericope115toc"></a>
+1. [Jesus Is Thought To Be Beside Himself](#pericope116)<a name="pericope116toc"></a>
+1. [On Collusion With Satan](#pericope117)<a name="pericope117toc"></a>
+1. [The Sin Against The Holy Spirit](#pericope118)<a name="pericope118toc"></a>
+1. [The Sign Of Jonah](#pericope119)<a name="pericope119toc"></a>
+1. [The Return Of The Evil Spirit](#pericope120)<a name="pericope120toc"></a>
+1. [Jesus' True Kindred](#pericope121)<a name="pericope121toc"></a>
+1. [The Parable Of The Sower](#pericope122)<a name="pericope122toc"></a>
+1. [The Reason For Speaking In Parables](#pericope123)<a name="pericope123toc"></a>
+1. [Interpretation Of The Parable Of The Sower](#pericope124)<a name="pericope124toc"></a>
+1. [He Who Has Ears To Hear, Let Him Hear](#pericope125)<a name="pericope125toc"></a>
+1. [The Parable Of The Seed Growing Secretly](#pericope126)<a name="pericope126toc"></a>
+1. [The Parable Of The Tares](#pericope127)<a name="pericope127toc"></a>
+1. [The Parable Of The Mustard Seed](#pericope128)<a name="pericope128toc"></a>
+1. [The Parable Of The Leaven](#pericope129)<a name="pericope129toc"></a>
+1. [Jesus' Use Of Parables](#pericope130)<a name="pericope130toc"></a>
+1. [Interpretation Of The Parable Of The Tares](#pericope131)<a name="pericope131toc"></a>
+1. [The Parables Of The Hidden Treasure And Of The Pearl](#pericope132)<a name="pericope132toc"></a>
+1. [The Parable Of The Net](#pericope133)<a name="pericope133toc"></a>
+1. [Treasures New And Old](#pericope134)<a name="pericope134toc"></a>
+1. [Jesus' True Kindred](#pericope135)<a name="pericope135toc"></a>
+1. [Stilling The Storm](#pericope136)<a name="pericope136toc"></a>
+1. [The Gerasene Demoniac](#pericope137)<a name="pericope137toc"></a>
+1. [Jairus' Daughter And The Woman With A Hemorrhage](#pericope138)<a name="pericope138toc"></a>
+1. [Jesus Is Rejected At Nazareth](#pericope139)<a name="pericope139toc"></a>
+1. [Second Journey (to Jerusalem)](#pericope140)<a name="pericope140toc"></a>
+1. [The Healing At The Pool](#pericope141)<a name="pericope141toc"></a>
+1. [Commissioning The Twelve](#pericope142)<a name="pericope142toc"></a>
+1. [Opinions Regarding Jesus](#pericope143)<a name="pericope143toc"></a>
+1. [The Death Of John The Baptist](#pericope144)<a name="pericope144toc"></a>
+1. [The Return Of The Apostles](#pericope145)<a name="pericope145toc"></a>
+1. [Five Thousand Are Fed](#pericope146)<a name="pericope146toc"></a>
+1. [The Walking On The Water](#pericope147)<a name="pericope147toc"></a>
+1. [Healings At Gennesaret](#pericope148)<a name="pericope148toc"></a>
+1. [The Bread Of Life](#pericope149)<a name="pericope149toc"></a>
+1. [Defilement - Traditional And Real](#pericope150)<a name="pericope150toc"></a>
+1. [The Syrophoenician (canaanite) Woman](#pericope151)<a name="pericope151toc"></a>
+1. [Jesus Heals A Deaf Mute And Many Others](#pericope152)<a name="pericope152toc"></a>
+1. [Four Thousand Are Fed](#pericope153)<a name="pericope153toc"></a>
+1. [The Pharisees Seek A Sign](#pericope154)<a name="pericope154toc"></a>
+1. [The Leaven Of The Pharisees](#pericope155)<a name="pericope155toc"></a>
+1. [A Blind Man Is Healed At Bethsaida](#pericope156)<a name="pericope156toc"></a>
+1. [Many Disciples Take Offense At Jesus](#pericope157)<a name="pericope157toc"></a>
+1. [Peter's Confession](#pericope158)<a name="pericope158toc"></a>
+1. [Jesus Foretells His Passion](#pericope159)<a name="pericope159toc"></a>
+1. [If Any Man Would Come After Me](#pericope160)<a name="pericope160toc"></a>
+1. [The Transfiguration](#pericope161)<a name="pericope161toc"></a>
+1. [The Coming Of Elijah](#pericope162)<a name="pericope162toc"></a>
+1. [Jesus Heals A Boy Possessed By A Spirit](#pericope163)<a name="pericope163toc"></a>
+1. [Jesus Foretells His Passion Again](#pericope164)<a name="pericope164toc"></a>
+1. [Payment Of The Temple Tax](#pericope165)<a name="pericope165toc"></a>
+1. [True Greatness](#pericope166)<a name="pericope166toc"></a>
+1. [The Strange Exorcist](#pericope167)<a name="pericope167toc"></a>
+1. [Warnings Concerning Temptations](#pericope168)<a name="pericope168toc"></a>
+1. [The Parable Of The Lost Sheep](#pericope169)<a name="pericope169toc"></a>
+1. [On Reproving One's Brother](#pericope170)<a name="pericope170toc"></a>
+1. [Where Two Or Three Are Gathered Together](#pericope171)<a name="pericope171toc"></a>
+1. [On Reconciliation](#pericope172)<a name="pericope172toc"></a>
+1. [The Parable Of The Unforgiving Servant](#pericope173)<a name="pericope173toc"></a>
+1. [Decision To Go To Jerusalem](#pericope174)<a name="pericope174toc"></a>
+1. [Jesus Is Rejected By Samaritans](#pericope175)<a name="pericope175toc"></a>
+1. [On Following Jesus](#pericope176)<a name="pericope176toc"></a>
+1. [Commissioning The Seventy](#pericope177)<a name="pericope177toc"></a>
+1. [Woes Pronounced On Galilaean Cities](#pericope178)<a name="pericope178toc"></a>
+1. [He Who Hears You, Hears Me](#pericope179)<a name="pericope179toc"></a>
+1. [The Return Of The Seventy](#pericope180)<a name="pericope180toc"></a>
+1. [Jesus' Thanksgiving To The Father, And The Blessedness Of The Disciples](#pericope181)<a name="pericope181toc"></a>
+1. [The Lawyer's Question](#pericope182)<a name="pericope182toc"></a>
+1. [The Parable Of The Good Samaritan](#pericope183)<a name="pericope183toc"></a>
+1. [Mary And Martha](#pericope184)<a name="pericope184toc"></a>
+1. [The Lord's Prayer](#pericope185)<a name="pericope185toc"></a>
+1. [The Importunate Friend At Midnight](#pericope186)<a name="pericope186toc"></a>
+1. [Encouragement To Pray](#pericope187)<a name="pericope187toc"></a>
+1. [The Beelzebub Controversy](#pericope188)<a name="pericope188toc"></a>
+1. [The Return Of The Evil Spirit](#pericope189)<a name="pericope189toc"></a>
+1. [True Blessedness](#pericope190)<a name="pericope190toc"></a>
+1. [The Sign Of Jonah](#pericope191)<a name="pericope191toc"></a>
+1. [Concerning Light](#pericope192)<a name="pericope192toc"></a>
+1. [The Sound Eye](#pericope193)<a name="pericope193toc"></a>
+1. [Discourses Against The Pharisees And Lawyers](#pericope194)<a name="pericope194toc"></a>
+1. [The Leaven Of The Pharisees](#pericope195)<a name="pericope195toc"></a>
+1. [Exhortation To Fearless Confession](#pericope196)<a name="pericope196toc"></a>
+1. [The Sin Against The Holy Spirit](#pericope197)<a name="pericope197toc"></a>
+1. [The Assistance Of The Holy Spirit](#pericope198)<a name="pericope198toc"></a>
+1. [Warning Against Avarice](#pericope199)<a name="pericope199toc"></a>
+1. [The Parable Of The Rich Fool](#pericope200)<a name="pericope200toc"></a>
+1. [Anxieties About Earthly Things](#pericope201)<a name="pericope201toc"></a>
+1. [Treasures In Heaven](#pericope202)<a name="pericope202toc"></a>
+1. [Watchfulness And Faithfulness](#pericope203)<a name="pericope203toc"></a>
+1. [Division In Households](#pericope204)<a name="pericope204toc"></a>
+1. [Interpreting The Times](#pericope205)<a name="pericope205toc"></a>
+1. [Agreement With One's Accuser](#pericope206)<a name="pericope206toc"></a>
+1. [Repentance Or Destruction (the Parable Of The Barren Fig Tree)](#pericope207)<a name="pericope207toc"></a>
+1. [The Healing Of The Crippled Woman On The Sabbath](#pericope208)<a name="pericope208toc"></a>
+1. [The Parable Of The Mustard Seed](#pericope209)<a name="pericope209toc"></a>
+1. [The Parable Of The Leaven](#pericope210)<a name="pericope210toc"></a>
+1. [Exclusion From The Kingdom](#pericope211)<a name="pericope211toc"></a>
+1. [A Warning Against Herod](#pericope212)<a name="pericope212toc"></a>
+1. [The Lament Over Jerusalem](#pericope213)<a name="pericope213toc"></a>
+1. [The Healing Of The Man With Dropsy](#pericope214)<a name="pericope214toc"></a>
+1. [Teaching On Humility](#pericope215)<a name="pericope215toc"></a>
+1. [The Parable Of The Great Supper](#pericope216)<a name="pericope216toc"></a>
+1. [The Conditions Of Discipleship](#pericope217)<a name="pericope217toc"></a>
+1. [The Parable Of Salt](#pericope218)<a name="pericope218toc"></a>
+1. [The Parable Of The Lost Sheep](#pericope219)<a name="pericope219toc"></a>
+1. [The Parable Of The Lost Coin](#pericope220)<a name="pericope220toc"></a>
+1. [The Parable Of The Prodigal Son](#pericope221)<a name="pericope221toc"></a>
+1. [The Parable Of The Unjust Steward](#pericope222)<a name="pericope222toc"></a>
+1. [On Faithfulness In What Is Least](#pericope223)<a name="pericope223toc"></a>
+1. [On Serving Two Masters](#pericope224)<a name="pericope224toc"></a>
+1. [The Pharisees Reproved](#pericope225)<a name="pericope225toc"></a>
+1. [Concerning The Law](#pericope226)<a name="pericope226toc"></a>
+1. [Concerning Divorce](#pericope227)<a name="pericope227toc"></a>
+1. [The Parable Of The Rich Man And Lazarus](#pericope228)<a name="pericope228toc"></a>
+1. [Warning Against Offenses](#pericope229)<a name="pericope229toc"></a>
+1. [On Forgiveness](#pericope230)<a name="pericope230toc"></a>
+1. [On Faith](#pericope231)<a name="pericope231toc"></a>
+1. [We Are Unprofitable Servants](#pericope232)<a name="pericope232toc"></a>
+1. [The Cleansing Of The Ten Lepers](#pericope233)<a name="pericope233toc"></a>
+1. [On The Coming Of The Kingdom Of God](#pericope234)<a name="pericope234toc"></a>
+1. [The Day Of The Son Of Man](#pericope235)<a name="pericope235toc"></a>
+1. [The Parable Of The Unjust Judge](#pericope236)<a name="pericope236toc"></a>
+1. [The Pharisee And The Publican](#pericope237)<a name="pericope237toc"></a>
+1. [Jesus Remains In Galilee](#pericope238)<a name="pericope238toc"></a>
+1. [Journey To Jerusalem In Secret](#pericope239)<a name="pericope239toc"></a>
+1. [Teaching In The Temple](#pericope240)<a name="pericope240toc"></a>
+1. [Division Among The People Regarding Jesus](#pericope241)<a name="pericope241toc"></a>
+1. [The Woman Caught In Adultery](#pericope242)<a name="pericope242toc"></a>
+1. [I Am The Light Of The World](#pericope243)<a name="pericope243toc"></a>
+1. [Discussion With The Jews](#pericope244)<a name="pericope244toc"></a>
+1. [The Truth Will Make You Free](#pericope245)<a name="pericope245toc"></a>
+1. [Children Of The Devil](#pericope246)<a name="pericope246toc"></a>
+1. [Before Abraham Was, I Am](#pericope247)<a name="pericope247toc"></a>
+1. [Jesus Heals The Man Born Blind](#pericope248)<a name="pericope248toc"></a>
+1. [I Am The Good Shepherd](#pericope249)<a name="pericope249toc"></a>
+1. [Division Among The Jews Again](#pericope250)<a name="pericope250toc"></a>
+1. [Departure To Judea](#pericope251)<a name="pericope251toc"></a>
+1. [On Divorce And Celibacy](#pericope252)<a name="pericope252toc"></a>
+1. [Jesus Blesses The Children](#pericope253)<a name="pericope253toc"></a>
+1. [The Rich Young Man](#pericope254)<a name="pericope254toc"></a>
+1. [On Riches And The Rewards Of Discipleship](#pericope255)<a name="pericope255toc"></a>
+1. [The Parable Of The Laborers In The Vineyard](#pericope256)<a name="pericope256toc"></a>
+1. [Jesus At The Feast Of Dedication In Jerusalem](#pericope257)<a name="pericope257toc"></a>
+1. [Jesus Withdraws Across The Jordan](#pericope258)<a name="pericope258toc"></a>
+1. [The Raising Of Lazarus](#pericope259)<a name="pericope259toc"></a>
+1. [The Chief Priests And Pharisees Take Counsel Against Jesus](#pericope260)<a name="pericope260toc"></a>
+1. [Jesus Retires To Ephraim](#pericope261)<a name="pericope261toc"></a>
+1. [The Third Prediction Of The Passion](#pericope262)<a name="pericope262toc"></a>
+1. [The Sons Of Zebedee; Precedence Among The Disciples](#pericope263)<a name="pericope263toc"></a>
+1. [The Healing Of The Blind Men (bartimaeus)](#pericope264)<a name="pericope264toc"></a>
+1. [Zacchaeus](#pericope265)<a name="pericope265toc"></a>
+1. [The Parable Of The Pounds](#pericope266)<a name="pericope266toc"></a>
+1. [The Anointing At Bethany](#pericope267)<a name="pericope267toc"></a>
+1. [The Plot Against Lazarus](#pericope268)<a name="pericope268toc"></a>
+1. [The Triumphal Entry](#pericope269)<a name="pericope269toc"></a>
+1. [Jesus Weeps Over Jerusalem](#pericope270)<a name="pericope270toc"></a>
+1. [Jesus In Jerusalem (cleansing The Temple), Return To Bethany](#pericope271)<a name="pericope271toc"></a>
+1. [The Cursing Of The Fig Tree](#pericope272)<a name="pericope272toc"></a>
+1. [The Cleansing Of The Temple](#pericope273)<a name="pericope273toc"></a>
+1. [The Chief Priests And Scribes Conspire Against Jesus](#pericope274)<a name="pericope274toc"></a>
+1. [The Fig Tree Is Withered](#pericope275)<a name="pericope275toc"></a>
+1. [The Question About Authority](#pericope276)<a name="pericope276toc"></a>
+1. [The Parable Of The Two Sons](#pericope277)<a name="pericope277toc"></a>
+1. [The Parable Of The Wicked Husbandmen](#pericope278)<a name="pericope278toc"></a>
+1. [The Parable Of The Great Supper](#pericope279)<a name="pericope279toc"></a>
+1. [On Paying Tribute To Caesar](#pericope280)<a name="pericope280toc"></a>
+1. [The Question About The Resurrection](#pericope281)<a name="pericope281toc"></a>
+1. [The Great Commandment](#pericope282)<a name="pericope282toc"></a>
+1. [The Question About David's Son](#pericope283)<a name="pericope283toc"></a>
+1. [Woe To The Scribes And Pharisees](#pericope284)<a name="pericope284toc"></a>
+1. [Jesus' Lament Over Jerusalem](#pericope285)<a name="pericope285toc"></a>
+1. [The Widow's Mite](#pericope286)<a name="pericope286toc"></a>
+1. [Prediction Of The Destruction Of The Temple](#pericope287)<a name="pericope287toc"></a>
+1. [Signs Before The End](#pericope288)<a name="pericope288toc"></a>
+1. [Persecutions Foretold](#pericope289)<a name="pericope289toc"></a>
+1. [The Desolating Sacrilege](#pericope290)<a name="pericope290toc"></a>
+1. [False Christs And False Prophets](#pericope291)<a name="pericope291toc"></a>
+1. [The Coming Of The Son Of Man](#pericope292)<a name="pericope292toc"></a>
+1. [The Time Of The Coming: The Parable Of The Fig Tree](#pericope293)<a name="pericope293toc"></a>
+1. [Conclusion: "take Heed, Watch!" (according To Mark)](#pericope294)<a name="pericope294toc"></a>
+1. [Conclusion: "take Heed, Watch!" (according To Luke)](#pericope295)<a name="pericope295toc"></a>
+1. [The Parable Of The Flood And Exhortation To Watchfulness](#pericope296)<a name="pericope296toc"></a>
+1. [The Parable Of The Good Servant And The Wicked Servant](#pericope297)<a name="pericope297toc"></a>
+1. [The Parable Of The Ten Virgins](#pericope298)<a name="pericope298toc"></a>
+1. [The Parable Of The Talents](#pericope299)<a name="pericope299toc"></a>
+1. [The Last Judgment](#pericope300)<a name="pericope300toc"></a>
+1. [The Ministry Of Jesus In Jerusalem](#pericope301)<a name="pericope301toc"></a>
+1. [Greeks Seek Jesus; Discourse On His Death](#pericope302)<a name="pericope302toc"></a>
+1. [The Unbelief Of The People](#pericope303)<a name="pericope303toc"></a>
+1. [Judgment By The Word](#pericope304)<a name="pericope304toc"></a>
+1. [Jesus' Death Is Premeditated](#pericope305)<a name="pericope305toc"></a>
+1. [The Anointing In Bethany](#pericope306)<a name="pericope306toc"></a>
+1. [The Betrayal By Judas](#pericope307)<a name="pericope307toc"></a>
+1. [Preparation For The Passover](#pericope308)<a name="pericope308toc"></a>
+1. [Washing The Disciples' Feet](#pericope309)<a name="pericope309toc"></a>
+1. [Jesus Foretells His Betrayal](#pericope310)<a name="pericope310toc"></a>
+1. [The Last Supper](#pericope311)<a name="pericope311toc"></a>
+1. [Jesus Foretells His Betrayal](#pericope312)<a name="pericope312toc"></a>
+1. [Precedence Among The Disciples And The Reward Of Discipleship](#pericope313)<a name="pericope313toc"></a>
+1. [The New Commandment Of Love](#pericope314)<a name="pericope314toc"></a>
+1. [Peter's Denial Predicted](#pericope315)<a name="pericope315toc"></a>
+1. [The Two Swords](#pericope316)<a name="pericope316toc"></a>
+1. [Let Not Your Hearts Be Troubled](#pericope317)<a name="pericope317toc"></a>
+1. [The Promise Of The Paraclete](#pericope318)<a name="pericope318toc"></a>
+1. [The Gift Of Peace](#pericope319)<a name="pericope319toc"></a>
+1. [Jesus The True Vine](#pericope320)<a name="pericope320toc"></a>
+1. [Abide In My Love](#pericope321)<a name="pericope321toc"></a>
+1. [The World's Hatred](#pericope322)<a name="pericope322toc"></a>
+1. [The Witness Of The Paraclete](#pericope323)<a name="pericope323toc"></a>
+1. [On Persecutions](#pericope324)<a name="pericope324toc"></a>
+1. [The Work Of The Paraclete](#pericope325)<a name="pericope325toc"></a>
+1. [Sorrow Turned To Joy](#pericope326)<a name="pericope326toc"></a>
+1. [Prayer In The Name Of Jesus](#pericope327)<a name="pericope327toc"></a>
+1. [Prediction Of The Disciples' Flight](#pericope328)<a name="pericope328toc"></a>
+1. [The Intercessory Prayer](#pericope329)<a name="pericope329toc"></a>
+1. [Gethsemane](#pericope330)<a name="pericope330toc"></a>
+1. [Jesus Arrested](#pericope331)<a name="pericope331toc"></a>
+1. [Jesus Before The Sanhedrin (peter's Denial)](#pericope332)<a name="pericope332toc"></a>
+1. [Peter's Denial](#pericope333)<a name="pericope333toc"></a>
+1. [Jesus Delivered To Pilate](#pericope334)<a name="pericope334toc"></a>
+1. [The Death Of Judas](#pericope335)<a name="pericope335toc"></a>
+1. [The Trial Before Pilate](#pericope336)<a name="pericope336toc"></a>
+1. [Jesus Before Herod](#pericope337)<a name="pericope337toc"></a>
+1. [Pilate Declares Jesus Innocent](#pericope338)<a name="pericope338toc"></a>
+1. [Jesus Or Barabbas?](#pericope339)<a name="pericope339toc"></a>
+1. [Behold The Man!](#pericope340)<a name="pericope340toc"></a>
+1. [Pilate Delivers Jesus To Be Crucified](#pericope341)<a name="pericope341toc"></a>
+1. [Jesus Mocked By The Soldiers](#pericope342)<a name="pericope342toc"></a>
+1. [The Road To Golgotha](#pericope343)<a name="pericope343toc"></a>
+1. [The Crucifixion](#pericope344)<a name="pericope344toc"></a>
+1. [Jesus Derided On The Cross](#pericope345)<a name="pericope345toc"></a>
+1. [The Two Thieves](#pericope346)<a name="pericope346toc"></a>
+1. [The Death Of Jesus](#pericope347)<a name="pericope347toc"></a>
+1. [Witnesses Of The Crucifixion](#pericope348)<a name="pericope348toc"></a>
+1. [Jesus' Side Pierced](#pericope349)<a name="pericope349toc"></a>
+1. [The Burial Of Jesus](#pericope350)<a name="pericope350toc"></a>
+1. [The Guard At The Tomb](#pericope351)<a name="pericope351toc"></a>
+1. [The Women At The Tomb](#pericope352)<a name="pericope352toc"></a>
+1. [Jesus Appears To The Women](#pericope353)<a name="pericope353toc"></a>
+1. [The Report Of The Guard](#pericope354)<a name="pericope354toc"></a>
+1. [Jesus Appears To Two On The Way To Emmaus](#pericope355)<a name="pericope355toc"></a>
+1. [Jesus Appears To His Disciples (thomas Being Absent)](#pericope356)<a name="pericope356toc"></a>
+1. [Jesus Appears To His Disciples (thomas Being Present)](#pericope357)<a name="pericope357toc"></a>
+1. [Jesus Appears To The Eleven While They Sit At Table](#pericope358)<a name="pericope358toc"></a>
+1. [Jesus Appears To The Eleven On A Mountain In Galilee](#pericope359)<a name="pericope359toc"></a>
+1. [Jesus Appears To His Disciples By The Sea Of Tiberias](#pericope360)<a name="pericope360toc"></a>
+1. [Paul's Account Of The Appearances Of Jesus](#pericope361)<a name="pericope361toc"></a>
+1. [The Longer Ending Of Mark](#pericope362)<a name="pericope362toc"></a>
+1. [The Ending Of Matthew: The Great Commission](#pericope363)<a name="pericope363toc"></a>
+1. [The Ending Of Luke: Jesus' Last Words And Ascension](#pericope364)<a name="pericope364toc"></a>
+1. [The Ending Of John](#pericope365)<a name="pericope365toc"></a>
+1. [The Appendix To John: Jesus At The Sea Of Tiberias.](#pericope366)<a name="pericope366toc"></a>
 
 # Gospel Parallels
 
 
-## 1. Prologue<a name="pericope1"></a> (<a href="#pericopetoc">^</a>)
+## 1. Prologue<a name="pericope1"></a> (<a href="#pericope1toc">^</a>)
 All Verses: [Matthew 1:1](http://www.esvbible.org/Matthew%201:1); [Mark 1:1](http://www.esvbible.org/Mark%201:1); [Luke 1:1-4](http://www.esvbible.org/Luke%201:1-4); [John 1:1-18](http://www.esvbible.org/John%201:1-18) ([All](http://www.esvbible.org/Matthew%201:1;%20Mark%201:1;%20Luke%201:1-4;%20John%201:1-18))
 
 ### Matthew 1:1
@@ -404,7 +404,7 @@ All Verses: [Matthew 1:1](http://www.esvbible.org/Matthew%201:1); [Mark 1:1](htt
 </div>
 </div>
 
-## 2. The Promise Of The Birth Of John The Baptist<a name="pericope2"></a> (<a href="#pericopetoc">^</a>)
+## 2. The Promise Of The Birth Of John The Baptist<a name="pericope2"></a> (<a href="#pericope2toc">^</a>)
 All Verses: [Luke 1:5-25](http://www.esvbible.org/Luke%201:5-25) ([All](http://www.esvbible.org/Luke%201:5-25))
 
 ### Luke 1:5-25
@@ -417,7 +417,7 @@ All Verses: [Luke 1:5-25](http://www.esvbible.org/Luke%201:5-25) ([All](http://w
 </div>
 </div>
 
-## 3. The Annunciation<a name="pericope3"></a> (<a href="#pericopetoc">^</a>)
+## 3. The Annunciation<a name="pericope3"></a> (<a href="#pericope3toc">^</a>)
 All Verses: [Luke 1:26-38](http://www.esvbible.org/Luke%201:26-38) ([All](http://www.esvbible.org/Luke%201:26-38))
 
 ### Luke 1:26-38
@@ -429,7 +429,7 @@ All Verses: [Luke 1:26-38](http://www.esvbible.org/Luke%201:26-38) ([All](http:/
 </div>
 </div>
 
-## 4. Mary's Visit To Elizabeth<a name="pericope4"></a> (<a href="#pericopetoc">^</a>)
+## 4. Mary's Visit To Elizabeth<a name="pericope4"></a> (<a href="#pericope4toc">^</a>)
 All Verses: [Luke 1:39-56](http://www.esvbible.org/Luke%201:39-56) ([All](http://www.esvbible.org/Luke%201:39-56))
 
 ### Luke 1:39-56
@@ -452,7 +452,7 @@ All Verses: [Luke 1:39-56](http://www.esvbible.org/Luke%201:39-56) ([All](http:/
 </div>
 </div>
 
-## 5. The Birth Of John The Baptist<a name="pericope5"></a> (<a href="#pericopetoc">^</a>)
+## 5. The Birth Of John The Baptist<a name="pericope5"></a> (<a href="#pericope5toc">^</a>)
 All Verses: [Luke 1:57-80](http://www.esvbible.org/Luke%201:57-80) ([All](http://www.esvbible.org/Luke%201:57-80))
 
 ### Luke 1:57-80
@@ -477,7 +477,7 @@ might serve him without fear,<br/>in holiness and righteousness before him all o
 </div>
 </div>
 
-## 6. The Genealogy Of Jesus<a name="pericope6"></a> (<a href="#pericopetoc">^</a>)
+## 6. The Genealogy Of Jesus<a name="pericope6"></a> (<a href="#pericope6toc">^</a>)
 Essential Verses: [Matthew 1:2-17](http://www.esvbible.org/Matthew%201:2-17)
 Additional Verses: [Luke 3:23-38](http://www.esvbible.org/Luke%203:23-38)
 All Verses: [Matthew 1:2-17](http://www.esvbible.org/Matthew%201:2-17); [Luke 3:23-38](http://www.esvbible.org/Luke%203:23-38) ([All](http://www.esvbible.org/Matthew%201:2-17;%20Luke%203:23-38))
@@ -498,7 +498,7 @@ All Verses: [Matthew 1:2-17](http://www.esvbible.org/Matthew%201:2-17); [Luke 3:
 </div>
 </div>
 
-## 7. The Birth Of Jesus<a name="pericope7"></a> (<a href="#pericopetoc">^</a>)
+## 7. The Birth Of Jesus<a name="pericope7"></a> (<a href="#pericope7toc">^</a>)
 All Verses: [Matthew 1:18-25](http://www.esvbible.org/Matthew%201:18-25); [Luke 2:1-7](http://www.esvbible.org/Luke%202:1-7) ([All](http://www.esvbible.org/Matthew%201:18-25;%20Luke%202:1-7))
 
 ### Matthew 1:18-25
@@ -518,7 +518,7 @@ All Verses: [Matthew 1:18-25](http://www.esvbible.org/Matthew%201:18-25); [Luke 
 </div>
 </div>
 
-## 8. The Adoration Of The Infant Jesus<a name="pericope8"></a> (<a href="#pericopetoc">^</a>)
+## 8. The Adoration Of The Infant Jesus<a name="pericope8"></a> (<a href="#pericope8toc">^</a>)
 All Verses: [Matthew 2:1-12](http://www.esvbible.org/Matthew%202:1-12); [Luke 2:8-20](http://www.esvbible.org/Luke%202:8-20) ([All](http://www.esvbible.org/Matthew%202:1-12;%20Luke%202:8-20))
 
 ### Matthew 2:1-12
@@ -542,7 +542,7 @@ for from you shall come a ruler<br/>who will shepherd my people Israel.&#x2019;&
 </div>
 </div>
 
-## 9. The Circumcision And Presentation In The Temple<a name="pericope9"></a> (<a href="#pericopetoc">^</a>)
+## 9. The Circumcision And Presentation In The Temple<a name="pericope9"></a> (<a href="#pericope9toc">^</a>)
 All Verses: [Luke 2:21-38](http://www.esvbible.org/Luke%202:21-38) ([All](http://www.esvbible.org/Luke%202:21-38))
 
 ### Luke 2:21-38
@@ -559,7 +559,7 @@ All Verses: [Luke 2:21-38](http://www.esvbible.org/Luke%202:21-38) ([All](http:/
 </div>
 </div>
 
-## 10. The Flight Into Egypt And Return<a name="pericope10"></a> (<a href="#pericopetoc">^</a>)
+## 10. The Flight Into Egypt And Return<a name="pericope10"></a> (<a href="#pericope10toc">^</a>)
 All Verses: [Matthew 2:13-21](http://www.esvbible.org/Matthew%202:13-21) ([All](http://www.esvbible.org/Matthew%202:13-21))
 
 ### Matthew 2:13-21
@@ -576,7 +576,7 @@ Rachel weeping for her children;<br/>she refused to be comforted, because they a
 </div>
 </div>
 
-## 11. The Childhood Of Jesus At Nazareth<a name="pericope11"></a> (<a href="#pericopetoc">^</a>)
+## 11. The Childhood Of Jesus At Nazareth<a name="pericope11"></a> (<a href="#pericope11toc">^</a>)
 All Verses: [Matthew 2:22-23](http://www.esvbible.org/Matthew%202:22-23); [Luke 2:39-40](http://www.esvbible.org/Luke%202:39-40) ([All](http://www.esvbible.org/Matthew%202:22-23;%20Luke%202:39-40))
 
 ### Matthew 2:22-23
@@ -592,7 +592,7 @@ All Verses: [Matthew 2:22-23](http://www.esvbible.org/Matthew%202:22-23); [Luke 
 </div>
 </div>
 
-## 12. The Boy Jesus In The Temple<a name="pericope12"></a> (<a href="#pericopetoc">^</a>)
+## 12. The Boy Jesus In The Temple<a name="pericope12"></a> (<a href="#pericope12toc">^</a>)
 All Verses: [Luke 2:41-52](http://www.esvbible.org/Luke%202:41-52) ([All](http://www.esvbible.org/Luke%202:41-52))
 
 ### Luke 2:41-52
@@ -603,7 +603,7 @@ All Verses: [Luke 2:41-52](http://www.esvbible.org/Luke%202:41-52) ([All](http:/
 </div>
 </div>
 
-## 13. John The Baptist<a name="pericope13"></a> (<a href="#pericopetoc">^</a>)
+## 13. John The Baptist<a name="pericope13"></a> (<a href="#pericope13toc">^</a>)
 All Verses: [Matthew 3:1-6](http://www.esvbible.org/Matthew%203:1-6); [Mark 1:2-6](http://www.esvbible.org/Mark%201:2-6); [Luke 3:1-6](http://www.esvbible.org/Luke%203:1-6); [John 1:19-23](http://www.esvbible.org/John%201:19-23) ([All](http://www.esvbible.org/Matthew%203:1-6;%20Mark%201:2-6;%20Luke%203:1-6;%20John%201:19-23))
 
 ### Matthew 3:1-6
@@ -647,7 +647,7 @@ and the crooked shall become straight,<br/>and the rough places shall become lev
 </div>
 </div>
 
-## 14. John's Preaching Of Repentance<a name="pericope14"></a> (<a href="#pericopetoc">^</a>)
+## 14. John's Preaching Of Repentance<a name="pericope14"></a> (<a href="#pericope14toc">^</a>)
 All Verses: [Matthew 3:7-10](http://www.esvbible.org/Matthew%203:7-10); [Luke 3:7-9](http://www.esvbible.org/Luke%203:7-9) ([All](http://www.esvbible.org/Matthew%203:7-10;%20Luke%203:7-9))
 
 ### Matthew 3:7-10
@@ -662,7 +662,7 @@ All Verses: [Matthew 3:7-10](http://www.esvbible.org/Matthew%203:7-10); [Luke 3:
 </div>
 </div>
 
-## 15. John Replies To Questioners<a name="pericope15"></a> (<a href="#pericopetoc">^</a>)
+## 15. John Replies To Questioners<a name="pericope15"></a> (<a href="#pericope15toc">^</a>)
 All Verses: [Luke 3:10-14](http://www.esvbible.org/Luke%203:10-14) ([All](http://www.esvbible.org/Luke%203:10-14))
 
 ### Luke 3:10-14
@@ -671,7 +671,7 @@ All Verses: [Luke 3:10-14](http://www.esvbible.org/Luke%203:10-14) ([All](http:/
 </div>
 </div>
 
-## 16. John's Messianic Preaching<a name="pericope16"></a> (<a href="#pericopetoc">^</a>)
+## 16. John's Messianic Preaching<a name="pericope16"></a> (<a href="#pericope16toc">^</a>)
 All Verses: [Matthew 3:11-12](http://www.esvbible.org/Matthew%203:11-12); [Mark 1:7-8](http://www.esvbible.org/Mark%201:7-8); [Luke 3:15-18](http://www.esvbible.org/Luke%203:15-18); [John 1:24-28](http://www.esvbible.org/John%201:24-28) ([All](http://www.esvbible.org/Matthew%203:11-12;%20Mark%201:7-8;%20Luke%203:15-18;%20John%201:24-28))
 
 ### Matthew 3:11-12
@@ -699,7 +699,7 @@ All Verses: [Matthew 3:11-12](http://www.esvbible.org/Matthew%203:11-12); [Mark 
 </div>
 </div>
 
-## 17. The Imprisonment Of John<a name="pericope17"></a> (<a href="#pericopetoc">^</a>)
+## 17. The Imprisonment Of John<a name="pericope17"></a> (<a href="#pericope17toc">^</a>)
 Essential Verses: [Luke 3:19-20](http://www.esvbible.org/Luke%203:19-20)
 Additional Verses: [Matthew 14:3-4](http://www.esvbible.org/Matthew%2014:3-4); [Mark 6:17-18](http://www.esvbible.org/Mark%206:17-18) ([All](http://www.esvbible.org/Matthew%2014:3-4;%20Mark%206:17-18))
 All Verses: [Matthew 14:3-4](http://www.esvbible.org/Matthew%2014:3-4); [Mark 6:17-18](http://www.esvbible.org/Mark%206:17-18); [Luke 3:19-20](http://www.esvbible.org/Luke%203:19-20) ([All](http://www.esvbible.org/Matthew%2014:3-4;%20Mark%206:17-18;%20Luke%203:19-20))
@@ -722,7 +722,7 @@ All Verses: [Matthew 14:3-4](http://www.esvbible.org/Matthew%2014:3-4); [Mark 6:
 </div>
 </div>
 
-## 18. The Baptism Of Jesus<a name="pericope18"></a> (<a href="#pericopetoc">^</a>)
+## 18. The Baptism Of Jesus<a name="pericope18"></a> (<a href="#pericope18toc">^</a>)
 All Verses: [Matthew 3:13-17](http://www.esvbible.org/Matthew%203:13-17); [Mark 1:9-11](http://www.esvbible.org/Mark%201:9-11); [Luke 3:21-22](http://www.esvbible.org/Luke%203:21-22); [John 1:29-34](http://www.esvbible.org/John%201:29-34) ([All](http://www.esvbible.org/Matthew%203:13-17;%20Mark%201:9-11;%20Luke%203:21-22;%20John%201:29-34))
 
 ### Matthew 3:13-17
@@ -752,7 +752,7 @@ All Verses: [Matthew 3:13-17](http://www.esvbible.org/Matthew%203:13-17); [Mark 
 </div>
 </div>
 
-## 19. The Genealogy Of Jesus<a name="pericope19"></a> (<a href="#pericopetoc">^</a>)
+## 19. The Genealogy Of Jesus<a name="pericope19"></a> (<a href="#pericope19toc">^</a>)
 Essential Verses: [Luke 3:23-38](http://www.esvbible.org/Luke%203:23-38)
 Additional Verses: [Matthew 1:1-17](http://www.esvbible.org/Matthew%201:1-17)
 All Verses: [Matthew 1:1-17](http://www.esvbible.org/Matthew%201:1-17); [Luke 3:23-38](http://www.esvbible.org/Luke%203:23-38) ([All](http://www.esvbible.org/Matthew%201:1-17;%20Luke%203:23-38))
@@ -775,7 +775,7 @@ All Verses: [Matthew 1:1-17](http://www.esvbible.org/Matthew%201:1-17); [Luke 3:
 </div>
 </div>
 
-## 20. The Temptation<a name="pericope20"></a> (<a href="#pericopetoc">^</a>)
+## 20. The Temptation<a name="pericope20"></a> (<a href="#pericope20toc">^</a>)
 All Verses: [Matthew 4:1-11](http://www.esvbible.org/Matthew%204:1-11); [Mark 1:12-13](http://www.esvbible.org/Mark%201:12-13); [Luke 4:1-13](http://www.esvbible.org/Luke%204:1-13) ([All](http://www.esvbible.org/Matthew%204:1-11;%20Mark%201:12-13;%20Luke%204:1-13))
 
 ### Matthew 4:1-11
@@ -821,7 +821,7 @@ All Verses: [Matthew 4:1-11](http://www.esvbible.org/Matthew%204:1-11); [Mark 1:
 </div>
 </div>
 
-## 21. The Call Of The First Disciples<a name="pericope21"></a> (<a href="#pericopetoc">^</a>)
+## 21. The Call Of The First Disciples<a name="pericope21"></a> (<a href="#pericope21toc">^</a>)
 All Verses: [John 1:35-51](http://www.esvbible.org/John%201:35-51) ([All](http://www.esvbible.org/John%201:35-51))
 
 ### John 1:35-51
@@ -833,7 +833,7 @@ All Verses: [John 1:35-51](http://www.esvbible.org/John%201:35-51) ([All](http:/
 </div>
 </div>
 
-## 22. The Marriage At Cana<a name="pericope22"></a> (<a href="#pericopetoc">^</a>)
+## 22. The Marriage At Cana<a name="pericope22"></a> (<a href="#pericope22toc">^</a>)
 All Verses: [John 2:1-11](http://www.esvbible.org/John%202:1-11) ([All](http://www.esvbible.org/John%202:1-11))
 
 ### John 2:1-11
@@ -844,7 +844,7 @@ All Verses: [John 2:1-11](http://www.esvbible.org/John%202:1-11) ([All](http://w
 </div>
 </div>
 
-## 23. The Sojourn At Capernaum<a name="pericope23"></a> (<a href="#pericopetoc">^</a>)
+## 23. The Sojourn At Capernaum<a name="pericope23"></a> (<a href="#pericope23toc">^</a>)
 All Verses: [John 2:12](http://www.esvbible.org/John%202:12) ([All](http://www.esvbible.org/John%202:12))
 
 ### John 2:12
@@ -853,7 +853,7 @@ All Verses: [John 2:12](http://www.esvbible.org/John%202:12) ([All](http://www.e
 </div>
 </div>
 
-## 24. The First Journey To Jerusalem<a name="pericope24"></a> (<a href="#pericopetoc">^</a>)
+## 24. The First Journey To Jerusalem<a name="pericope24"></a> (<a href="#pericope24toc">^</a>)
 All Verses: [John 2:13](http://www.esvbible.org/John%202:13) ([All](http://www.esvbible.org/John%202:13))
 
 ### John 2:13
@@ -863,7 +863,7 @@ All Verses: [John 2:13](http://www.esvbible.org/John%202:13) ([All](http://www.e
 </div>
 </div>
 
-## 25. The Cleansing Of The Temple<a name="pericope25"></a> (<a href="#pericopetoc">^</a>)
+## 25. The Cleansing Of The Temple<a name="pericope25"></a> (<a href="#pericope25toc">^</a>)
 Essential Verses: [John 2:14-22](http://www.esvbible.org/John%202:14-22)
 Additional Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46) ([All](http://www.esvbible.org/Matthew%2021:12-13;%20Mark%2011:15-17;%20Luke%2019:45-46))
 All Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46); [John 2:14-22](http://www.esvbible.org/John%202:14-22) ([All](http://www.esvbible.org/Matthew%2021:12-13;%20Mark%2011:15-17;%20Luke%2019:45-46;%20John%202:14-22))
@@ -896,7 +896,7 @@ All Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [Mar
 </div>
 </div>
 
-## 26. Jesus' Ministry In Jerusalem<a name="pericope26"></a> (<a href="#pericopetoc">^</a>)
+## 26. Jesus' Ministry In Jerusalem<a name="pericope26"></a> (<a href="#pericope26toc">^</a>)
 All Verses: [John 2:23-25](http://www.esvbible.org/John%202:23-25) ([All](http://www.esvbible.org/John%202:23-25))
 
 ### John 2:23-25
@@ -906,7 +906,7 @@ All Verses: [John 2:23-25](http://www.esvbible.org/John%202:23-25) ([All](http:/
 </div>
 </div>
 
-## 27. The Discourse With Nicodemus<a name="pericope27"></a> (<a href="#pericopetoc">^</a>)
+## 27. The Discourse With Nicodemus<a name="pericope27"></a> (<a href="#pericope27toc">^</a>)
 All Verses: [John 3:1-21](http://www.esvbible.org/John%203:1-21) ([All](http://www.esvbible.org/John%203:1-21))
 
 ### John 3:1-21
@@ -919,7 +919,7 @@ All Verses: [John 3:1-21](http://www.esvbible.org/John%203:1-21) ([All](http://w
 </div>
 </div>
 
-## 28. Jesus' Ministry In Judea<a name="pericope28"></a> (<a href="#pericopetoc">^</a>)
+## 28. Jesus' Ministry In Judea<a name="pericope28"></a> (<a href="#pericope28toc">^</a>)
 All Verses: [John 3:22](http://www.esvbible.org/John%203:22) ([All](http://www.esvbible.org/John%203:22))
 
 ### John 3:22
@@ -929,7 +929,7 @@ All Verses: [John 3:22](http://www.esvbible.org/John%203:22) ([All](http://www.e
 </div>
 </div>
 
-## 29. John's Testimony To Christ<a name="pericope29"></a> (<a href="#pericopetoc">^</a>)
+## 29. John's Testimony To Christ<a name="pericope29"></a> (<a href="#pericope29toc">^</a>)
 All Verses: [John 3:23-36](http://www.esvbible.org/John%203:23-36) ([All](http://www.esvbible.org/John%203:23-36))
 
 ### John 3:23-36
@@ -940,7 +940,7 @@ All Verses: [John 3:23-36](http://www.esvbible.org/John%203:23-36) ([All](http:/
 </div>
 </div>
 
-## 30. The Journey Into Galilee<a name="pericope30"></a> (<a href="#pericopetoc">^</a>)
+## 30. The Journey Into Galilee<a name="pericope30"></a> (<a href="#pericope30toc">^</a>)
 All Verses: [Matthew 4:12](http://www.esvbible.org/Matthew%204:12); [Mark 1:14a](http://www.esvbible.org/Mark%201:14a); [Luke 4:14a](http://www.esvbible.org/Luke%204:14a); [John 4:1-3](http://www.esvbible.org/John%204:1-3) ([All](http://www.esvbible.org/Matthew%204:12;%20Mark%201:14a;%20Luke%204:14a;%20John%204:1-3))
 
 ### Matthew 4:12
@@ -971,7 +971,7 @@ All Verses: [Matthew 4:12](http://www.esvbible.org/Matthew%204:12); [Mark 1:14a]
 </div>
 </div>
 
-## 31. The Discourse With The Woman Of Samaria<a name="pericope31"></a> (<a href="#pericopetoc">^</a>)
+## 31. The Discourse With The Woman Of Samaria<a name="pericope31"></a> (<a href="#pericope31toc">^</a>)
 All Verses: [John 4:4-42](http://www.esvbible.org/John%204:4-42) ([All](http://www.esvbible.org/John%204:4-42))
 
 ### John 4:4-42
@@ -985,7 +985,7 @@ All Verses: [John 4:4-42](http://www.esvbible.org/John%204:4-42) ([All](http://w
 </div>
 </div>
 
-## 32. Ministry In Galilee<a name="pericope32"></a> (<a href="#pericopetoc">^</a>)
+## 32. Ministry In Galilee<a name="pericope32"></a> (<a href="#pericope32toc">^</a>)
 All Verses: [Matthew 4:13-17](http://www.esvbible.org/Matthew%204:13-17); [Mark 1:14b-15](http://www.esvbible.org/Mark%201:14b-15); [Luke 4:14b-15](http://www.esvbible.org/Luke%204:14b-15); [John 4:43-46a](http://www.esvbible.org/John%204:43-46a) ([All](http://www.esvbible.org/Matthew%204:13-17;%20Mark%201:14b-15;%20Luke%204:14b-15;%20John%204:43-46a))
 
 ### Matthew 4:13-17
@@ -1021,7 +1021,7 @@ and for those dwelling in the region and shadow of death,<br/>on them a light ha
 </div>
 </div>
 
-## 33. Jesus' Preaching At Nazareth<a name="pericope33"></a> (<a href="#pericopetoc">^</a>)
+## 33. Jesus' Preaching At Nazareth<a name="pericope33"></a> (<a href="#pericope33toc">^</a>)
 Essential Verses: [Luke 4:16-30](http://www.esvbible.org/Luke%204:16-30)
 Additional Verses: [Matthew 13:53-58](http://www.esvbible.org/Matthew%2013:53-58); [Mark 6:1-6a](http://www.esvbible.org/Mark%206:1-6a) ([All](http://www.esvbible.org/Matthew%2013:53-58;%20Mark%206:1-6a))
 All Verses: [Matthew 13:53-58](http://www.esvbible.org/Matthew%2013:53-58); [Mark 6:1-6a](http://www.esvbible.org/Mark%206:1-6a); [Luke 4:16-30](http://www.esvbible.org/Luke%204:16-30) ([All](http://www.esvbible.org/Matthew%2013:53-58;%20Mark%206:1-6a;%20Luke%204:16-30))
@@ -1052,7 +1052,7 @@ He has sent me to proclaim liberty to the captives<br/>and recovering of sight t
 </div>
 </div>
 
-## 34. The Call Of The Disciples<a name="pericope34"></a> (<a href="#pericopetoc">^</a>)
+## 34. The Call Of The Disciples<a name="pericope34"></a> (<a href="#pericope34toc">^</a>)
 All Verses: [Matthew 4:18-22](http://www.esvbible.org/Matthew%204:18-22); [Mark 1:16-20](http://www.esvbible.org/Mark%201:16-20) ([All](http://www.esvbible.org/Matthew%204:18-22;%20Mark%201:16-20))
 
 ### Matthew 4:18-22
@@ -1069,7 +1069,7 @@ All Verses: [Matthew 4:18-22](http://www.esvbible.org/Matthew%204:18-22); [Mark 
 </div>
 </div>
 
-## 35. Teaching In The Synagogue At Capernaum<a name="pericope35"></a> (<a href="#pericopetoc">^</a>)
+## 35. Teaching In The Synagogue At Capernaum<a name="pericope35"></a> (<a href="#pericope35toc">^</a>)
 All Verses: [Mark 1:21-22](http://www.esvbible.org/Mark%201:21-22); [Luke 4:31-32](http://www.esvbible.org/Luke%204:31-32) ([All](http://www.esvbible.org/Mark%201:21-22;%20Luke%204:31-32))
 
 ### Mark 1:21-22
@@ -1086,7 +1086,7 @@ All Verses: [Mark 1:21-22](http://www.esvbible.org/Mark%201:21-22); [Luke 4:31-3
 </div>
 </div>
 
-## 36. The Healing Of The Demoniac In The Synagogue<a name="pericope36"></a> (<a href="#pericopetoc">^</a>)
+## 36. The Healing Of The Demoniac In The Synagogue<a name="pericope36"></a> (<a href="#pericope36toc">^</a>)
 All Verses: [Mark 1:23-28](http://www.esvbible.org/Mark%201:23-28); [Luke 4:33-37](http://www.esvbible.org/Luke%204:33-37) ([All](http://www.esvbible.org/Mark%201:23-28;%20Luke%204:33-37))
 
 ### Mark 1:23-28
@@ -1101,7 +1101,7 @@ All Verses: [Mark 1:23-28](http://www.esvbible.org/Mark%201:23-28); [Luke 4:33-3
 </div>
 </div>
 
-## 37. The Healing Of Peter's Mother-in-law<a name="pericope37"></a> (<a href="#pericopetoc">^</a>)
+## 37. The Healing Of Peter's Mother-in-law<a name="pericope37"></a> (<a href="#pericope37toc">^</a>)
 Essential Verses: [Mark 1:29-31](http://www.esvbible.org/Mark%201:29-31); [Luke 4:38-39](http://www.esvbible.org/Luke%204:38-39) ([All](http://www.esvbible.org/Mark%201:29-31;%20Luke%204:38-39))
 Additional Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15)
 All Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15); [Mark 1:29-31](http://www.esvbible.org/Mark%201:29-31); [Luke 4:38-39](http://www.esvbible.org/Luke%204:38-39) ([All](http://www.esvbible.org/Matthew%208:14-15;%20Mark%201:29-31;%20Luke%204:38-39))
@@ -1127,7 +1127,7 @@ All Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15); [Mark 
 </div>
 </div>
 
-## 38. The Sick Healed At Evening<a name="pericope38"></a> (<a href="#pericopetoc">^</a>)
+## 38. The Sick Healed At Evening<a name="pericope38"></a> (<a href="#pericope38toc">^</a>)
 Essential Verses: [Mark 1:32-34](http://www.esvbible.org/Mark%201:32-34); [Luke 4:40-41](http://www.esvbible.org/Luke%204:40-41) ([All](http://www.esvbible.org/Mark%201:32-34;%20Luke%204:40-41))
 Additional Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17)
 All Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17); [Mark 1:32-34](http://www.esvbible.org/Mark%201:32-34); [Luke 4:40-41](http://www.esvbible.org/Luke%204:40-41) ([All](http://www.esvbible.org/Matthew%208:16-17;%20Mark%201:32-34;%20Luke%204:40-41))
@@ -1150,7 +1150,7 @@ All Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17); [Mark 
 </div>
 </div>
 
-## 39. Jesus Departs From Capernaurn<a name="pericope39"></a> (<a href="#pericopetoc">^</a>)
+## 39. Jesus Departs From Capernaurn<a name="pericope39"></a> (<a href="#pericope39toc">^</a>)
 All Verses: [Mark 1:35-38](http://www.esvbible.org/Mark%201:35-38); [Luke 4:42-43](http://www.esvbible.org/Luke%204:42-43) ([All](http://www.esvbible.org/Mark%201:35-38;%20Luke%204:42-43))
 
 ### Mark 1:35-38
@@ -1167,7 +1167,7 @@ All Verses: [Mark 1:35-38](http://www.esvbible.org/Mark%201:35-38); [Luke 4:42-4
 </div>
 </div>
 
-## 40. First Preaching Tour In Galilee<a name="pericope40"></a> (<a href="#pericopetoc">^</a>)
+## 40. First Preaching Tour In Galilee<a name="pericope40"></a> (<a href="#pericope40toc">^</a>)
 All Verses: [Matthew 4:23](http://www.esvbible.org/Matthew%204:23); [Mark 1:39](http://www.esvbible.org/Mark%201:39); [Luke 4:44](http://www.esvbible.org/Luke%204:44) ([All](http://www.esvbible.org/Matthew%204:23;%20Mark%201:39;%20Luke%204:44))
 
 ### Matthew 4:23
@@ -1189,7 +1189,7 @@ All Verses: [Matthew 4:23](http://www.esvbible.org/Matthew%204:23); [Mark 1:39](
 </div>
 </div>
 
-## 41. The Miraculous Draught Of Fish<a name="pericope41"></a> (<a href="#pericopetoc">^</a>)
+## 41. The Miraculous Draught Of Fish<a name="pericope41"></a> (<a href="#pericope41toc">^</a>)
 All Verses: [Luke 5:1-11](http://www.esvbible.org/Luke%205:1-11) ([All](http://www.esvbible.org/Luke%205:1-11))
 
 ### Luke 5:1-11
@@ -1199,7 +1199,7 @@ All Verses: [Luke 5:1-11](http://www.esvbible.org/Luke%205:1-11) ([All](http://w
 </div>
 </div>
 
-## 42. The Cleansing Of The Leper<a name="pericope42"></a> (<a href="#pericopetoc">^</a>)
+## 42. The Cleansing Of The Leper<a name="pericope42"></a> (<a href="#pericope42toc">^</a>)
 Essential Verses: [Mark 1:40-45](http://www.esvbible.org/Mark%201:40-45); [Luke 5:12-16](http://www.esvbible.org/Luke%205:12-16) ([All](http://www.esvbible.org/Mark%201:40-45;%20Luke%205:12-16))
 Additional Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4)
 All Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4); [Mark 1:40-45](http://www.esvbible.org/Mark%201:40-45); [Luke 5:12-16](http://www.esvbible.org/Luke%205:12-16) ([All](http://www.esvbible.org/Matthew%208:1-4;%20Mark%201:40-45;%20Luke%205:12-16))
@@ -1225,7 +1225,7 @@ All Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4); [Mark 1:40
 </div>
 </div>
 
-## 43. The Healing Of The Paralytic<a name="pericope43"></a> (<a href="#pericopetoc">^</a>)
+## 43. The Healing Of The Paralytic<a name="pericope43"></a> (<a href="#pericope43toc">^</a>)
 Essential Verses: [Mark 2:1-12](http://www.esvbible.org/Mark%202:1-12); [Luke 5:17-26](http://www.esvbible.org/Luke%205:17-26) ([All](http://www.esvbible.org/Mark%202:1-12;%20Luke%205:17-26))
 Additional Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8); [John 5:8-9a](http://www.esvbible.org/John%205:8-9a) ([All](http://www.esvbible.org/Matthew%209:1-8;%20John%205:8-9a))
 All Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8); [Mark 2:1-12](http://www.esvbible.org/Mark%202:1-12); [Luke 5:17-26](http://www.esvbible.org/Luke%205:17-26); [John 5:8-9a](http://www.esvbible.org/John%205:8-9a) ([All](http://www.esvbible.org/Matthew%209:1-8;%20Mark%202:1-12;%20Luke%205:17-26;%20John%205:8-9a))
@@ -1258,7 +1258,7 @@ All Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8); [Mark 2:1-
 </div>
 </div>
 
-## 44. The Call Of Levi (matthew)<a name="pericope44"></a> (<a href="#pericopetoc">^</a>)
+## 44. The Call Of Levi (matthew)<a name="pericope44"></a> (<a href="#pericope44toc">^</a>)
 Essential Verses: [Mark 2:13-17](http://www.esvbible.org/Mark%202:13-17); [Luke 5:27-32](http://www.esvbible.org/Luke%205:27-32) ([All](http://www.esvbible.org/Mark%202:13-17;%20Luke%205:27-32))
 Additional Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13)
 All Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13); [Mark 2:13-17](http://www.esvbible.org/Mark%202:13-17); [Luke 5:27-32](http://www.esvbible.org/Luke%205:27-32) ([All](http://www.esvbible.org/Matthew%209:9-13;%20Mark%202:13-17;%20Luke%205:27-32))
@@ -1287,7 +1287,7 @@ All Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13); [Mark 2:
 </div>
 </div>
 
-## 45. The Question About Fasting<a name="pericope45"></a> (<a href="#pericopetoc">^</a>)
+## 45. The Question About Fasting<a name="pericope45"></a> (<a href="#pericope45toc">^</a>)
 Essential Verses: [Mark 2:18-22](http://www.esvbible.org/Mark%202:18-22); [Luke 5:33-39](http://www.esvbible.org/Luke%205:33-39) ([All](http://www.esvbible.org/Mark%202:18-22;%20Luke%205:33-39))
 Additional Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17)
 All Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17); [Mark 2:18-22](http://www.esvbible.org/Mark%202:18-22); [Luke 5:33-39](http://www.esvbible.org/Luke%205:33-39) ([All](http://www.esvbible.org/Matthew%209:14-17;%20Mark%202:18-22;%20Luke%205:33-39))
@@ -1313,7 +1313,7 @@ All Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17); [Mark 
 </div>
 </div>
 
-## 46. Plucking Grain On The Sabbath<a name="pericope46"></a> (<a href="#pericopetoc">^</a>)
+## 46. Plucking Grain On The Sabbath<a name="pericope46"></a> (<a href="#pericope46toc">^</a>)
 Essential Verses: [Mark 2:23-28](http://www.esvbible.org/Mark%202:23-28); [Luke 6:1-5](http://www.esvbible.org/Luke%206:1-5) ([All](http://www.esvbible.org/Mark%202:23-28;%20Luke%206:1-5))
 Additional Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8)
 All Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8); [Mark 2:23-28](http://www.esvbible.org/Mark%202:23-28); [Luke 6:1-5](http://www.esvbible.org/Luke%206:1-5) ([All](http://www.esvbible.org/Matthew%2012:1-8;%20Mark%202:23-28;%20Luke%206:1-5))
@@ -1339,7 +1339,7 @@ All Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8); [Mark 2:
 </div>
 </div>
 
-## 47. The Man With The Withered Hand<a name="pericope47"></a> (<a href="#pericopetoc">^</a>)
+## 47. The Man With The Withered Hand<a name="pericope47"></a> (<a href="#pericope47toc">^</a>)
 Essential Verses: [Mark 3:1-6](http://www.esvbible.org/Mark%203:1-6); [Luke 6:6-11](http://www.esvbible.org/Luke%206:6-11) ([All](http://www.esvbible.org/Mark%203:1-6;%20Luke%206:6-11))
 Additional Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14)
 All Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14); [Mark 3:1-6](http://www.esvbible.org/Mark%203:1-6); [Luke 6:6-11](http://www.esvbible.org/Luke%206:6-11) ([All](http://www.esvbible.org/Matthew%2012:9-14;%20Mark%203:1-6;%20Luke%206:6-11))
@@ -1365,7 +1365,7 @@ All Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14); [Mark 
 </div>
 </div>
 
-## 48. Jesus Heals Multitudes By The Sea<a name="pericope48"></a> (<a href="#pericopetoc">^</a>)
+## 48. Jesus Heals Multitudes By The Sea<a name="pericope48"></a> (<a href="#pericope48toc">^</a>)
 Essential Verses: [Mark 3:7-12](http://www.esvbible.org/Mark%203:7-12)
 Additional Verses: [Matthew 4:24-25](http://www.esvbible.org/Matthew%204:24-25); [Matthew 12:15-16](http://www.esvbible.org/Matthew%2012:15-16); [Luke 6:17-19](http://www.esvbible.org/Luke%206:17-19) ([All](http://www.esvbible.org/Matthew%204:24-25;%20Matthew%2012:15-16;%20Luke%206:17-19))
 All Verses: [Matthew 4:24-25](http://www.esvbible.org/Matthew%204:24-25); [Matthew 12:15-16](http://www.esvbible.org/Matthew%2012:15-16); [Mark 3:7-12](http://www.esvbible.org/Mark%203:7-12); [Luke 6:17-19](http://www.esvbible.org/Luke%206:17-19) ([All](http://www.esvbible.org/Matthew%204:24-25;%20Matthew%2012:15-16;%20Mark%203:7-12;%20Luke%206:17-19))
@@ -1397,7 +1397,7 @@ All Verses: [Matthew 4:24-25](http://www.esvbible.org/Matthew%204:24-25); [Matth
 </div>
 </div>
 
-## 49. The Choosing Of The Twelve<a name="pericope49"></a> (<a href="#pericopetoc">^</a>)
+## 49. The Choosing Of The Twelve<a name="pericope49"></a> (<a href="#pericope49toc">^</a>)
 Essential Verses: [Mark 3:13-19](http://www.esvbible.org/Mark%203:13-19); [Luke 6:12-16](http://www.esvbible.org/Luke%206:12-16) ([All](http://www.esvbible.org/Mark%203:13-19;%20Luke%206:12-16))
 Additional Verses: [Matthew 10:1-4](http://www.esvbible.org/Matthew%2010:1-4)
 All Verses: [Matthew 10:1-4](http://www.esvbible.org/Matthew%2010:1-4); [Mark 3:13-19](http://www.esvbible.org/Mark%203:13-19); [Luke 6:12-16](http://www.esvbible.org/Luke%206:12-16) ([All](http://www.esvbible.org/Matthew%2010:1-4;%20Mark%203:13-19;%20Luke%206:12-16))
@@ -1423,7 +1423,7 @@ All Verses: [Matthew 10:1-4](http://www.esvbible.org/Matthew%2010:1-4); [Mark 3:
 </div>
 </div>
 
-## 50. Occasion Of The Sermon<a name="pericope50"></a> (<a href="#pericopetoc">^</a>)
+## 50. Occasion Of The Sermon<a name="pericope50"></a> (<a href="#pericope50toc">^</a>)
 Essential Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2)
 Additional Verses: [Mark 3:7-13 a](http://www.esvbible.org/Mark%203:7-13%20a); [Luke 6:17-20a](http://www.esvbible.org/Luke%206:17-20a) ([All](http://www.esvbible.org/Mark%203:7-13%20a;%20Luke%206:17-20a))
 All Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2); [Mark 3:7-13 a](http://www.esvbible.org/Mark%203:7-13%20a); [Luke 6:17-20a](http://www.esvbible.org/Luke%206:17-20a) ([All](http://www.esvbible.org/Matthew%204:24-5:2;%20Mark%203:7-13%20a;%20Luke%206:17-20a))
@@ -1457,7 +1457,7 @@ All Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2); [Mar
 </div>
 </div>
 
-## 51. The Beatitudes<a name="pericope51"></a> (<a href="#pericopetoc">^</a>)
+## 51. The Beatitudes<a name="pericope51"></a> (<a href="#pericope51toc">^</a>)
 Essential Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12)
 Additional Verses: [Luke 6:20b-23](http://www.esvbible.org/Luke%206:20b-23)
 All Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12); [Luke 6:20b-23](http://www.esvbible.org/Luke%206:20b-23) ([All](http://www.esvbible.org/Matthew%205:3-12;%20Luke%206:20b-23))
@@ -1487,7 +1487,7 @@ All Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12); [Luke 6:
 </div>
 </div>
 
-## 52. The Salt Of The Earth<a name="pericope52"></a> (<a href="#pericopetoc">^</a>)
+## 52. The Salt Of The Earth<a name="pericope52"></a> (<a href="#pericope52toc">^</a>)
 Essential Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13)
 Additional Verses: [Mark 9:49-50](http://www.esvbible.org/Mark%209:49-50); [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35) ([All](http://www.esvbible.org/Mark%209:49-50;%20Luke%2014:34-35))
 All Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:49-50](http://www.esvbible.org/Mark%209:49-50); [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35) ([All](http://www.esvbible.org/Matthew%205:13;%20Mark%209:49-50;%20Luke%2014:34-35))
@@ -1512,7 +1512,7 @@ All Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:49-5
 </div>
 </div>
 
-## 53. The Light Of The World<a name="pericope53"></a> (<a href="#pericopetoc">^</a>)
+## 53. The Light Of The World<a name="pericope53"></a> (<a href="#pericope53toc">^</a>)
 Essential Verses: [Matthew 5:14-16](http://www.esvbible.org/Matthew%205:14-16)
 Additional Verses: [Mark 4:21](http://www.esvbible.org/Mark%204:21); [Luke 8:16](http://www.esvbible.org/Luke%208:16) ([All](http://www.esvbible.org/Mark%204:21;%20Luke%208:16))
 All Verses: [Matthew 5:14-16](http://www.esvbible.org/Matthew%205:14-16); [Mark 4:21](http://www.esvbible.org/Mark%204:21); [Luke 8:16](http://www.esvbible.org/Luke%208:16) ([All](http://www.esvbible.org/Matthew%205:14-16;%20Mark%204:21;%20Luke%208:16))
@@ -1537,7 +1537,7 @@ All Verses: [Matthew 5:14-16](http://www.esvbible.org/Matthew%205:14-16); [Mark 
 </div>
 </div>
 
-## 54. On The Law And The Prophets<a name="pericope54"></a> (<a href="#pericopetoc">^</a>)
+## 54. On The Law And The Prophets<a name="pericope54"></a> (<a href="#pericope54toc">^</a>)
 Essential Verses: [Matthew 5:17-20](http://www.esvbible.org/Matthew%205:17-20)
 Additional Verses: [Luke 16:16-17](http://www.esvbible.org/Luke%2016:16-17)
 All Verses: [Matthew 5:17-20](http://www.esvbible.org/Matthew%205:17-20); [Luke 16:16-17](http://www.esvbible.org/Luke%2016:16-17) ([All](http://www.esvbible.org/Matthew%205:17-20;%20Luke%2016:16-17))
@@ -1555,7 +1555,7 @@ All Verses: [Matthew 5:17-20](http://www.esvbible.org/Matthew%205:17-20); [Luke 
 </div>
 </div>
 
-## 55. On Murder And Wrath<a name="pericope55"></a> (<a href="#pericopetoc">^</a>)
+## 55. On Murder And Wrath<a name="pericope55"></a> (<a href="#pericope55toc">^</a>)
 Essential Verses: [Matthew 5:21-26](http://www.esvbible.org/Matthew%205:21-26)
 Additional Verses: [Luke 12:57-59](http://www.esvbible.org/Luke%2012:57-59)
 All Verses: [Matthew 5:21-26](http://www.esvbible.org/Matthew%205:21-26); [Luke 12:57-59](http://www.esvbible.org/Luke%2012:57-59) ([All](http://www.esvbible.org/Matthew%205:21-26;%20Luke%2012:57-59))
@@ -1574,7 +1574,7 @@ All Verses: [Matthew 5:21-26](http://www.esvbible.org/Matthew%205:21-26); [Luke 
 </div>
 </div>
 
-## 56. On Adultery And Divorce<a name="pericope56"></a> (<a href="#pericopetoc">^</a>)
+## 56. On Adultery And Divorce<a name="pericope56"></a> (<a href="#pericope56toc">^</a>)
 Essential Verses: [Matthew 5:27-32](http://www.esvbible.org/Matthew%205:27-32)
 Additional Verses: [Mark 9:43-48](http://www.esvbible.org/Mark%209:43-48); [Luke 16:18](http://www.esvbible.org/Luke%2016:18) ([All](http://www.esvbible.org/Mark%209:43-48;%20Luke%2016:18))
 All Verses: [Matthew 5:27-32](http://www.esvbible.org/Matthew%205:27-32); [Mark 9:43-48](http://www.esvbible.org/Mark%209:43-48); [Luke 16:18](http://www.esvbible.org/Luke%2016:18) ([All](http://www.esvbible.org/Matthew%205:27-32;%20Mark%209:43-48;%20Luke%2016:18))
@@ -1601,7 +1601,7 @@ All Verses: [Matthew 5:27-32](http://www.esvbible.org/Matthew%205:27-32); [Mark 
 </div>
 </div>
 
-## 57. On Oaths<a name="pericope57"></a> (<a href="#pericopetoc">^</a>)
+## 57. On Oaths<a name="pericope57"></a> (<a href="#pericope57toc">^</a>)
 All Verses: [Matthew 5:33-37](http://www.esvbible.org/Matthew%205:33-37) ([All](http://www.esvbible.org/Matthew%205:33-37))
 
 ### Matthew 5:33-37
@@ -1611,7 +1611,7 @@ All Verses: [Matthew 5:33-37](http://www.esvbible.org/Matthew%205:33-37) ([All](
 </div>
 </div>
 
-## 58. On Retaliation<a name="pericope58"></a> (<a href="#pericopetoc">^</a>)
+## 58. On Retaliation<a name="pericope58"></a> (<a href="#pericope58toc">^</a>)
 Essential Verses: [Matthew 5:38-42](http://www.esvbible.org/Matthew%205:38-42)
 Additional Verses: [Luke 6:29-30](http://www.esvbible.org/Luke%206:29-30)
 All Verses: [Matthew 5:38-42](http://www.esvbible.org/Matthew%205:38-42); [Luke 6:29-30](http://www.esvbible.org/Luke%206:29-30) ([All](http://www.esvbible.org/Matthew%205:38-42;%20Luke%206:29-30))
@@ -1629,7 +1629,7 @@ All Verses: [Matthew 5:38-42](http://www.esvbible.org/Matthew%205:38-42); [Luke 
 </div>
 </div>
 
-## 59. On Love Of One's Enemies<a name="pericope59"></a> (<a href="#pericopetoc">^</a>)
+## 59. On Love Of One's Enemies<a name="pericope59"></a> (<a href="#pericope59toc">^</a>)
 Essential Verses: [Matthew 5:43-48](http://www.esvbible.org/Matthew%205:43-48)
 Additional Verses: [Luke 6:27-28](http://www.esvbible.org/Luke%206:27-28); [Luke 6:32-36](http://www.esvbible.org/Luke%206:32-36) ([All](http://www.esvbible.org/Luke%206:27-28;%20Luke%206:32-36))
 All Verses: [Matthew 5:43-48](http://www.esvbible.org/Matthew%205:43-48); [Luke 6:27-28](http://www.esvbible.org/Luke%206:27-28); [Luke 6:32-36](http://www.esvbible.org/Luke%206:32-36) ([All](http://www.esvbible.org/Matthew%205:43-48;%20Luke%206:27-28;%20Luke%206:32-36))
@@ -1654,7 +1654,7 @@ All Verses: [Matthew 5:43-48](http://www.esvbible.org/Matthew%205:43-48); [Luke 
 </div>
 </div>
 
-## 60. On Almsgiving<a name="pericope60"></a> (<a href="#pericopetoc">^</a>)
+## 60. On Almsgiving<a name="pericope60"></a> (<a href="#pericope60toc">^</a>)
 All Verses: [Matthew 6:1-4](http://www.esvbible.org/Matthew%206:1-4) ([All](http://www.esvbible.org/Matthew%206:1-4))
 
 ### Matthew 6:1-4
@@ -1665,7 +1665,7 @@ All Verses: [Matthew 6:1-4](http://www.esvbible.org/Matthew%206:1-4) ([All](http
 </div>
 </div>
 
-## 61. On Prayer<a name="pericope61"></a> (<a href="#pericopetoc">^</a>)
+## 61. On Prayer<a name="pericope61"></a> (<a href="#pericope61toc">^</a>)
 All Verses: [Matthew 6:5-6](http://www.esvbible.org/Matthew%206:5-6) ([All](http://www.esvbible.org/Matthew%206:5-6))
 
 ### Matthew 6:5-6
@@ -1675,7 +1675,7 @@ All Verses: [Matthew 6:5-6](http://www.esvbible.org/Matthew%206:5-6) ([All](http
 </div>
 </div>
 
-## 62. The Lord's Prayer<a name="pericope62"></a> (<a href="#pericopetoc">^</a>)
+## 62. The Lord's Prayer<a name="pericope62"></a> (<a href="#pericope62toc">^</a>)
 Essential Verses: [Matthew 6:7-15](http://www.esvbible.org/Matthew%206:7-15)
 Additional Verses: [Mark 11:25](http://www.esvbible.org/Mark%2011:25); [Luke 11:1-4](http://www.esvbible.org/Luke%2011:1-4) ([All](http://www.esvbible.org/Mark%2011:25;%20Luke%2011:1-4))
 All Verses: [Matthew 6:7-15](http://www.esvbible.org/Matthew%206:7-15); [Mark 11:25](http://www.esvbible.org/Mark%2011:25); [Luke 11:1-4](http://www.esvbible.org/Luke%2011:1-4) ([All](http://www.esvbible.org/Matthew%206:7-15;%20Mark%2011:25;%20Luke%2011:1-4))
@@ -1708,7 +1708,7 @@ And lead us not into temptation.&#x201D;</span></p></blockquote>
 </div>
 </div>
 
-## 63. On Fasting<a name="pericope63"></a> (<a href="#pericopetoc">^</a>)
+## 63. On Fasting<a name="pericope63"></a> (<a href="#pericope63toc">^</a>)
 All Verses: [Matthew 6:16-18](http://www.esvbible.org/Matthew%206:16-18) ([All](http://www.esvbible.org/Matthew%206:16-18))
 
 ### Matthew 6:16-18
@@ -1718,7 +1718,7 @@ All Verses: [Matthew 6:16-18](http://www.esvbible.org/Matthew%206:16-18) ([All](
 </div>
 </div>
 
-## 64. On Treasures<a name="pericope64"></a> (<a href="#pericopetoc">^</a>)
+## 64. On Treasures<a name="pericope64"></a> (<a href="#pericope64toc">^</a>)
 Essential Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21)
 Additional Verses: [Luke 12:33-34](http://www.esvbible.org/Luke%2012:33-34)
 All Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21); [Luke 12:33-34](http://www.esvbible.org/Luke%2012:33-34) ([All](http://www.esvbible.org/Matthew%206:19-21;%20Luke%2012:33-34))
@@ -1736,7 +1736,7 @@ All Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21); [Luke 
 </div>
 </div>
 
-## 65. The Sound Eye<a name="pericope65"></a> (<a href="#pericopetoc">^</a>)
+## 65. The Sound Eye<a name="pericope65"></a> (<a href="#pericope65toc">^</a>)
 Essential Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23)
 Additional Verses: [Luke 11:34-36](http://www.esvbible.org/Luke%2011:34-36)
 All Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23); [Luke 11:34-36](http://www.esvbible.org/Luke%2011:34-36) ([All](http://www.esvbible.org/Matthew%206:22-23;%20Luke%2011:34-36))
@@ -1753,7 +1753,7 @@ All Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23); [Luke 
 </div>
 </div>
 
-## 66. On Serving Two Masters<a name="pericope66"></a> (<a href="#pericopetoc">^</a>)
+## 66. On Serving Two Masters<a name="pericope66"></a> (<a href="#pericope66toc">^</a>)
 Essential Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24)
 Additional Verses: [Luke 16:13](http://www.esvbible.org/Luke%2016:13)
 All Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24); [Luke 16:13](http://www.esvbible.org/Luke%2016:13) ([All](http://www.esvbible.org/Matthew%206:24;%20Luke%2016:13))
@@ -1770,7 +1770,7 @@ All Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24); [Luke 16:13]
 </div>
 </div>
 
-## 67. On Anxiety<a name="pericope67"></a> (<a href="#pericopetoc">^</a>)
+## 67. On Anxiety<a name="pericope67"></a> (<a href="#pericope67toc">^</a>)
 Essential Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34)
 Additional Verses: [Luke 12:22-32](http://www.esvbible.org/Luke%2012:22-32)
 All Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34); [Luke 12:22-32](http://www.esvbible.org/Luke%2012:22-32) ([All](http://www.esvbible.org/Matthew%206:25-34;%20Luke%2012:22-32))
@@ -1791,7 +1791,7 @@ All Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34); [Luke 
 </div>
 </div>
 
-## 68. On Judging<a name="pericope68"></a> (<a href="#pericopetoc">^</a>)
+## 68. On Judging<a name="pericope68"></a> (<a href="#pericope68toc">^</a>)
 Essential Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5)
 Additional Verses: [Mark 4:24-25](http://www.esvbible.org/Mark%204:24-25); [Luke 6:37-42](http://www.esvbible.org/Luke%206:37-42) ([All](http://www.esvbible.org/Mark%204:24-25;%20Luke%206:37-42))
 All Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5); [Mark 4:24-25](http://www.esvbible.org/Mark%204:24-25); [Luke 6:37-42](http://www.esvbible.org/Luke%206:37-42) ([All](http://www.esvbible.org/Matthew%207:1-5;%20Mark%204:24-25;%20Luke%206:37-42))
@@ -1817,7 +1817,7 @@ All Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5); [Mark 4:24
 </div>
 </div>
 
-## 69. On Profaning The Holy<a name="pericope69"></a> (<a href="#pericopetoc">^</a>)
+## 69. On Profaning The Holy<a name="pericope69"></a> (<a href="#pericope69toc">^</a>)
 All Verses: [Matthew 7:6](http://www.esvbible.org/Matthew%207:6) ([All](http://www.esvbible.org/Matthew%207:6))
 
 ### Matthew 7:6
@@ -1826,7 +1826,7 @@ All Verses: [Matthew 7:6](http://www.esvbible.org/Matthew%207:6) ([All](http://w
 </div>
 </div>
 
-## 70. God's Answering Of Prayer<a name="pericope70"></a> (<a href="#pericopetoc">^</a>)
+## 70. God's Answering Of Prayer<a name="pericope70"></a> (<a href="#pericope70toc">^</a>)
 Essential Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11)
 Additional Verses: [Luke 11:9-13](http://www.esvbible.org/Luke%2011:9-13)
 All Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11); [Luke 11:9-13](http://www.esvbible.org/Luke%2011:9-13) ([All](http://www.esvbible.org/Matthew%207:7-11;%20Luke%2011:9-13))
@@ -1844,7 +1844,7 @@ All Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11); [Luke 11
 </div>
 </div>
 
-## 71. The Golden Rule<a name="pericope71"></a> (<a href="#pericopetoc">^</a>)
+## 71. The Golden Rule<a name="pericope71"></a> (<a href="#pericope71toc">^</a>)
 Essential Verses: [Matthew 7:12](http://www.esvbible.org/Matthew%207:12)
 Additional Verses: [Luke 6:31](http://www.esvbible.org/Luke%206:31)
 All Verses: [Matthew 7:12](http://www.esvbible.org/Matthew%207:12); [Luke 6:31](http://www.esvbible.org/Luke%206:31) ([All](http://www.esvbible.org/Matthew%207:12;%20Luke%206:31))
@@ -1862,7 +1862,7 @@ All Verses: [Matthew 7:12](http://www.esvbible.org/Matthew%207:12); [Luke 6:31](
 </div>
 </div>
 
-## 72. The Two Ways<a name="pericope72"></a> (<a href="#pericopetoc">^</a>)
+## 72. The Two Ways<a name="pericope72"></a> (<a href="#pericope72toc">^</a>)
 Essential Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14)
 Additional Verses: [Luke 13:23-24](http://www.esvbible.org/Luke%2013:23-24)
 All Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14); [Luke 13:23-24](http://www.esvbible.org/Luke%2013:23-24) ([All](http://www.esvbible.org/Matthew%207:13-14;%20Luke%2013:23-24))
@@ -1879,7 +1879,7 @@ All Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14); [Luke 
 </div>
 </div>
 
-## 73. By Their Fruits<a name="pericope73"></a> (<a href="#pericopetoc">^</a>)
+## 73. By Their Fruits<a name="pericope73"></a> (<a href="#pericope73toc">^</a>)
 Essential Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20)
 Additional Verses: [Matthew 12:33-35](http://www.esvbible.org/Matthew%2012:33-35); [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45) ([All](http://www.esvbible.org/Matthew%2012:33-35;%20Luke%206:43-45))
 All Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20); [Matthew 12:33-35](http://www.esvbible.org/Matthew%2012:33-35); [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45) ([All](http://www.esvbible.org/Matthew%207:15-20;%20Matthew%2012:33-35;%20Luke%206:43-45))
@@ -1905,7 +1905,7 @@ All Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20); [Matth
 </div>
 </div>
 
-## 74. Saying Lord, Lord<a name="pericope74"></a> (<a href="#pericopetoc">^</a>)
+## 74. Saying Lord, Lord<a name="pericope74"></a> (<a href="#pericope74toc">^</a>)
 Essential Verses: [Matthew 7:21-23](http://www.esvbible.org/Matthew%207:21-23)
 Additional Verses: [Luke 6:46](http://www.esvbible.org/Luke%206:46); [Luke 13:25-27](http://www.esvbible.org/Luke%2013:25-27) ([All](http://www.esvbible.org/Luke%206:46;%20Luke%2013:25-27))
 All Verses: [Matthew 7:21-23](http://www.esvbible.org/Matthew%207:21-23); [Luke 6:46](http://www.esvbible.org/Luke%206:46); [Luke 13:25-27](http://www.esvbible.org/Luke%2013:25-27) ([All](http://www.esvbible.org/Matthew%207:21-23;%20Luke%206:46;%20Luke%2013:25-27))
@@ -1930,7 +1930,7 @@ All Verses: [Matthew 7:21-23](http://www.esvbible.org/Matthew%207:21-23); [Luke 
 </div>
 </div>
 
-## 75. The House Built Upon The Rock<a name="pericope75"></a> (<a href="#pericopetoc">^</a>)
+## 75. The House Built Upon The Rock<a name="pericope75"></a> (<a href="#pericope75toc">^</a>)
 Essential Verses: [Matthew 7:24-27](http://www.esvbible.org/Matthew%207:24-27)
 Additional Verses: [Luke 6:47-49](http://www.esvbible.org/Luke%206:47-49)
 All Verses: [Matthew 7:24-27](http://www.esvbible.org/Matthew%207:24-27); [Luke 6:47-49](http://www.esvbible.org/Luke%206:47-49) ([All](http://www.esvbible.org/Matthew%207:24-27;%20Luke%206:47-49))
@@ -1948,7 +1948,7 @@ All Verses: [Matthew 7:24-27](http://www.esvbible.org/Matthew%207:24-27); [Luke 
 </div>
 </div>
 
-## 76. The Effect Of The Sermon<a name="pericope76"></a> (<a href="#pericopetoc">^</a>)
+## 76. The Effect Of The Sermon<a name="pericope76"></a> (<a href="#pericope76toc">^</a>)
 Essential Verses: [Matthew 7:28-29](http://www.esvbible.org/Matthew%207:28-29)
 Additional Verses: [Mark 1:21-22](http://www.esvbible.org/Mark%201:21-22)
 All Verses: [Matthew 7:28-29](http://www.esvbible.org/Matthew%207:28-29); [Mark 1:21-22](http://www.esvbible.org/Mark%201:21-22) ([All](http://www.esvbible.org/Matthew%207:28-29;%20Mark%201:21-22))
@@ -1967,7 +1967,7 @@ All Verses: [Matthew 7:28-29](http://www.esvbible.org/Matthew%207:28-29); [Mark 
 </div>
 </div>
 
-## 77. Occasion Of The Sermon<a name="pericope77"></a> (<a href="#pericopetoc">^</a>)
+## 77. Occasion Of The Sermon<a name="pericope77"></a> (<a href="#pericope77toc">^</a>)
 Essential Verses: [Luke 6:17-20a](http://www.esvbible.org/Luke%206:17-20a)
 Additional Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2); [Mark 3:7-13a](http://www.esvbible.org/Mark%203:7-13a) ([All](http://www.esvbible.org/Matthew%204:24-5:2;%20Mark%203:7-13a))
 All Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2); [Mark 3:7-13a](http://www.esvbible.org/Mark%203:7-13a); [Luke 6:17-20a](http://www.esvbible.org/Luke%206:17-20a) ([All](http://www.esvbible.org/Matthew%204:24-5:2;%20Mark%203:7-13a;%20Luke%206:17-20a))
@@ -2001,7 +2001,7 @@ All Verses: [Matthew 4:24-5:2](http://www.esvbible.org/Matthew%204:24-5:2); [Mar
 </div>
 </div>
 
-## 78. The Beatitudes<a name="pericope78"></a> (<a href="#pericopetoc">^</a>)
+## 78. The Beatitudes<a name="pericope78"></a> (<a href="#pericope78toc">^</a>)
 Essential Verses: [Luke 6:20b-23](http://www.esvbible.org/Luke%206:20b-23)
 Additional Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12)
 All Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12); [Luke 6:20b-23](http://www.esvbible.org/Luke%206:20b-23) ([All](http://www.esvbible.org/Matthew%205:3-12;%20Luke%206:20b-23))
@@ -2031,7 +2031,7 @@ All Verses: [Matthew 5:3-12](http://www.esvbible.org/Matthew%205:3-12); [Luke 6:
 </div>
 </div>
 
-## 79. The Woes<a name="pericope79"></a> (<a href="#pericopetoc">^</a>)
+## 79. The Woes<a name="pericope79"></a> (<a href="#pericope79toc">^</a>)
 All Verses: [Luke 6:24-26](http://www.esvbible.org/Luke%206:24-26) ([All](http://www.esvbible.org/Luke%206:24-26))
 
 ### Luke 6:24-26
@@ -2044,7 +2044,7 @@ All Verses: [Luke 6:24-26](http://www.esvbible.org/Luke%206:24-26) ([All](http:/
 </div>
 </div>
 
-## 80. On Love Of One's Enemies<a name="pericope80"></a> (<a href="#pericopetoc">^</a>)
+## 80. On Love Of One's Enemies<a name="pericope80"></a> (<a href="#pericope80toc">^</a>)
 Essential Verses: [Luke 6:27-36](http://www.esvbible.org/Luke%206:27-36)
 Additional Verses: [Matthew 5:38-48](http://www.esvbible.org/Matthew%205:38-48)
 All Verses: [Matthew 5:38-48](http://www.esvbible.org/Matthew%205:38-48); [Luke 6:27-36](http://www.esvbible.org/Luke%206:27-36) ([All](http://www.esvbible.org/Matthew%205:38-48;%20Luke%206:27-36))
@@ -2066,7 +2066,7 @@ All Verses: [Matthew 5:38-48](http://www.esvbible.org/Matthew%205:38-48); [Luke 
 </div>
 </div>
 
-## 81. On Judging<a name="pericope81"></a> (<a href="#pericopetoc">^</a>)
+## 81. On Judging<a name="pericope81"></a> (<a href="#pericope81toc">^</a>)
 Essential Verses: [Luke 6:37-42](http://www.esvbible.org/Luke%206:37-42)
 Additional Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5); [Mark 4:24-25](http://www.esvbible.org/Mark%204:24-25) ([All](http://www.esvbible.org/Matthew%207:1-5;%20Mark%204:24-25))
 All Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5); [Mark 4:24-25](http://www.esvbible.org/Mark%204:24-25); [Luke 6:37-42](http://www.esvbible.org/Luke%206:37-42) ([All](http://www.esvbible.org/Matthew%207:1-5;%20Mark%204:24-25;%20Luke%206:37-42))
@@ -2092,7 +2092,7 @@ All Verses: [Matthew 7:1-5](http://www.esvbible.org/Matthew%207:1-5); [Mark 4:24
 </div>
 </div>
 
-## 82. By Their Fruits<a name="pericope82"></a> (<a href="#pericopetoc">^</a>)
+## 82. By Their Fruits<a name="pericope82"></a> (<a href="#pericope82toc">^</a>)
 Essential Verses: [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45)
 Additional Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20); [Matthew 12:33-35](http://www.esvbible.org/Matthew%2012:33-35) ([All](http://www.esvbible.org/Matthew%207:15-20;%20Matthew%2012:33-35))
 All Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20); [Matthew 12:33-35](http://www.esvbible.org/Matthew%2012:33-35); [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45) ([All](http://www.esvbible.org/Matthew%207:15-20;%20Matthew%2012:33-35;%20Luke%206:43-45))
@@ -2118,7 +2118,7 @@ All Verses: [Matthew 7:15-20](http://www.esvbible.org/Matthew%207:15-20); [Matth
 </div>
 </div>
 
-## 83. The House Built Upon The Rock<a name="pericope83"></a> (<a href="#pericopetoc">^</a>)
+## 83. The House Built Upon The Rock<a name="pericope83"></a> (<a href="#pericope83toc">^</a>)
 Essential Verses: [Luke 6:46-49](http://www.esvbible.org/Luke%206:46-49)
 Additional Verses: [Matthew 7:21-27](http://www.esvbible.org/Matthew%207:21-27)
 All Verses: [Matthew 7:21-27](http://www.esvbible.org/Matthew%207:21-27); [Luke 6:46-49](http://www.esvbible.org/Luke%206:46-49) ([All](http://www.esvbible.org/Matthew%207:21-27;%20Luke%206:46-49))
@@ -2139,7 +2139,7 @@ All Verses: [Matthew 7:21-27](http://www.esvbible.org/Matthew%207:21-27); [Luke 
 </div>
 </div>
 
-## 84. Cleansing Of The Leper<a name="pericope84"></a> (<a href="#pericopetoc">^</a>)
+## 84. Cleansing Of The Leper<a name="pericope84"></a> (<a href="#pericope84toc">^</a>)
 Essential Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4)
 Additional Verses: [Mark 1:40-45](http://www.esvbible.org/Mark%201:40-45); [Luke 5:12-16](http://www.esvbible.org/Luke%205:12-16) ([All](http://www.esvbible.org/Mark%201:40-45;%20Luke%205:12-16))
 All Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4); [Mark 1:40-45](http://www.esvbible.org/Mark%201:40-45); [Luke 5:12-16](http://www.esvbible.org/Luke%205:12-16) ([All](http://www.esvbible.org/Matthew%208:1-4;%20Mark%201:40-45;%20Luke%205:12-16))
@@ -2165,7 +2165,7 @@ All Verses: [Matthew 8:1-4](http://www.esvbible.org/Matthew%208:1-4); [Mark 1:40
 </div>
 </div>
 
-## 85. The Centurion Of Capernaum<a name="pericope85"></a> (<a href="#pericopetoc">^</a>)
+## 85. The Centurion Of Capernaum<a name="pericope85"></a> (<a href="#pericope85toc">^</a>)
 Essential Verses: [Matthew 8:5-13](http://www.esvbible.org/Matthew%208:5-13); [Luke 7:1-10](http://www.esvbible.org/Luke%207:1-10); [John 4:46b-54](http://www.esvbible.org/John%204:46b-54) ([All](http://www.esvbible.org/Matthew%208:5-13;%20Luke%207:1-10;%20John%204:46b-54))
 Additional Verses: [Mark 7:30](http://www.esvbible.org/Mark%207:30); [Luke 13:28-29](http://www.esvbible.org/Luke%2013:28-29) ([All](http://www.esvbible.org/Mark%207:30;%20Luke%2013:28-29))
 All Verses: [Matthew 8:5-13](http://www.esvbible.org/Matthew%208:5-13); [Mark 7:30](http://www.esvbible.org/Mark%207:30); [Luke 7:1-10](http://www.esvbible.org/Luke%207:1-10); [Luke 13:28-29](http://www.esvbible.org/Luke%2013:28-29); [John 4:46b-54](http://www.esvbible.org/John%204:46b-54) ([All](http://www.esvbible.org/Matthew%208:5-13;%20Mark%207:30;%20Luke%207:1-10;%20Luke%2013:28-29;%20John%204:46b-54))
@@ -2203,7 +2203,7 @@ All Verses: [Matthew 8:5-13](http://www.esvbible.org/Matthew%208:5-13); [Mark 7:
 </div>
 </div>
 
-## 86. The Widow's Son At Nain<a name="pericope86"></a> (<a href="#pericopetoc">^</a>)
+## 86. The Widow's Son At Nain<a name="pericope86"></a> (<a href="#pericope86toc">^</a>)
 All Verses: [Luke 7:11-17](http://www.esvbible.org/Luke%207:11-17) ([All](http://www.esvbible.org/Luke%207:11-17))
 
 ### Luke 7:11-17
@@ -2213,7 +2213,7 @@ All Verses: [Luke 7:11-17](http://www.esvbible.org/Luke%207:11-17) ([All](http:/
 </div>
 </div>
 
-## 87. The Healing Of Peter's Mother-in-law<a name="pericope87"></a> (<a href="#pericopetoc">^</a>)
+## 87. The Healing Of Peter's Mother-in-law<a name="pericope87"></a> (<a href="#pericope87toc">^</a>)
 Essential Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15)
 Additional Verses: [Mark 1:29-31](http://www.esvbible.org/Mark%201:29-31); [Luke 4:38-39](http://www.esvbible.org/Luke%204:38-39) ([All](http://www.esvbible.org/Mark%201:29-31;%20Luke%204:38-39))
 All Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15); [Mark 1:29-31](http://www.esvbible.org/Mark%201:29-31); [Luke 4:38-39](http://www.esvbible.org/Luke%204:38-39) ([All](http://www.esvbible.org/Matthew%208:14-15;%20Mark%201:29-31;%20Luke%204:38-39))
@@ -2239,7 +2239,7 @@ All Verses: [Matthew 8:14-15](http://www.esvbible.org/Matthew%208:14-15); [Mark 
 </div>
 </div>
 
-## 88. The Sick Healed At Evening<a name="pericope88"></a> (<a href="#pericopetoc">^</a>)
+## 88. The Sick Healed At Evening<a name="pericope88"></a> (<a href="#pericope88toc">^</a>)
 Essential Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17)
 Additional Verses: [Mark 1:32-34](http://www.esvbible.org/Mark%201:32-34); [Luke 4:40-41](http://www.esvbible.org/Luke%204:40-41) ([All](http://www.esvbible.org/Mark%201:32-34;%20Luke%204:40-41))
 All Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17); [Mark 1:32-34](http://www.esvbible.org/Mark%201:32-34); [Luke 4:40-41](http://www.esvbible.org/Luke%204:40-41) ([All](http://www.esvbible.org/Matthew%208:16-17;%20Mark%201:32-34;%20Luke%204:40-41))
@@ -2262,7 +2262,7 @@ All Verses: [Matthew 8:16-17](http://www.esvbible.org/Matthew%208:16-17); [Mark 
 </div>
 </div>
 
-## 89. On Following Jesus<a name="pericope89"></a> (<a href="#pericopetoc">^</a>)
+## 89. On Following Jesus<a name="pericope89"></a> (<a href="#pericope89toc">^</a>)
 Essential Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22)
 Additional Verses: [Luke 9:57-62](http://www.esvbible.org/Luke%209:57-62)
 All Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22); [Luke 9:57-62](http://www.esvbible.org/Luke%209:57-62) ([All](http://www.esvbible.org/Matthew%208:18-22;%20Luke%209:57-62))
@@ -2281,7 +2281,7 @@ All Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22); [Luke 
 </div>
 </div>
 
-## 90. Stilling The Storm<a name="pericope90"></a> (<a href="#pericopetoc">^</a>)
+## 90. Stilling The Storm<a name="pericope90"></a> (<a href="#pericope90toc">^</a>)
 Essential Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27)
 Additional Verses: [Mark 4:35-41](http://www.esvbible.org/Mark%204:35-41); [Luke 8:22-25](http://www.esvbible.org/Luke%208:22-25) ([All](http://www.esvbible.org/Mark%204:35-41;%20Luke%208:22-25))
 All Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27); [Mark 4:35-41](http://www.esvbible.org/Mark%204:35-41); [Luke 8:22-25](http://www.esvbible.org/Luke%208:22-25) ([All](http://www.esvbible.org/Matthew%208:23-27;%20Mark%204:35-41;%20Luke%208:22-25))
@@ -2307,7 +2307,7 @@ All Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27); [Mark 
 </div>
 </div>
 
-## 91. The Gadarene Demoniacs<a name="pericope91"></a> (<a href="#pericopetoc">^</a>)
+## 91. The Gadarene Demoniacs<a name="pericope91"></a> (<a href="#pericope91toc">^</a>)
 Essential Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34)
 Additional Verses: [Mark 5:1-20](http://www.esvbible.org/Mark%205:1-20); [Luke 8:26-39](http://www.esvbible.org/Luke%208:26-39) ([All](http://www.esvbible.org/Mark%205:1-20;%20Luke%208:26-39))
 All Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34); [Mark 5:1-20](http://www.esvbible.org/Mark%205:1-20); [Luke 8:26-39](http://www.esvbible.org/Luke%208:26-39) ([All](http://www.esvbible.org/Matthew%208:28-34;%20Mark%205:1-20;%20Luke%208:26-39))
@@ -2335,7 +2335,7 @@ All Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34); [Mark 
 </div>
 </div>
 
-## 92. The Healing Of The Paralytic<a name="pericope92"></a> (<a href="#pericopetoc">^</a>)
+## 92. The Healing Of The Paralytic<a name="pericope92"></a> (<a href="#pericope92toc">^</a>)
 Essential Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8)
 Additional Verses: [Mark 2:1-12](http://www.esvbible.org/Mark%202:1-12); [Luke 5:17-26](http://www.esvbible.org/Luke%205:17-26); [John 5:8-9a](http://www.esvbible.org/John%205:8-9a) ([All](http://www.esvbible.org/Mark%202:1-12;%20Luke%205:17-26;%20John%205:8-9a))
 All Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8); [Mark 2:1-12](http://www.esvbible.org/Mark%202:1-12); [Luke 5:17-26](http://www.esvbible.org/Luke%205:17-26); [John 5:8-9a](http://www.esvbible.org/John%205:8-9a) ([All](http://www.esvbible.org/Matthew%209:1-8;%20Mark%202:1-12;%20Luke%205:17-26;%20John%205:8-9a))
@@ -2368,7 +2368,7 @@ All Verses: [Matthew 9:1-8](http://www.esvbible.org/Matthew%209:1-8); [Mark 2:1-
 </div>
 </div>
 
-## 93. The Call Of Levi (matthew)<a name="pericope93"></a> (<a href="#pericopetoc">^</a>)
+## 93. The Call Of Levi (matthew)<a name="pericope93"></a> (<a href="#pericope93toc">^</a>)
 Essential Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13)
 Additional Verses: [Mark 2:13-17](http://www.esvbible.org/Mark%202:13-17); [Luke 5:27-32](http://www.esvbible.org/Luke%205:27-32) ([All](http://www.esvbible.org/Mark%202:13-17;%20Luke%205:27-32))
 All Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13); [Mark 2:13-17](http://www.esvbible.org/Mark%202:13-17); [Luke 5:27-32](http://www.esvbible.org/Luke%205:27-32) ([All](http://www.esvbible.org/Matthew%209:9-13;%20Mark%202:13-17;%20Luke%205:27-32))
@@ -2397,7 +2397,7 @@ All Verses: [Matthew 9:9-13](http://www.esvbible.org/Matthew%209:9-13); [Mark 2:
 </div>
 </div>
 
-## 94. The Question About Fasting<a name="pericope94"></a> (<a href="#pericopetoc">^</a>)
+## 94. The Question About Fasting<a name="pericope94"></a> (<a href="#pericope94toc">^</a>)
 Essential Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17)
 Additional Verses: [Mark 2:18-22](http://www.esvbible.org/Mark%202:18-22); [Luke 5:33-39](http://www.esvbible.org/Luke%205:33-39) ([All](http://www.esvbible.org/Mark%202:18-22;%20Luke%205:33-39))
 All Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17); [Mark 2:18-22](http://www.esvbible.org/Mark%202:18-22); [Luke 5:33-39](http://www.esvbible.org/Luke%205:33-39) ([All](http://www.esvbible.org/Matthew%209:14-17;%20Mark%202:18-22;%20Luke%205:33-39))
@@ -2423,7 +2423,7 @@ All Verses: [Matthew 9:14-17](http://www.esvbible.org/Matthew%209:14-17); [Mark 
 </div>
 </div>
 
-## 95. Jairus' Daughter And The Woman With A Hemorrhage<a name="pericope95"></a> (<a href="#pericopetoc">^</a>)
+## 95. Jairus' Daughter And The Woman With A Hemorrhage<a name="pericope95"></a> (<a href="#pericope95toc">^</a>)
 Essential Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26)
 Additional Verses: [Mark 5:21-43](http://www.esvbible.org/Mark%205:21-43); [Luke 8:40-56](http://www.esvbible.org/Luke%208:40-56) ([All](http://www.esvbible.org/Mark%205:21-43;%20Luke%208:40-56))
 All Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26); [Mark 5:21-43](http://www.esvbible.org/Mark%205:21-43); [Luke 8:40-56](http://www.esvbible.org/Luke%208:40-56) ([All](http://www.esvbible.org/Matthew%209:18-26;%20Mark%205:21-43;%20Luke%208:40-56))
@@ -2453,7 +2453,7 @@ All Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26); [Mark 
 </div>
 </div>
 
-## 96. Two Blind Men<a name="pericope96"></a> (<a href="#pericopetoc">^</a>)
+## 96. Two Blind Men<a name="pericope96"></a> (<a href="#pericope96toc">^</a>)
 Essential Verses: [Matthew 9:27-31](http://www.esvbible.org/Matthew%209:27-31)
 Additional Verses: [Matthew 20:29-34](http://www.esvbible.org/Matthew%2020:29-34); [Mark 10:46-52](http://www.esvbible.org/Mark%2010:46-52); [Luke 18:35-43](http://www.esvbible.org/Luke%2018:35-43) ([All](http://www.esvbible.org/Matthew%2020:29-34;%20Mark%2010:46-52;%20Luke%2018:35-43))
 All Verses: [Matthew 9:27-31](http://www.esvbible.org/Matthew%209:27-31); [Matthew 20:29-34](http://www.esvbible.org/Matthew%2020:29-34); [Mark 10:46-52](http://www.esvbible.org/Mark%2010:46-52); [Luke 18:35-43](http://www.esvbible.org/Luke%2018:35-43) ([All](http://www.esvbible.org/Matthew%209:27-31;%20Matthew%2020:29-34;%20Mark%2010:46-52;%20Luke%2018:35-43))
@@ -2486,7 +2486,7 @@ All Verses: [Matthew 9:27-31](http://www.esvbible.org/Matthew%209:27-31); [Matth
 </div>
 </div>
 
-## 97. The Dumb Demoniac<a name="pericope97"></a> (<a href="#pericopetoc">^</a>)
+## 97. The Dumb Demoniac<a name="pericope97"></a> (<a href="#pericope97toc">^</a>)
 Essential Verses: [Matthew 9:32-34](http://www.esvbible.org/Matthew%209:32-34)
 Additional Verses: [Matthew 12:22-24](http://www.esvbible.org/Matthew%2012:22-24); [Mark 3:22](http://www.esvbible.org/Mark%203:22); [Luke 11:14-15](http://www.esvbible.org/Luke%2011:14-15) ([All](http://www.esvbible.org/Matthew%2012:22-24;%20Mark%203:22;%20Luke%2011:14-15))
 All Verses: [Matthew 9:32-34](http://www.esvbible.org/Matthew%209:32-34); [Matthew 12:22-24](http://www.esvbible.org/Matthew%2012:22-24); [Mark 3:22](http://www.esvbible.org/Mark%203:22); [Luke 11:14-15](http://www.esvbible.org/Luke%2011:14-15) ([All](http://www.esvbible.org/Matthew%209:32-34;%20Matthew%2012:22-24;%20Mark%203:22;%20Luke%2011:14-15))
@@ -2519,7 +2519,7 @@ All Verses: [Matthew 9:32-34](http://www.esvbible.org/Matthew%209:32-34); [Matth
 </div>
 </div>
 
-## 98. The Harvest Is Great<a name="pericope98"></a> (<a href="#pericopetoc">^</a>)
+## 98. The Harvest Is Great<a name="pericope98"></a> (<a href="#pericope98toc">^</a>)
 Essential Verses: [Matthew 9:35-38](http://www.esvbible.org/Matthew%209:35-38)
 Additional Verses: [Mark 6:6b](http://www.esvbible.org/Mark%206:6b); [Mark 6:34](http://www.esvbible.org/Mark%206:34); [Luke 8:1](http://www.esvbible.org/Luke%208:1); [Luke 10:2](http://www.esvbible.org/Luke%2010:2) ([All](http://www.esvbible.org/Mark%206:6b;%20Mark%206:34;%20Luke%208:1;%20Luke%2010:2))
 All Verses: [Matthew 9:35-38](http://www.esvbible.org/Matthew%209:35-38); [Mark 6:6b](http://www.esvbible.org/Mark%206:6b); [Mark 6:34](http://www.esvbible.org/Mark%206:34); [Luke 8:1](http://www.esvbible.org/Luke%208:1); [Luke 10:2](http://www.esvbible.org/Luke%2010:2) ([All](http://www.esvbible.org/Matthew%209:35-38;%20Mark%206:6b;%20Mark%206:34;%20Luke%208:1;%20Luke%2010:2))
@@ -2557,7 +2557,7 @@ All Verses: [Matthew 9:35-38](http://www.esvbible.org/Matthew%209:35-38); [Mark 
 </div>
 </div>
 
-## 99. Commissioning The Twelve<a name="pericope99"></a> (<a href="#pericopetoc">^</a>)
+## 99. Commissioning The Twelve<a name="pericope99"></a> (<a href="#pericope99toc">^</a>)
 Essential Verses: [Matthew 10:1-16](http://www.esvbible.org/Matthew%2010:1-16)
 Additional Verses: [Mark 6:7](http://www.esvbible.org/Mark%206:7); [Mark 3:13-19](http://www.esvbible.org/Mark%203:13-19); [Mark 6:8-11](http://www.esvbible.org/Mark%206:8-11); [Luke 9:1](http://www.esvbible.org/Luke%209:1); [Luke 6:12-16](http://www.esvbible.org/Luke%206:12-16); [Luke 9:2-5](http://www.esvbible.org/Luke%209:2-5); [Luke 10:3](http://www.esvbible.org/Luke%2010:3) ([All](http://www.esvbible.org/Mark%206:7;%20Mark%203:13-19;%20Mark%206:8-11;%20Luke%209:1;%20Luke%206:12-16;%20Luke%209:2-5;%20Luke%2010:3))
 All Verses: [Matthew 10:1-16](http://www.esvbible.org/Matthew%2010:1-16); [Mark 6:7](http://www.esvbible.org/Mark%206:7); [Mark 3:13-19](http://www.esvbible.org/Mark%203:13-19); [Mark 6:8-11](http://www.esvbible.org/Mark%206:8-11); [Luke 9:1](http://www.esvbible.org/Luke%209:1); [Luke 6:12-16](http://www.esvbible.org/Luke%206:12-16); [Luke 9:2-5](http://www.esvbible.org/Luke%209:2-5); [Luke 10:3](http://www.esvbible.org/Luke%2010:3) ([All](http://www.esvbible.org/Matthew%2010:1-16;%20Mark%206:7;%20Mark%203:13-19;%20Mark%206:8-11;%20Luke%209:1;%20Luke%206:12-16;%20Luke%209:2-5;%20Luke%2010:3))
@@ -2619,7 +2619,7 @@ All Verses: [Matthew 10:1-16](http://www.esvbible.org/Matthew%2010:1-16); [Mark 
 </div>
 </div>
 
-## 100. The Fate Of The Disciples<a name="pericope100"></a> (<a href="#pericopetoc">^</a>)
+## 100. The Fate Of The Disciples<a name="pericope100"></a> (<a href="#pericope100toc">^</a>)
 Essential Verses: [Matthew 10:17-25](http://www.esvbible.org/Matthew%2010:17-25)
 Additional Verses: [Matthew 24:9-14](http://www.esvbible.org/Matthew%2024:9-14); [Mark 13:9-13](http://www.esvbible.org/Mark%2013:9-13); [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12); [Luke 6:40](http://www.esvbible.org/Luke%206:40); [Luke 21:12-19](http://www.esvbible.org/Luke%2021:12-19); [John 13:16](http://www.esvbible.org/John%2013:16) ([All](http://www.esvbible.org/Matthew%2024:9-14;%20Mark%2013:9-13;%20Luke%2012:11-12;%20Luke%206:40;%20Luke%2021:12-19;%20John%2013:16))
 All Verses: [Matthew 10:17-25](http://www.esvbible.org/Matthew%2010:17-25); [Matthew 24:9-14](http://www.esvbible.org/Matthew%2024:9-14); [Mark 13:9-13](http://www.esvbible.org/Mark%2013:9-13); [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12); [Luke 6:40](http://www.esvbible.org/Luke%206:40); [Luke 21:12-19](http://www.esvbible.org/Luke%2021:12-19); [John 13:16](http://www.esvbible.org/John%2013:16) ([All](http://www.esvbible.org/Matthew%2010:17-25;%20Matthew%2024:9-14;%20Mark%2013:9-13;%20Luke%2012:11-12;%20Luke%206:40;%20Luke%2021:12-19;%20John%2013:16))
@@ -2667,7 +2667,7 @@ All Verses: [Matthew 10:17-25](http://www.esvbible.org/Matthew%2010:17-25); [Mat
 </div>
 </div>
 
-## 101. Exhortation To Fearless Confession<a name="pericope101"></a> (<a href="#pericopetoc">^</a>)
+## 101. Exhortation To Fearless Confession<a name="pericope101"></a> (<a href="#pericope101toc">^</a>)
 Essential Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33)
 Additional Verses: [Luke 12:2-9](http://www.esvbible.org/Luke%2012:2-9)
 All Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33); [Luke 12:2-9](http://www.esvbible.org/Luke%2012:2-9) ([All](http://www.esvbible.org/Matthew%2010:26-33;%20Luke%2012:2-9))
@@ -2689,7 +2689,7 @@ All Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33); [Luk
 </div>
 </div>
 
-## 102. Divisions Within Households<a name="pericope102"></a> (<a href="#pericopetoc">^</a>)
+## 102. Divisions Within Households<a name="pericope102"></a> (<a href="#pericope102toc">^</a>)
 Essential Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36)
 Additional Verses: [Luke 12:51-53](http://www.esvbible.org/Luke%2012:51-53)
 All Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36); [Luke 12:51-53](http://www.esvbible.org/Luke%2012:51-53) ([All](http://www.esvbible.org/Matthew%2010:34-36;%20Luke%2012:51-53))
@@ -2707,7 +2707,7 @@ All Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36); [Luk
 </div>
 </div>
 
-## 103. Conditions Of Discipleship<a name="pericope103"></a> (<a href="#pericopetoc">^</a>)
+## 103. Conditions Of Discipleship<a name="pericope103"></a> (<a href="#pericope103toc">^</a>)
 Essential Verses: [Matthew 10:37-39](http://www.esvbible.org/Matthew%2010:37-39)
 Additional Verses: [Luke 14:25-27](http://www.esvbible.org/Luke%2014:25-27); [Luke 17:33](http://www.esvbible.org/Luke%2017:33); [John 12:25](http://www.esvbible.org/John%2012:25) ([All](http://www.esvbible.org/Luke%2014:25-27;%20Luke%2017:33;%20John%2012:25))
 All Verses: [Matthew 10:37-39](http://www.esvbible.org/Matthew%2010:37-39); [Luke 14:25-27](http://www.esvbible.org/Luke%2014:25-27); [Luke 17:33](http://www.esvbible.org/Luke%2017:33); [John 12:25](http://www.esvbible.org/John%2012:25) ([All](http://www.esvbible.org/Matthew%2010:37-39;%20Luke%2014:25-27;%20Luke%2017:33;%20John%2012:25))
@@ -2737,7 +2737,7 @@ All Verses: [Matthew 10:37-39](http://www.esvbible.org/Matthew%2010:37-39); [Luk
 </div>
 </div>
 
-## 104. Rewards Of Discipleship<a name="pericope104"></a> (<a href="#pericopetoc">^</a>)
+## 104. Rewards Of Discipleship<a name="pericope104"></a> (<a href="#pericope104toc">^</a>)
 Essential Verses: [Matthew 10:40-42](http://www.esvbible.org/Matthew%2010:40-42)
 Additional Verses: [Mark 9:41](http://www.esvbible.org/Mark%209:41); [Luke 10:16](http://www.esvbible.org/Luke%2010:16); [John 13:20](http://www.esvbible.org/John%2013:20) ([All](http://www.esvbible.org/Mark%209:41;%20Luke%2010:16;%20John%2013:20))
 All Verses: [Matthew 10:40-42](http://www.esvbible.org/Matthew%2010:40-42); [Mark 9:41](http://www.esvbible.org/Mark%209:41); [Luke 10:16](http://www.esvbible.org/Luke%2010:16); [John 13:20](http://www.esvbible.org/John%2013:20) ([All](http://www.esvbible.org/Matthew%2010:40-42;%20Mark%209:41;%20Luke%2010:16;%20John%2013:20))
@@ -2767,7 +2767,7 @@ All Verses: [Matthew 10:40-42](http://www.esvbible.org/Matthew%2010:40-42); [Mar
 </div>
 </div>
 
-## 105. Continuation Of Journey<a name="pericope105"></a> (<a href="#pericopetoc">^</a>)
+## 105. Continuation Of Journey<a name="pericope105"></a> (<a href="#pericope105toc">^</a>)
 All Verses: [Matthew 11:1](http://www.esvbible.org/Matthew%2011:1) ([All](http://www.esvbible.org/Matthew%2011:1))
 
 ### Matthew 11:1
@@ -2777,7 +2777,7 @@ All Verses: [Matthew 11:1](http://www.esvbible.org/Matthew%2011:1) ([All](http:/
 </div>
 </div>
 
-## 106. John The Baptist's Question And Jesus' Answer<a name="pericope106"></a> (<a href="#pericopetoc">^</a>)
+## 106. John The Baptist's Question And Jesus' Answer<a name="pericope106"></a> (<a href="#pericope106toc">^</a>)
 All Verses: [Matthew 11:2-6](http://www.esvbible.org/Matthew%2011:2-6); [Luke 7:18-23](http://www.esvbible.org/Luke%207:18-23) ([All](http://www.esvbible.org/Matthew%2011:2-6;%20Luke%207:18-23))
 
 ### Matthew 11:2-6
@@ -2793,7 +2793,7 @@ All Verses: [Matthew 11:2-6](http://www.esvbible.org/Matthew%2011:2-6); [Luke 7:
 </div>
 </div>
 
-## 107. Jesus' Witness Concerning John<a name="pericope107"></a> (<a href="#pericopetoc">^</a>)
+## 107. Jesus' Witness Concerning John<a name="pericope107"></a> (<a href="#pericope107toc">^</a>)
 Essential Verses: [Matthew 11:7-19](http://www.esvbible.org/Matthew%2011:7-19); [Luke 7:24-35](http://www.esvbible.org/Luke%207:24-35) ([All](http://www.esvbible.org/Matthew%2011:7-19;%20Luke%207:24-35))
 Additional Verses: [Luke 16:16](http://www.esvbible.org/Luke%2016:16)
 All Verses: [Matthew 11:7-19](http://www.esvbible.org/Matthew%2011:7-19); [Luke 7:24-35](http://www.esvbible.org/Luke%207:24-35); [Luke 16:16](http://www.esvbible.org/Luke%2016:16) ([All](http://www.esvbible.org/Matthew%2011:7-19;%20Luke%207:24-35;%20Luke%2016:16))
@@ -2830,7 +2830,7 @@ All Verses: [Matthew 11:7-19](http://www.esvbible.org/Matthew%2011:7-19); [Luke 
 </div>
 </div>
 
-## 108. Woes Pronounced On Galilean Cities<a name="pericope108"></a> (<a href="#pericopetoc">^</a>)
+## 108. Woes Pronounced On Galilean Cities<a name="pericope108"></a> (<a href="#pericope108toc">^</a>)
 Essential Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24)
 Additional Verses: [Luke 10:12-15](http://www.esvbible.org/Luke%2010:12-15)
 All Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24); [Luke 10:12-15](http://www.esvbible.org/Luke%2010:12-15) ([All](http://www.esvbible.org/Matthew%2011:20-24;%20Luke%2010:12-15))
@@ -2850,7 +2850,7 @@ All Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24); [Luk
 </div>
 </div>
 
-## 109. Jesus' Thanksgiving To The Father<a name="pericope109"></a> (<a href="#pericopetoc">^</a>)
+## 109. Jesus' Thanksgiving To The Father<a name="pericope109"></a> (<a href="#pericope109toc">^</a>)
 Essential Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27)
 Additional Verses: [Luke 10:21-22](http://www.esvbible.org/Luke%2010:21-22)
 All Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27); [Luke 10:21-22](http://www.esvbible.org/Luke%2010:21-22) ([All](http://www.esvbible.org/Matthew%2011:25-27;%20Luke%2010:21-22))
@@ -2869,7 +2869,7 @@ All Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27); [Luk
 </div>
 </div>
 
-## 110. Come Unto Me<a name="pericope110"></a> (<a href="#pericopetoc">^</a>)
+## 110. Come Unto Me<a name="pericope110"></a> (<a href="#pericope110toc">^</a>)
 All Verses: [Matthew 11:28-30](http://www.esvbible.org/Matthew%2011:28-30) ([All](http://www.esvbible.org/Matthew%2011:28-30))
 
 ### Matthew 11:28-30
@@ -2878,7 +2878,7 @@ All Verses: [Matthew 11:28-30](http://www.esvbible.org/Matthew%2011:28-30) ([All
 </div>
 </div>
 
-## 111. Plucking Grain On The Sabbath<a name="pericope111"></a> (<a href="#pericopetoc">^</a>)
+## 111. Plucking Grain On The Sabbath<a name="pericope111"></a> (<a href="#pericope111toc">^</a>)
 Essential Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8)
 Additional Verses: [Mark 2:23-28](http://www.esvbible.org/Mark%202:23-28); [Luke 6:1-5](http://www.esvbible.org/Luke%206:1-5) ([All](http://www.esvbible.org/Mark%202:23-28;%20Luke%206:1-5))
 All Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8); [Mark 2:23-28](http://www.esvbible.org/Mark%202:23-28); [Luke 6:1-5](http://www.esvbible.org/Luke%206:1-5) ([All](http://www.esvbible.org/Matthew%2012:1-8;%20Mark%202:23-28;%20Luke%206:1-5))
@@ -2904,7 +2904,7 @@ All Verses: [Matthew 12:1-8](http://www.esvbible.org/Matthew%2012:1-8); [Mark 2:
 </div>
 </div>
 
-## 112. Healing The Withered Hand<a name="pericope112"></a> (<a href="#pericopetoc">^</a>)
+## 112. Healing The Withered Hand<a name="pericope112"></a> (<a href="#pericope112toc">^</a>)
 Essential Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14)
 Additional Verses: [Mark 3:1-6](http://www.esvbible.org/Mark%203:1-6); [Luke 6:6-11](http://www.esvbible.org/Luke%206:6-11) ([All](http://www.esvbible.org/Mark%203:1-6;%20Luke%206:6-11))
 All Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14); [Mark 3:1-6](http://www.esvbible.org/Mark%203:1-6); [Luke 6:6-11](http://www.esvbible.org/Luke%206:6-11) ([All](http://www.esvbible.org/Matthew%2012:9-14;%20Mark%203:1-6;%20Luke%206:6-11))
@@ -2930,7 +2930,7 @@ All Verses: [Matthew 12:9-14](http://www.esvbible.org/Matthew%2012:9-14); [Mark 
 </div>
 </div>
 
-## 113. Jesus Heals Multitudes By The Sea<a name="pericope113"></a> (<a href="#pericopetoc">^</a>)
+## 113. Jesus Heals Multitudes By The Sea<a name="pericope113"></a> (<a href="#pericope113toc">^</a>)
 Essential Verses: [Matthew 12:15-21](http://www.esvbible.org/Matthew%2012:15-21)
 Additional Verses: [Mark 3:7-12](http://www.esvbible.org/Mark%203:7-12); [Luke 6:17-19](http://www.esvbible.org/Luke%206:17-19) ([All](http://www.esvbible.org/Mark%203:7-12;%20Luke%206:17-19))
 All Verses: [Matthew 12:15-21](http://www.esvbible.org/Matthew%2012:15-21); [Mark 3:7-12](http://www.esvbible.org/Mark%203:7-12); [Luke 6:17-19](http://www.esvbible.org/Luke%206:17-19) ([All](http://www.esvbible.org/Matthew%2012:15-21;%20Mark%203:7-12;%20Luke%206:17-19))
@@ -2962,7 +2962,7 @@ until he brings justice to victory;<br/>and in his name the Gentiles will hope.&
 </div>
 </div>
 
-## 114. The Woman With The Ointment<a name="pericope114"></a> (<a href="#pericopetoc">^</a>)
+## 114. The Woman With The Ointment<a name="pericope114"></a> (<a href="#pericope114toc">^</a>)
 Essential Verses: [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50)
 Additional Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9); [John 12:1-8](http://www.esvbible.org/John%2012:1-8) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9;%20John%2012:1-8))
 All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9); [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50); [John 12:1-8](http://www.esvbible.org/John%2012:1-8) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9;%20Luke%207:36-50;%20John%2012:1-8))
@@ -2996,7 +2996,7 @@ All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 
 </div>
 </div>
 
-## 115. The Ministering Women<a name="pericope115"></a> (<a href="#pericopetoc">^</a>)
+## 115. The Ministering Women<a name="pericope115"></a> (<a href="#pericope115toc">^</a>)
 All Verses: [Luke 8:1-3](http://www.esvbible.org/Luke%208:1-3) ([All](http://www.esvbible.org/Luke%208:1-3))
 
 ### Luke 8:1-3
@@ -3006,7 +3006,7 @@ All Verses: [Luke 8:1-3](http://www.esvbible.org/Luke%208:1-3) ([All](http://www
 </div>
 </div>
 
-## 116. Jesus Is Thought To Be Beside Himself<a name="pericope116"></a> (<a href="#pericopetoc">^</a>)
+## 116. Jesus Is Thought To Be Beside Himself<a name="pericope116"></a> (<a href="#pericope116toc">^</a>)
 All Verses: [Mark 3:20-21](http://www.esvbible.org/Mark%203:20-21) ([All](http://www.esvbible.org/Mark%203:20-21))
 
 ### Mark 3:20-21
@@ -3015,7 +3015,7 @@ All Verses: [Mark 3:20-21](http://www.esvbible.org/Mark%203:20-21) ([All](http:/
 </div>
 </div>
 
-## 117. On Collusion With Satan<a name="pericope117"></a> (<a href="#pericopetoc">^</a>)
+## 117. On Collusion With Satan<a name="pericope117"></a> (<a href="#pericope117toc">^</a>)
 Essential Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Mark 3:22-27](http://www.esvbible.org/Mark%203:22-27) ([All](http://www.esvbible.org/Matthew%2012:22-30;%20Mark%203:22-27))
 Additional Verses: [Matthew 9:32-34](http://www.esvbible.org/Matthew%209:32-34); [Luke 11:14-15](http://www.esvbible.org/Luke%2011:14-15); [Luke 11:17-23](http://www.esvbible.org/Luke%2011:17-23) ([All](http://www.esvbible.org/Matthew%209:32-34;%20Luke%2011:14-15;%20Luke%2011:17-23))
 All Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Matthew 9:32-34](http://www.esvbible.org/Matthew%209:32-34); [Mark 3:22-27](http://www.esvbible.org/Mark%203:22-27); [Luke 11:14-15](http://www.esvbible.org/Luke%2011:14-15); [Luke 11:17-23](http://www.esvbible.org/Luke%2011:17-23) ([All](http://www.esvbible.org/Matthew%2012:22-30;%20Matthew%209:32-34;%20Mark%203:22-27;%20Luke%2011:14-15;%20Luke%2011:17-23))
@@ -3054,7 +3054,7 @@ All Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Mat
 </div>
 </div>
 
-## 118. The Sin Against The Holy Spirit<a name="pericope118"></a> (<a href="#pericopetoc">^</a>)
+## 118. The Sin Against The Holy Spirit<a name="pericope118"></a> (<a href="#pericope118toc">^</a>)
 Essential Verses: [Matthew 12:31-37](http://www.esvbible.org/Matthew%2012:31-37); [Mark 3:28-30](http://www.esvbible.org/Mark%203:28-30) ([All](http://www.esvbible.org/Matthew%2012:31-37;%20Mark%203:28-30))
 Additional Verses: [Matthew 7:16-20](http://www.esvbible.org/Matthew%207:16-20); [Luke 12:10](http://www.esvbible.org/Luke%2012:10); [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45) ([All](http://www.esvbible.org/Matthew%207:16-20;%20Luke%2012:10;%20Luke%206:43-45))
 All Verses: [Matthew 12:31-37](http://www.esvbible.org/Matthew%2012:31-37); [Matthew 7:16-20](http://www.esvbible.org/Matthew%207:16-20); [Mark 3:28-30](http://www.esvbible.org/Mark%203:28-30); [Luke 12:10](http://www.esvbible.org/Luke%2012:10); [Luke 6:43-45](http://www.esvbible.org/Luke%206:43-45) ([All](http://www.esvbible.org/Matthew%2012:31-37;%20Matthew%207:16-20;%20Mark%203:28-30;%20Luke%2012:10;%20Luke%206:43-45))
@@ -3092,7 +3092,7 @@ All Verses: [Matthew 12:31-37](http://www.esvbible.org/Matthew%2012:31-37); [Mat
 </div>
 </div>
 
-## 119. The Sign Of Jonah<a name="pericope119"></a> (<a href="#pericopetoc">^</a>)
+## 119. The Sign Of Jonah<a name="pericope119"></a> (<a href="#pericope119toc">^</a>)
 Essential Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42)
 Additional Verses: [Matthew 16:1-2a,4](http://www.esvbible.org/Matthew%2016:1-2a,4); [Mark 8:11-12](http://www.esvbible.org/Mark%208:11-12); [Luke 11:16](http://www.esvbible.org/Luke%2011:16); [Luke 11:29-32](http://www.esvbible.org/Luke%2011:29-32) ([All](http://www.esvbible.org/Matthew%2016:1-2a,4;%20Mark%208:11-12;%20Luke%2011:16;%20Luke%2011:29-32))
 All Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42); [Matthew 16:1-2a,4](http://www.esvbible.org/Matthew%2016:1-2a,4); [Mark 8:11-12](http://www.esvbible.org/Mark%208:11-12); [Luke 11:16](http://www.esvbible.org/Luke%2011:16); [Luke 11:29-32](http://www.esvbible.org/Luke%2011:29-32) ([All](http://www.esvbible.org/Matthew%2012:38-42;%20Matthew%2016:1-2a,4;%20Mark%208:11-12;%20Luke%2011:16;%20Luke%2011:29-32))
@@ -3133,7 +3133,7 @@ All Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42); [Mat
 </div>
 </div>
 
-## 120. The Return Of The Evil Spirit<a name="pericope120"></a> (<a href="#pericopetoc">^</a>)
+## 120. The Return Of The Evil Spirit<a name="pericope120"></a> (<a href="#pericope120toc">^</a>)
 Essential Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45)
 Additional Verses: [Luke 11:24-26](http://www.esvbible.org/Luke%2011:24-26)
 All Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45); [Luke 11:24-26](http://www.esvbible.org/Luke%2011:24-26) ([All](http://www.esvbible.org/Matthew%2012:43-45;%20Luke%2011:24-26))
@@ -3152,7 +3152,7 @@ All Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45); [Luk
 </div>
 </div>
 
-## 121. Jesus' True Kindred<a name="pericope121"></a> (<a href="#pericopetoc">^</a>)
+## 121. Jesus' True Kindred<a name="pericope121"></a> (<a href="#pericope121toc">^</a>)
 Essential Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mark 3:31-35](http://www.esvbible.org/Mark%203:31-35) ([All](http://www.esvbible.org/Matthew%2012:46-50;%20Mark%203:31-35))
 Additional Verses: [Luke 8:19-21](http://www.esvbible.org/Luke%208:19-21); [John 15:14](http://www.esvbible.org/John%2015:14) ([All](http://www.esvbible.org/Luke%208:19-21;%20John%2015:14))
 All Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mark 3:31-35](http://www.esvbible.org/Mark%203:31-35); [Luke 8:19-21](http://www.esvbible.org/Luke%208:19-21); [John 15:14](http://www.esvbible.org/John%2015:14) ([All](http://www.esvbible.org/Matthew%2012:46-50;%20Mark%203:31-35;%20Luke%208:19-21;%20John%2015:14))
@@ -3184,7 +3184,7 @@ All Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mar
 </div>
 </div>
 
-## 122. The Parable Of The Sower<a name="pericope122"></a> (<a href="#pericopetoc">^</a>)
+## 122. The Parable Of The Sower<a name="pericope122"></a> (<a href="#pericope122toc">^</a>)
 All Verses: [Matthew 13:1-9](http://www.esvbible.org/Matthew%2013:1-9); [Mark 4:1-9](http://www.esvbible.org/Mark%204:1-9); [Luke 8:4-8](http://www.esvbible.org/Luke%208:4-8) ([All](http://www.esvbible.org/Matthew%2013:1-9;%20Mark%204:1-9;%20Luke%208:4-8))
 
 ### Matthew 13:1-9
@@ -3208,7 +3208,7 @@ All Verses: [Matthew 13:1-9](http://www.esvbible.org/Matthew%2013:1-9); [Mark 4:
 </div>
 </div>
 
-## 123. The Reason For Speaking In Parables<a name="pericope123"></a> (<a href="#pericopetoc">^</a>)
+## 123. The Reason For Speaking In Parables<a name="pericope123"></a> (<a href="#pericope123toc">^</a>)
 Essential Verses: [Matthew 13:10-17](http://www.esvbible.org/Matthew%2013:10-17); [Mark 4:10-12](http://www.esvbible.org/Mark%204:10-12); [Luke 8:9-10](http://www.esvbible.org/Luke%208:9-10) ([All](http://www.esvbible.org/Matthew%2013:10-17;%20Mark%204:10-12;%20Luke%208:9-10))
 Additional Verses: [Mark 4:25](http://www.esvbible.org/Mark%204:25); [Luke 8:18b](http://www.esvbible.org/Luke%208:18b); [Luke 10:23-24](http://www.esvbible.org/Luke%2010:23-24) ([All](http://www.esvbible.org/Mark%204:25;%20Luke%208:18b;%20Luke%2010:23-24))
 All Verses: [Matthew 13:10-17](http://www.esvbible.org/Matthew%2013:10-17); [Mark 4:10-12](http://www.esvbible.org/Mark%204:10-12); [Mark 4:25](http://www.esvbible.org/Mark%204:25); [Luke 8:9-10](http://www.esvbible.org/Luke%208:9-10); [Luke 8:18b](http://www.esvbible.org/Luke%208:18b); [Luke 10:23-24](http://www.esvbible.org/Luke%2010:23-24) ([All](http://www.esvbible.org/Matthew%2013:10-17;%20Mark%204:10-12;%20Mark%204:25;%20Luke%208:9-10;%20Luke%208:18b;%20Luke%2010:23-24))
@@ -3260,7 +3260,7 @@ lest they should turn and be forgiven.&#x201D;</span></p></blockquote>
 </div>
 </div>
 
-## 124. Interpretation Of The Parable Of The Sower<a name="pericope124"></a> (<a href="#pericopetoc">^</a>)
+## 124. Interpretation Of The Parable Of The Sower<a name="pericope124"></a> (<a href="#pericope124toc">^</a>)
 All Verses: [Matthew 13:18-23](http://www.esvbible.org/Matthew%2013:18-23); [Mark 4:13-20](http://www.esvbible.org/Mark%204:13-20); [Luke 8:11-15](http://www.esvbible.org/Luke%208:11-15) ([All](http://www.esvbible.org/Matthew%2013:18-23;%20Mark%204:13-20;%20Luke%208:11-15))
 
 ### Matthew 13:18-23
@@ -3282,7 +3282,7 @@ All Verses: [Matthew 13:18-23](http://www.esvbible.org/Matthew%2013:18-23); [Mar
 </div>
 </div>
 
-## 125. He Who Has Ears To Hear, Let Him Hear<a name="pericope125"></a> (<a href="#pericopetoc">^</a>)
+## 125. He Who Has Ears To Hear, Let Him Hear<a name="pericope125"></a> (<a href="#pericope125toc">^</a>)
 Essential Verses: [Mark 4:21-25](http://www.esvbible.org/Mark%204:21-25); [Luke 8:16-18](http://www.esvbible.org/Luke%208:16-18) ([All](http://www.esvbible.org/Mark%204:21-25;%20Luke%208:16-18))
 Additional Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Matthew 10:26](http://www.esvbible.org/Matthew%2010:26); [Matthew 7:2](http://www.esvbible.org/Matthew%207:2); [Matthew 13:12](http://www.esvbible.org/Matthew%2013:12) ([All](http://www.esvbible.org/Matthew%205:15;%20Matthew%2010:26;%20Matthew%207:2;%20Matthew%2013:12))
 All Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Matthew 10:26](http://www.esvbible.org/Matthew%2010:26); [Matthew 7:2](http://www.esvbible.org/Matthew%207:2); [Matthew 13:12](http://www.esvbible.org/Matthew%2013:12); [Mark 4:21-25](http://www.esvbible.org/Mark%204:21-25); [Luke 8:16-18](http://www.esvbible.org/Luke%208:16-18) ([All](http://www.esvbible.org/Matthew%205:15;%20Matthew%2010:26;%20Matthew%207:2;%20Matthew%2013:12;%20Mark%204:21-25;%20Luke%208:16-18))
@@ -3326,7 +3326,7 @@ All Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Matthew 10:
 </div>
 </div>
 
-## 126. The Parable Of The Seed Growing Secretly<a name="pericope126"></a> (<a href="#pericopetoc">^</a>)
+## 126. The Parable Of The Seed Growing Secretly<a name="pericope126"></a> (<a href="#pericope126toc">^</a>)
 All Verses: [Mark 4:26-29](http://www.esvbible.org/Mark%204:26-29) ([All](http://www.esvbible.org/Mark%204:26-29))
 
 ### Mark 4:26-29
@@ -3336,7 +3336,7 @@ All Verses: [Mark 4:26-29](http://www.esvbible.org/Mark%204:26-29) ([All](http:/
 </div>
 </div>
 
-## 127. The Parable Of The Tares<a name="pericope127"></a> (<a href="#pericopetoc">^</a>)
+## 127. The Parable Of The Tares<a name="pericope127"></a> (<a href="#pericope127toc">^</a>)
 All Verses: [Matthew 13:24-30](http://www.esvbible.org/Matthew%2013:24-30) ([All](http://www.esvbible.org/Matthew%2013:24-30))
 
 ### Matthew 13:24-30
@@ -3346,7 +3346,7 @@ All Verses: [Matthew 13:24-30](http://www.esvbible.org/Matthew%2013:24-30) ([All
 </div>
 </div>
 
-## 128. The Parable Of The Mustard Seed<a name="pericope128"></a> (<a href="#pericopetoc">^</a>)
+## 128. The Parable Of The Mustard Seed<a name="pericope128"></a> (<a href="#pericope128toc">^</a>)
 Essential Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mark 4:30-32](http://www.esvbible.org/Mark%204:30-32) ([All](http://www.esvbible.org/Matthew%2013:31-32;%20Mark%204:30-32))
 Additional Verses: [Luke 13:18-19](http://www.esvbible.org/Luke%2013:18-19)
 All Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mark 4:30-32](http://www.esvbible.org/Mark%204:30-32); [Luke 13:18-19](http://www.esvbible.org/Luke%2013:18-19) ([All](http://www.esvbible.org/Matthew%2013:31-32;%20Mark%204:30-32;%20Luke%2013:18-19))
@@ -3372,7 +3372,7 @@ All Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mar
 </div>
 </div>
 
-## 129. The Parable Of The Leaven<a name="pericope129"></a> (<a href="#pericopetoc">^</a>)
+## 129. The Parable Of The Leaven<a name="pericope129"></a> (<a href="#pericope129toc">^</a>)
 Essential Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33)
 Additional Verses: [Luke 13:20-21](http://www.esvbible.org/Luke%2013:20-21)
 All Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33); [Luke 13:20-21](http://www.esvbible.org/Luke%2013:20-21) ([All](http://www.esvbible.org/Matthew%2013:33;%20Luke%2013:20-21))
@@ -3389,7 +3389,7 @@ All Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33); [Luke 13:2
 </div>
 </div>
 
-## 130. Jesus' Use Of Parables<a name="pericope130"></a> (<a href="#pericopetoc">^</a>)
+## 130. Jesus' Use Of Parables<a name="pericope130"></a> (<a href="#pericope130toc">^</a>)
 All Verses: [Matthew 13:34-35](http://www.esvbible.org/Matthew%2013:34-35); [Mark 4:33-34](http://www.esvbible.org/Mark%204:33-34) ([All](http://www.esvbible.org/Matthew%2013:34-35;%20Mark%204:33-34))
 
 ### Matthew 13:34-35
@@ -3407,7 +3407,7 @@ All Verses: [Matthew 13:34-35](http://www.esvbible.org/Matthew%2013:34-35); [Mar
 </div>
 </div>
 
-## 131. Interpretation Of The Parable Of The Tares<a name="pericope131"></a> (<a href="#pericopetoc">^</a>)
+## 131. Interpretation Of The Parable Of The Tares<a name="pericope131"></a> (<a href="#pericope131toc">^</a>)
 All Verses: [Matthew 13:36-43](http://www.esvbible.org/Matthew%2013:36-43) ([All](http://www.esvbible.org/Matthew%2013:36-43))
 
 ### Matthew 13:36-43
@@ -3417,7 +3417,7 @@ All Verses: [Matthew 13:36-43](http://www.esvbible.org/Matthew%2013:36-43) ([All
 </div>
 </div>
 
-## 132. The Parables Of The Hidden Treasure And Of The Pearl<a name="pericope132"></a> (<a href="#pericopetoc">^</a>)
+## 132. The Parables Of The Hidden Treasure And Of The Pearl<a name="pericope132"></a> (<a href="#pericope132toc">^</a>)
 All Verses: [Matthew 13:44-46](http://www.esvbible.org/Matthew%2013:44-46) ([All](http://www.esvbible.org/Matthew%2013:44-46))
 
 ### Matthew 13:44-46
@@ -3429,7 +3429,7 @@ All Verses: [Matthew 13:44-46](http://www.esvbible.org/Matthew%2013:44-46) ([All
 </div>
 </div>
 
-## 133. The Parable Of The Net<a name="pericope133"></a> (<a href="#pericopetoc">^</a>)
+## 133. The Parable Of The Net<a name="pericope133"></a> (<a href="#pericope133toc">^</a>)
 All Verses: [Matthew 13:47-50](http://www.esvbible.org/Matthew%2013:47-50) ([All](http://www.esvbible.org/Matthew%2013:47-50))
 
 ### Matthew 13:47-50
@@ -3439,7 +3439,7 @@ All Verses: [Matthew 13:47-50](http://www.esvbible.org/Matthew%2013:47-50) ([All
 </div>
 </div>
 
-## 134. Treasures New And Old<a name="pericope134"></a> (<a href="#pericopetoc">^</a>)
+## 134. Treasures New And Old<a name="pericope134"></a> (<a href="#pericope134toc">^</a>)
 All Verses: [Matthew 13:51-52](http://www.esvbible.org/Matthew%2013:51-52) ([All](http://www.esvbible.org/Matthew%2013:51-52))
 
 ### Matthew 13:51-52
@@ -3449,7 +3449,7 @@ All Verses: [Matthew 13:51-52](http://www.esvbible.org/Matthew%2013:51-52) ([All
 </div>
 </div>
 
-## 135. Jesus' True Kindred<a name="pericope135"></a> (<a href="#pericopetoc">^</a>)
+## 135. Jesus' True Kindred<a name="pericope135"></a> (<a href="#pericope135toc">^</a>)
 Essential Verses: [Luke 8:19-21](http://www.esvbible.org/Luke%208:19-21)
 Additional Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mark 3:31-35](http://www.esvbible.org/Mark%203:31-35); [John 15:14](http://www.esvbible.org/John%2015:14) ([All](http://www.esvbible.org/Matthew%2012:46-50;%20Mark%203:31-35;%20John%2015:14))
 All Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mark 3:31-35](http://www.esvbible.org/Mark%203:31-35); [Luke 8:19-21](http://www.esvbible.org/Luke%208:19-21); [John 15:14](http://www.esvbible.org/John%2015:14) ([All](http://www.esvbible.org/Matthew%2012:46-50;%20Mark%203:31-35;%20Luke%208:19-21;%20John%2015:14))
@@ -3481,7 +3481,7 @@ All Verses: [Matthew 12:46-50](http://www.esvbible.org/Matthew%2012:46-50); [Mar
 </div>
 </div>
 
-## 136. Stilling The Storm<a name="pericope136"></a> (<a href="#pericopetoc">^</a>)
+## 136. Stilling The Storm<a name="pericope136"></a> (<a href="#pericope136toc">^</a>)
 Essential Verses: [Mark 4:35-41](http://www.esvbible.org/Mark%204:35-41); [Luke 8:22-25](http://www.esvbible.org/Luke%208:22-25) ([All](http://www.esvbible.org/Mark%204:35-41;%20Luke%208:22-25))
 Additional Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27)
 All Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27); [Mark 4:35-41](http://www.esvbible.org/Mark%204:35-41); [Luke 8:22-25](http://www.esvbible.org/Luke%208:22-25) ([All](http://www.esvbible.org/Matthew%208:23-27;%20Mark%204:35-41;%20Luke%208:22-25))
@@ -3507,7 +3507,7 @@ All Verses: [Matthew 8:23-27](http://www.esvbible.org/Matthew%208:23-27); [Mark 
 </div>
 </div>
 
-## 137. The Gerasene Demoniac<a name="pericope137"></a> (<a href="#pericopetoc">^</a>)
+## 137. The Gerasene Demoniac<a name="pericope137"></a> (<a href="#pericope137toc">^</a>)
 Essential Verses: [Mark 5:1-20](http://www.esvbible.org/Mark%205:1-20); [Luke 8:26-39](http://www.esvbible.org/Luke%208:26-39) ([All](http://www.esvbible.org/Mark%205:1-20;%20Luke%208:26-39))
 Additional Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34)
 All Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34); [Mark 5:1-20](http://www.esvbible.org/Mark%205:1-20); [Luke 8:26-39](http://www.esvbible.org/Luke%208:26-39) ([All](http://www.esvbible.org/Matthew%208:28-34;%20Mark%205:1-20;%20Luke%208:26-39))
@@ -3535,7 +3535,7 @@ All Verses: [Matthew 8:28-34](http://www.esvbible.org/Matthew%208:28-34); [Mark 
 </div>
 </div>
 
-## 138. Jairus' Daughter And The Woman With A Hemorrhage<a name="pericope138"></a> (<a href="#pericopetoc">^</a>)
+## 138. Jairus' Daughter And The Woman With A Hemorrhage<a name="pericope138"></a> (<a href="#pericope138toc">^</a>)
 Essential Verses: [Mark 5:21-43](http://www.esvbible.org/Mark%205:21-43); [Luke 8:40-56](http://www.esvbible.org/Luke%208:40-56) ([All](http://www.esvbible.org/Mark%205:21-43;%20Luke%208:40-56))
 Additional Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26)
 All Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26); [Mark 5:21-43](http://www.esvbible.org/Mark%205:21-43); [Luke 8:40-56](http://www.esvbible.org/Luke%208:40-56) ([All](http://www.esvbible.org/Matthew%209:18-26;%20Mark%205:21-43;%20Luke%208:40-56))
@@ -3565,7 +3565,7 @@ All Verses: [Matthew 9:18-26](http://www.esvbible.org/Matthew%209:18-26); [Mark 
 </div>
 </div>
 
-## 139. Jesus Is Rejected At Nazareth<a name="pericope139"></a> (<a href="#pericopetoc">^</a>)
+## 139. Jesus Is Rejected At Nazareth<a name="pericope139"></a> (<a href="#pericope139toc">^</a>)
 Essential Verses: [Matthew 13:53-58](http://www.esvbible.org/Matthew%2013:53-58); [Mark 6:1-6a](http://www.esvbible.org/Mark%206:1-6a) ([All](http://www.esvbible.org/Matthew%2013:53-58;%20Mark%206:1-6a))
 Additional Verses: [Luke 4:16-30](http://www.esvbible.org/Luke%204:16-30)
 All Verses: [Matthew 13:53-58](http://www.esvbible.org/Matthew%2013:53-58); [Mark 6:1-6a](http://www.esvbible.org/Mark%206:1-6a); [Luke 4:16-30](http://www.esvbible.org/Luke%204:16-30) ([All](http://www.esvbible.org/Matthew%2013:53-58;%20Mark%206:1-6a;%20Luke%204:16-30))
@@ -3596,7 +3596,7 @@ He has sent me to proclaim liberty to the captives<br/>and recovering of sight t
 </div>
 </div>
 
-## 140. Second Journey (to Jerusalem)<a name="pericope140"></a> (<a href="#pericopetoc">^</a>)
+## 140. Second Journey (to Jerusalem)<a name="pericope140"></a> (<a href="#pericope140toc">^</a>)
 All Verses: [John 5:1](http://www.esvbible.org/John%205:1) ([All](http://www.esvbible.org/John%205:1))
 
 ### John 5:1
@@ -3606,7 +3606,7 @@ All Verses: [John 5:1](http://www.esvbible.org/John%205:1) ([All](http://www.esv
 </div>
 </div>
 
-## 141. The Healing At The Pool<a name="pericope141"></a> (<a href="#pericopetoc">^</a>)
+## 141. The Healing At The Pool<a name="pericope141"></a> (<a href="#pericope141toc">^</a>)
 All Verses: [John 5:2-47](http://www.esvbible.org/John%205:2-47) ([All](http://www.esvbible.org/John%205:2-47))
 
 ### John 5:2-47
@@ -3623,7 +3623,7 @@ All Verses: [John 5:2-47](http://www.esvbible.org/John%205:2-47) ([All](http://w
 </div>
 </div>
 
-## 142. Commissioning The Twelve<a name="pericope142"></a> (<a href="#pericopetoc">^</a>)
+## 142. Commissioning The Twelve<a name="pericope142"></a> (<a href="#pericope142toc">^</a>)
 Essential Verses: [Mark 6:6b-13](http://www.esvbible.org/Mark%206:6b-13); [Luke 9:1-6](http://www.esvbible.org/Luke%209:1-6) ([All](http://www.esvbible.org/Mark%206:6b-13;%20Luke%209:1-6))
 Additional Verses: [Matthew 9:35](http://www.esvbible.org/Matthew%209:35); [Matthew 10:1,7-11,14](http://www.esvbible.org/Matthew%2010:1,7-11,14) ([All](http://www.esvbible.org/Matthew%209:35;%20Matthew%2010:1,7-11,14))
 All Verses: [Matthew 9:35](http://www.esvbible.org/Matthew%209:35); [Matthew 10:1,7-11,14](http://www.esvbible.org/Matthew%2010:1,7-11,14); [Mark 6:6b-13](http://www.esvbible.org/Mark%206:6b-13); [Luke 9:1-6](http://www.esvbible.org/Luke%209:1-6) ([All](http://www.esvbible.org/Matthew%209:35;%20Matthew%2010:1,7-11,14;%20Mark%206:6b-13;%20Luke%209:1-6))
@@ -3662,7 +3662,7 @@ All Verses: [Matthew 9:35](http://www.esvbible.org/Matthew%209:35); [Matthew 10:
 </div>
 </div>
 
-## 143. Opinions Regarding Jesus<a name="pericope143"></a> (<a href="#pericopetoc">^</a>)
+## 143. Opinions Regarding Jesus<a name="pericope143"></a> (<a href="#pericope143toc">^</a>)
 All Verses: [Matthew 14:1-2](http://www.esvbible.org/Matthew%2014:1-2); [Mark 6:14-16](http://www.esvbible.org/Mark%206:14-16); [Luke 9:7-9](http://www.esvbible.org/Luke%209:7-9) ([All](http://www.esvbible.org/Matthew%2014:1-2;%20Mark%206:14-16;%20Luke%209:7-9))
 
 ### Matthew 14:1-2
@@ -3686,7 +3686,7 @@ All Verses: [Matthew 14:1-2](http://www.esvbible.org/Matthew%2014:1-2); [Mark 6:
 </div>
 </div>
 
-## 144. The Death Of John The Baptist<a name="pericope144"></a> (<a href="#pericopetoc">^</a>)
+## 144. The Death Of John The Baptist<a name="pericope144"></a> (<a href="#pericope144toc">^</a>)
 Essential Verses: [Matthew 14:3-12](http://www.esvbible.org/Matthew%2014:3-12); [Mark 6:17-29](http://www.esvbible.org/Mark%206:17-29) ([All](http://www.esvbible.org/Matthew%2014:3-12;%20Mark%206:17-29))
 Additional Verses: [Luke 3:19-20](http://www.esvbible.org/Luke%203:19-20)
 All Verses: [Matthew 14:3-12](http://www.esvbible.org/Matthew%2014:3-12); [Mark 6:17-29](http://www.esvbible.org/Mark%206:17-29); [Luke 3:19-20](http://www.esvbible.org/Luke%203:19-20) ([All](http://www.esvbible.org/Matthew%2014:3-12;%20Mark%206:17-29;%20Luke%203:19-20))
@@ -3710,7 +3710,7 @@ All Verses: [Matthew 14:3-12](http://www.esvbible.org/Matthew%2014:3-12); [Mark 
 </div>
 </div>
 
-## 145. The Return Of The Apostles<a name="pericope145"></a> (<a href="#pericopetoc">^</a>)
+## 145. The Return Of The Apostles<a name="pericope145"></a> (<a href="#pericope145toc">^</a>)
 All Verses: [Mark 6:30-31](http://www.esvbible.org/Mark%206:30-31); [Luke 9:10a](http://www.esvbible.org/Luke%209:10a) ([All](http://www.esvbible.org/Mark%206:30-31;%20Luke%209:10a))
 
 ### Mark 6:30-31
@@ -3727,7 +3727,7 @@ All Verses: [Mark 6:30-31](http://www.esvbible.org/Mark%206:30-31); [Luke 9:10a]
 </div>
 </div>
 
-## 146. Five Thousand Are Fed<a name="pericope146"></a> (<a href="#pericopetoc">^</a>)
+## 146. Five Thousand Are Fed<a name="pericope146"></a> (<a href="#pericope146toc">^</a>)
 All Verses: [Matthew 14:13-21](http://www.esvbible.org/Matthew%2014:13-21); [Mark 6:32-44](http://www.esvbible.org/Mark%206:32-44); [Luke 9: 10b-17](http://www.esvbible.org/Luke%209:%2010b-17); [John 6:1-15](http://www.esvbible.org/John%206:1-15) ([All](http://www.esvbible.org/Matthew%2014:13-21;%20Mark%206:32-44;%20Luke%209:%2010b-17;%20John%206:1-15))
 
 ### Matthew 14:13-21
@@ -3758,7 +3758,7 @@ All Verses: [Matthew 14:13-21](http://www.esvbible.org/Matthew%2014:13-21); [Mar
 </div>
 </div>
 
-## 147. The Walking On The Water<a name="pericope147"></a> (<a href="#pericopetoc">^</a>)
+## 147. The Walking On The Water<a name="pericope147"></a> (<a href="#pericope147toc">^</a>)
 All Verses: [Matthew 14:22-33](http://www.esvbible.org/Matthew%2014:22-33); [Mark 6:45-52](http://www.esvbible.org/Mark%206:45-52); [John 6:16-21](http://www.esvbible.org/John%206:16-21) ([All](http://www.esvbible.org/Matthew%2014:22-33;%20Mark%206:45-52;%20John%206:16-21))
 
 ### Matthew 14:22-33
@@ -3783,7 +3783,7 @@ All Verses: [Matthew 14:22-33](http://www.esvbible.org/Matthew%2014:22-33); [Mar
 </div>
 </div>
 
-## 148. Healings At Gennesaret<a name="pericope148"></a> (<a href="#pericopetoc">^</a>)
+## 148. Healings At Gennesaret<a name="pericope148"></a> (<a href="#pericope148toc">^</a>)
 All Verses: [Matthew 14:34-36](http://www.esvbible.org/Matthew%2014:34-36); [Mark 6:53-56](http://www.esvbible.org/Mark%206:53-56); [John 6:22-25](http://www.esvbible.org/John%206:22-25) ([All](http://www.esvbible.org/Matthew%2014:34-36;%20Mark%206:53-56;%20John%206:22-25))
 
 ### Matthew 14:34-36
@@ -3808,7 +3808,7 @@ All Verses: [Matthew 14:34-36](http://www.esvbible.org/Matthew%2014:34-36); [Mar
 </div>
 </div>
 
-## 149. The Bread Of Life<a name="pericope149"></a> (<a href="#pericopetoc">^</a>)
+## 149. The Bread Of Life<a name="pericope149"></a> (<a href="#pericope149toc">^</a>)
 All Verses: [John 6:26-59](http://www.esvbible.org/John%206:26-59) ([All](http://www.esvbible.org/John%206:26-59))
 
 ### John 6:26-59
@@ -3820,7 +3820,7 @@ All Verses: [John 6:26-59](http://www.esvbible.org/John%206:26-59) ([All](http:/
 </div>
 </div>
 
-## 150. Defilement - Traditional And Real<a name="pericope150"></a> (<a href="#pericopetoc">^</a>)
+## 150. Defilement - Traditional And Real<a name="pericope150"></a> (<a href="#pericope150toc">^</a>)
 Essential Verses: [Matthew 15:1-20](http://www.esvbible.org/Matthew%2015:1-20); [Mark 7:1-23](http://www.esvbible.org/Mark%207:1-23) ([All](http://www.esvbible.org/Matthew%2015:1-20;%20Mark%207:1-23))
 Additional Verses: [Luke 11:37-41](http://www.esvbible.org/Luke%2011:37-41); [Luke 6:39](http://www.esvbible.org/Luke%206:39) ([All](http://www.esvbible.org/Luke%2011:37-41;%20Luke%206:39))
 All Verses: [Matthew 15:1-20](http://www.esvbible.org/Matthew%2015:1-20); [Mark 7:1-23](http://www.esvbible.org/Mark%207:1-23); [Luke 11:37-41](http://www.esvbible.org/Luke%2011:37-41); [Luke 6:39](http://www.esvbible.org/Luke%206:39) ([All](http://www.esvbible.org/Matthew%2015:1-20;%20Mark%207:1-23;%20Luke%2011:37-41;%20Luke%206:39))
@@ -3862,7 +3862,7 @@ All Verses: [Matthew 15:1-20](http://www.esvbible.org/Matthew%2015:1-20); [Mark 
 </div>
 </div>
 
-## 151. The Syrophoenician (canaanite) Woman<a name="pericope151"></a> (<a href="#pericopetoc">^</a>)
+## 151. The Syrophoenician (canaanite) Woman<a name="pericope151"></a> (<a href="#pericope151toc">^</a>)
 All Verses: [Matthew 15:21-28](http://www.esvbible.org/Matthew%2015:21-28); [Mark 7:24-30](http://www.esvbible.org/Mark%207:24-30) ([All](http://www.esvbible.org/Matthew%2015:21-28;%20Mark%207:24-30))
 
 ### Matthew 15:21-28
@@ -3879,7 +3879,7 @@ All Verses: [Matthew 15:21-28](http://www.esvbible.org/Matthew%2015:21-28); [Mar
 </div>
 </div>
 
-## 152. Jesus Heals A Deaf Mute And Many Others<a name="pericope152"></a> (<a href="#pericopetoc">^</a>)
+## 152. Jesus Heals A Deaf Mute And Many Others<a name="pericope152"></a> (<a href="#pericope152toc">^</a>)
 All Verses: [Matthew 15:29-31](http://www.esvbible.org/Matthew%2015:29-31); [Mark 7:31-37](http://www.esvbible.org/Mark%207:31-37) ([All](http://www.esvbible.org/Matthew%2015:29-31;%20Mark%207:31-37))
 
 ### Matthew 15:29-31
@@ -3896,7 +3896,7 @@ All Verses: [Matthew 15:29-31](http://www.esvbible.org/Matthew%2015:29-31); [Mar
 </div>
 </div>
 
-## 153. Four Thousand Are Fed<a name="pericope153"></a> (<a href="#pericopetoc">^</a>)
+## 153. Four Thousand Are Fed<a name="pericope153"></a> (<a href="#pericope153toc">^</a>)
 All Verses: [Matthew 15:32-39](http://www.esvbible.org/Matthew%2015:32-39); [Mark 8:1-10](http://www.esvbible.org/Mark%208:1-10) ([All](http://www.esvbible.org/Matthew%2015:32-39;%20Mark%208:1-10))
 
 ### Matthew 15:32-39
@@ -3913,7 +3913,7 @@ All Verses: [Matthew 15:32-39](http://www.esvbible.org/Matthew%2015:32-39); [Mar
 </div>
 </div>
 
-## 154. The Pharisees Seek A Sign<a name="pericope154"></a> (<a href="#pericopetoc">^</a>)
+## 154. The Pharisees Seek A Sign<a name="pericope154"></a> (<a href="#pericope154toc">^</a>)
 Essential Verses: [Matthew 16:1-4](http://www.esvbible.org/Matthew%2016:1-4); [Mark 8:11-13](http://www.esvbible.org/Mark%208:11-13) ([All](http://www.esvbible.org/Matthew%2016:1-4;%20Mark%208:11-13))
 Additional Verses: [Matthew 12:38-39](http://www.esvbible.org/Matthew%2012:38-39); [Luke 11:16](http://www.esvbible.org/Luke%2011:16); [Luke 12:54-56](http://www.esvbible.org/Luke%2012:54-56); [Luke 11:29](http://www.esvbible.org/Luke%2011:29) ([All](http://www.esvbible.org/Matthew%2012:38-39;%20Luke%2011:16;%20Luke%2012:54-56;%20Luke%2011:29))
 All Verses: [Matthew 16:1-4](http://www.esvbible.org/Matthew%2016:1-4); [Matthew 12:38-39](http://www.esvbible.org/Matthew%2012:38-39); [Mark 8:11-13](http://www.esvbible.org/Mark%208:11-13); [Luke 11:16](http://www.esvbible.org/Luke%2011:16); [Luke 12:54-56](http://www.esvbible.org/Luke%2012:54-56); [Luke 11:29](http://www.esvbible.org/Luke%2011:29) ([All](http://www.esvbible.org/Matthew%2016:1-4;%20Matthew%2012:38-39;%20Mark%208:11-13;%20Luke%2011:16;%20Luke%2012:54-56;%20Luke%2011:29))
@@ -3959,7 +3959,7 @@ All Verses: [Matthew 16:1-4](http://www.esvbible.org/Matthew%2016:1-4); [Matthew
 </div>
 </div>
 
-## 155. The Leaven Of The Pharisees<a name="pericope155"></a> (<a href="#pericopetoc">^</a>)
+## 155. The Leaven Of The Pharisees<a name="pericope155"></a> (<a href="#pericope155toc">^</a>)
 Essential Verses: [Matthew 16:5-12](http://www.esvbible.org/Matthew%2016:5-12); [Mark 8:14-21](http://www.esvbible.org/Mark%208:14-21) ([All](http://www.esvbible.org/Matthew%2016:5-12;%20Mark%208:14-21))
 Additional Verses: [Luke 12:1](http://www.esvbible.org/Luke%2012:1)
 All Verses: [Matthew 16:5-12](http://www.esvbible.org/Matthew%2016:5-12); [Mark 8:14-21](http://www.esvbible.org/Mark%208:14-21); [Luke 12:1](http://www.esvbible.org/Luke%2012:1) ([All](http://www.esvbible.org/Matthew%2016:5-12;%20Mark%208:14-21;%20Luke%2012:1))
@@ -3985,7 +3985,7 @@ All Verses: [Matthew 16:5-12](http://www.esvbible.org/Matthew%2016:5-12); [Mark 
 </div>
 </div>
 
-## 156. A Blind Man Is Healed At Bethsaida<a name="pericope156"></a> (<a href="#pericopetoc">^</a>)
+## 156. A Blind Man Is Healed At Bethsaida<a name="pericope156"></a> (<a href="#pericope156toc">^</a>)
 All Verses: [Mark 8:22-26](http://www.esvbible.org/Mark%208:22-26) ([All](http://www.esvbible.org/Mark%208:22-26))
 
 ### Mark 8:22-26
@@ -3995,7 +3995,7 @@ All Verses: [Mark 8:22-26](http://www.esvbible.org/Mark%208:22-26) ([All](http:/
 </div>
 </div>
 
-## 157. Many Disciples Take Offense At Jesus<a name="pericope157"></a> (<a href="#pericopetoc">^</a>)
+## 157. Many Disciples Take Offense At Jesus<a name="pericope157"></a> (<a href="#pericope157toc">^</a>)
 All Verses: [John 6:60-66](http://www.esvbible.org/John%206:60-66) ([All](http://www.esvbible.org/John%206:60-66))
 
 ### John 6:60-66
@@ -4006,7 +4006,7 @@ All Verses: [John 6:60-66](http://www.esvbible.org/John%206:60-66) ([All](http:/
 </div>
 </div>
 
-## 158. Peter's Confession<a name="pericope158"></a> (<a href="#pericopetoc">^</a>)
+## 158. Peter's Confession<a name="pericope158"></a> (<a href="#pericope158toc">^</a>)
 All Verses: [Matthew 16:13-20](http://www.esvbible.org/Matthew%2016:13-20); [Mark 8:27-30](http://www.esvbible.org/Mark%208:27-30); [Luke 9:18-21](http://www.esvbible.org/Luke%209:18-21); [John 6:67-71](http://www.esvbible.org/John%206:67-71) ([All](http://www.esvbible.org/Matthew%2016:13-20;%20Mark%208:27-30;%20Luke%209:18-21;%20John%206:67-71))
 
 ### Matthew 16:13-20
@@ -4038,7 +4038,7 @@ All Verses: [Matthew 16:13-20](http://www.esvbible.org/Matthew%2016:13-20); [Mar
 </div>
 </div>
 
-## 159. Jesus Foretells His Passion<a name="pericope159"></a> (<a href="#pericopetoc">^</a>)
+## 159. Jesus Foretells His Passion<a name="pericope159"></a> (<a href="#pericope159toc">^</a>)
 All Verses: [Matthew 16:21-23](http://www.esvbible.org/Matthew%2016:21-23); [Mark 8:31-33](http://www.esvbible.org/Mark%208:31-33); [Luke 9:22](http://www.esvbible.org/Luke%209:22) ([All](http://www.esvbible.org/Matthew%2016:21-23;%20Mark%208:31-33;%20Luke%209:22))
 
 ### Matthew 16:21-23
@@ -4061,7 +4061,7 @@ All Verses: [Matthew 16:21-23](http://www.esvbible.org/Matthew%2016:21-23); [Mar
 </div>
 </div>
 
-## 160. If Any Man Would Come After Me<a name="pericope160"></a> (<a href="#pericopetoc">^</a>)
+## 160. If Any Man Would Come After Me<a name="pericope160"></a> (<a href="#pericope160toc">^</a>)
 Essential Verses: [Matthew 16:24-28](http://www.esvbible.org/Matthew%2016:24-28); [Mark 8:34-9:1](http://www.esvbible.org/Mark%208:34-9:1); [Luke 9:23-27](http://www.esvbible.org/Luke%209:23-27) ([All](http://www.esvbible.org/Matthew%2016:24-28;%20Mark%208:34-9:1;%20Luke%209:23-27))
 Additional Verses: [John 12:25](http://www.esvbible.org/John%2012:25)
 All Verses: [Matthew 16:24-28](http://www.esvbible.org/Matthew%2016:24-28); [Mark 8:34-9:1](http://www.esvbible.org/Mark%208:34-9:1); [Luke 9:23-27](http://www.esvbible.org/Luke%209:23-27); [John 12:25](http://www.esvbible.org/John%2012:25) ([All](http://www.esvbible.org/Matthew%2016:24-28;%20Mark%208:34-9:1;%20Luke%209:23-27;%20John%2012:25))
@@ -4093,7 +4093,7 @@ All Verses: [Matthew 16:24-28](http://www.esvbible.org/Matthew%2016:24-28); [Mar
 </div>
 </div>
 
-## 161. The Transfiguration<a name="pericope161"></a> (<a href="#pericopetoc">^</a>)
+## 161. The Transfiguration<a name="pericope161"></a> (<a href="#pericope161toc">^</a>)
 All Verses: [Matthew 17:1-9](http://www.esvbible.org/Matthew%2017:1-9); [Mark 9:2-10](http://www.esvbible.org/Mark%209:2-10); [Luke 9:28-36](http://www.esvbible.org/Luke%209:28-36) ([All](http://www.esvbible.org/Matthew%2017:1-9;%20Mark%209:2-10;%20Luke%209:28-36))
 
 ### Matthew 17:1-9
@@ -4119,7 +4119,7 @@ All Verses: [Matthew 17:1-9](http://www.esvbible.org/Matthew%2017:1-9); [Mark 9:
 </div>
 </div>
 
-## 162. The Coming Of Elijah<a name="pericope162"></a> (<a href="#pericopetoc">^</a>)
+## 162. The Coming Of Elijah<a name="pericope162"></a> (<a href="#pericope162toc">^</a>)
 All Verses: [Matthew 17:10-13](http://www.esvbible.org/Matthew%2017:10-13); [Mark 9:11-13](http://www.esvbible.org/Mark%209:11-13) ([All](http://www.esvbible.org/Matthew%2017:10-13;%20Mark%209:11-13))
 
 ### Matthew 17:10-13
@@ -4134,7 +4134,7 @@ All Verses: [Matthew 17:10-13](http://www.esvbible.org/Matthew%2017:10-13); [Mar
 </div>
 </div>
 
-## 163. Jesus Heals A Boy Possessed By A Spirit<a name="pericope163"></a> (<a href="#pericopetoc">^</a>)
+## 163. Jesus Heals A Boy Possessed By A Spirit<a name="pericope163"></a> (<a href="#pericope163toc">^</a>)
 Essential Verses: [Matthew 17:14-21](http://www.esvbible.org/Matthew%2017:14-21); [Mark 9:14-29](http://www.esvbible.org/Mark%209:14-29); [Luke 9:37-43a](http://www.esvbible.org/Luke%209:37-43a) ([All](http://www.esvbible.org/Matthew%2017:14-21;%20Mark%209:14-29;%20Luke%209:37-43a))
 Additional Verses: [Luke 17:6](http://www.esvbible.org/Luke%2017:6)
 All Verses: [Matthew 17:14-21](http://www.esvbible.org/Matthew%2017:14-21); [Mark 9:14-29](http://www.esvbible.org/Mark%209:14-29); [Luke 9:37-43a](http://www.esvbible.org/Luke%209:37-43a); [Luke 17:6](http://www.esvbible.org/Luke%2017:6) ([All](http://www.esvbible.org/Matthew%2017:14-21;%20Mark%209:14-29;%20Luke%209:37-43a;%20Luke%2017:6))
@@ -4168,7 +4168,7 @@ All Verses: [Matthew 17:14-21](http://www.esvbible.org/Matthew%2017:14-21); [Mar
 </div>
 </div>
 
-## 164. Jesus Foretells His Passion Again<a name="pericope164"></a> (<a href="#pericopetoc">^</a>)
+## 164. Jesus Foretells His Passion Again<a name="pericope164"></a> (<a href="#pericope164toc">^</a>)
 All Verses: [Matthew 17:22-23](http://www.esvbible.org/Matthew%2017:22-23); [Mark 9:30-32](http://www.esvbible.org/Mark%209:30-32); [Luke 9:43b-45](http://www.esvbible.org/Luke%209:43b-45) ([All](http://www.esvbible.org/Matthew%2017:22-23;%20Mark%209:30-32;%20Luke%209:43b-45))
 
 ### Matthew 17:22-23
@@ -4193,7 +4193,7 @@ All Verses: [Matthew 17:22-23](http://www.esvbible.org/Matthew%2017:22-23); [Mar
 </div>
 </div>
 
-## 165. Payment Of The Temple Tax<a name="pericope165"></a> (<a href="#pericopetoc">^</a>)
+## 165. Payment Of The Temple Tax<a name="pericope165"></a> (<a href="#pericope165toc">^</a>)
 All Verses: [Matthew 17:24-27](http://www.esvbible.org/Matthew%2017:24-27) ([All](http://www.esvbible.org/Matthew%2017:24-27))
 
 ### Matthew 17:24-27
@@ -4203,7 +4203,7 @@ All Verses: [Matthew 17:24-27](http://www.esvbible.org/Matthew%2017:24-27) ([All
 </div>
 </div>
 
-## 166. True Greatness<a name="pericope166"></a> (<a href="#pericopetoc">^</a>)
+## 166. True Greatness<a name="pericope166"></a> (<a href="#pericope166toc">^</a>)
 Essential Verses: [Matthew 18:1-5](http://www.esvbible.org/Matthew%2018:1-5); [Mark 9:33-37](http://www.esvbible.org/Mark%209:33-37); [Luke 9:46-48](http://www.esvbible.org/Luke%209:46-48) ([All](http://www.esvbible.org/Matthew%2018:1-5;%20Mark%209:33-37;%20Luke%209:46-48))
 Additional Verses: [John 13:20](http://www.esvbible.org/John%2013:20)
 All Verses: [Matthew 18:1-5](http://www.esvbible.org/Matthew%2018:1-5); [Mark 9:33-37](http://www.esvbible.org/Mark%209:33-37); [Luke 9:46-48](http://www.esvbible.org/Luke%209:46-48); [John 13:20](http://www.esvbible.org/John%2013:20) ([All](http://www.esvbible.org/Matthew%2018:1-5;%20Mark%209:33-37;%20Luke%209:46-48;%20John%2013:20))
@@ -4236,7 +4236,7 @@ All Verses: [Matthew 18:1-5](http://www.esvbible.org/Matthew%2018:1-5); [Mark 9:
 </div>
 </div>
 
-## 167. The Strange Exorcist<a name="pericope167"></a> (<a href="#pericopetoc">^</a>)
+## 167. The Strange Exorcist<a name="pericope167"></a> (<a href="#pericope167toc">^</a>)
 Essential Verses: [Mark 9:38-41](http://www.esvbible.org/Mark%209:38-41); [Luke 9:49-50](http://www.esvbible.org/Luke%209:49-50) ([All](http://www.esvbible.org/Mark%209:38-41;%20Luke%209:49-50))
 Additional Verses: [Matthew 10:42](http://www.esvbible.org/Matthew%2010:42)
 All Verses: [Matthew 10:42](http://www.esvbible.org/Matthew%2010:42); [Mark 9:38-41](http://www.esvbible.org/Mark%209:38-41); [Luke 9:49-50](http://www.esvbible.org/Luke%209:49-50) ([All](http://www.esvbible.org/Matthew%2010:42;%20Mark%209:38-41;%20Luke%209:49-50))
@@ -4261,7 +4261,7 @@ All Verses: [Matthew 10:42](http://www.esvbible.org/Matthew%2010:42); [Mark 9:38
 </div>
 </div>
 
-## 168. Warnings Concerning Temptations<a name="pericope168"></a> (<a href="#pericopetoc">^</a>)
+## 168. Warnings Concerning Temptations<a name="pericope168"></a> (<a href="#pericope168toc">^</a>)
 Essential Verses: [Matthew 18:6-9](http://www.esvbible.org/Matthew%2018:6-9); [Mark 9:42-50](http://www.esvbible.org/Mark%209:42-50) ([All](http://www.esvbible.org/Matthew%2018:6-9;%20Mark%209:42-50))
 Additional Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Luke 17:1-2](http://www.esvbible.org/Luke%2017:1-2); [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35) ([All](http://www.esvbible.org/Matthew%205:13;%20Luke%2017:1-2;%20Luke%2014:34-35))
 All Verses: [Matthew 18:6-9](http://www.esvbible.org/Matthew%2018:6-9); [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:42-50](http://www.esvbible.org/Mark%209:42-50); [Luke 17:1-2](http://www.esvbible.org/Luke%2017:1-2); [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35) ([All](http://www.esvbible.org/Matthew%2018:6-9;%20Matthew%205:13;%20Mark%209:42-50;%20Luke%2017:1-2;%20Luke%2014:34-35))
@@ -4302,7 +4302,7 @@ All Verses: [Matthew 18:6-9](http://www.esvbible.org/Matthew%2018:6-9); [Matthew
 </div>
 </div>
 
-## 169. The Parable Of The Lost Sheep<a name="pericope169"></a> (<a href="#pericopetoc">^</a>)
+## 169. The Parable Of The Lost Sheep<a name="pericope169"></a> (<a href="#pericope169toc">^</a>)
 Essential Verses: [Matthew 18:10-14](http://www.esvbible.org/Matthew%2018:10-14)
 Additional Verses: [Luke 15:3-7](http://www.esvbible.org/Luke%2015:3-7)
 All Verses: [Matthew 18:10-14](http://www.esvbible.org/Matthew%2018:10-14); [Luke 15:3-7](http://www.esvbible.org/Luke%2015:3-7) ([All](http://www.esvbible.org/Matthew%2018:10-14;%20Luke%2015:3-7))
@@ -4320,7 +4320,7 @@ All Verses: [Matthew 18:10-14](http://www.esvbible.org/Matthew%2018:10-14); [Luk
 </div>
 </div>
 
-## 170. On Reproving One's Brother<a name="pericope170"></a> (<a href="#pericopetoc">^</a>)
+## 170. On Reproving One's Brother<a name="pericope170"></a> (<a href="#pericope170toc">^</a>)
 Essential Verses: [Matthew 18:15-18](http://www.esvbible.org/Matthew%2018:15-18)
 Additional Verses: [Luke 17:3](http://www.esvbible.org/Luke%2017:3); [John 20:23](http://www.esvbible.org/John%2020:23) ([All](http://www.esvbible.org/Luke%2017:3;%20John%2020:23))
 All Verses: [Matthew 18:15-18](http://www.esvbible.org/Matthew%2018:15-18); [Luke 17:3](http://www.esvbible.org/Luke%2017:3); [John 20:23](http://www.esvbible.org/John%2020:23) ([All](http://www.esvbible.org/Matthew%2018:15-18;%20Luke%2017:3;%20John%2020:23))
@@ -4344,7 +4344,7 @@ All Verses: [Matthew 18:15-18](http://www.esvbible.org/Matthew%2018:15-18); [Luk
 </div>
 </div>
 
-## 171. Where Two Or Three Are Gathered Together<a name="pericope171"></a> (<a href="#pericopetoc">^</a>)
+## 171. Where Two Or Three Are Gathered Together<a name="pericope171"></a> (<a href="#pericope171toc">^</a>)
 All Verses: [Matthew 18:19-20](http://www.esvbible.org/Matthew%2018:19-20) ([All](http://www.esvbible.org/Matthew%2018:19-20))
 
 ### Matthew 18:19-20
@@ -4353,7 +4353,7 @@ All Verses: [Matthew 18:19-20](http://www.esvbible.org/Matthew%2018:19-20) ([All
 </div>
 </div>
 
-## 172. On Reconciliation<a name="pericope172"></a> (<a href="#pericopetoc">^</a>)
+## 172. On Reconciliation<a name="pericope172"></a> (<a href="#pericope172toc">^</a>)
 Essential Verses: [Matthew 18:21-22](http://www.esvbible.org/Matthew%2018:21-22)
 Additional Verses: [Luke 17:4](http://www.esvbible.org/Luke%2017:4)
 All Verses: [Matthew 18:21-22](http://www.esvbible.org/Matthew%2018:21-22); [Luke 17:4](http://www.esvbible.org/Luke%2017:4) ([All](http://www.esvbible.org/Matthew%2018:21-22;%20Luke%2017:4))
@@ -4371,7 +4371,7 @@ All Verses: [Matthew 18:21-22](http://www.esvbible.org/Matthew%2018:21-22); [Luk
 </div>
 </div>
 
-## 173. The Parable Of The Unforgiving Servant<a name="pericope173"></a> (<a href="#pericopetoc">^</a>)
+## 173. The Parable Of The Unforgiving Servant<a name="pericope173"></a> (<a href="#pericope173toc">^</a>)
 All Verses: [Matthew 18:23-35](http://www.esvbible.org/Matthew%2018:23-35) ([All](http://www.esvbible.org/Matthew%2018:23-35))
 
 ### Matthew 18:23-35
@@ -4380,7 +4380,7 @@ All Verses: [Matthew 18:23-35](http://www.esvbible.org/Matthew%2018:23-35) ([All
 </div>
 </div>
 
-## 174. Decision To Go To Jerusalem<a name="pericope174"></a> (<a href="#pericopetoc">^</a>)
+## 174. Decision To Go To Jerusalem<a name="pericope174"></a> (<a href="#pericope174toc">^</a>)
 Essential Verses: [Luke 9:51](http://www.esvbible.org/Luke%209:51)
 Additional Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10:1](http://www.esvbible.org/Mark%2010:1) ([All](http://www.esvbible.org/Matthew%2019:1-2;%20Mark%2010:1))
 All Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10:1](http://www.esvbible.org/Mark%2010:1); [Luke 9:51](http://www.esvbible.org/Luke%209:51) ([All](http://www.esvbible.org/Matthew%2019:1-2;%20Mark%2010:1;%20Luke%209:51))
@@ -4406,7 +4406,7 @@ All Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10
 </div>
 </div>
 
-## 175. Jesus Is Rejected By Samaritans<a name="pericope175"></a> (<a href="#pericopetoc">^</a>)
+## 175. Jesus Is Rejected By Samaritans<a name="pericope175"></a> (<a href="#pericope175toc">^</a>)
 All Verses: [Luke 9:52-56](http://www.esvbible.org/Luke%209:52-56) ([All](http://www.esvbible.org/Luke%209:52-56))
 
 ### Luke 9:52-56
@@ -4415,7 +4415,7 @@ All Verses: [Luke 9:52-56](http://www.esvbible.org/Luke%209:52-56) ([All](http:/
 </div>
 </div>
 
-## 176. On Following Jesus<a name="pericope176"></a> (<a href="#pericopetoc">^</a>)
+## 176. On Following Jesus<a name="pericope176"></a> (<a href="#pericope176toc">^</a>)
 Essential Verses: [Luke 9:57-62](http://www.esvbible.org/Luke%209:57-62)
 Additional Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22)
 All Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22); [Luke 9:57-62](http://www.esvbible.org/Luke%209:57-62) ([All](http://www.esvbible.org/Matthew%208:18-22;%20Luke%209:57-62))
@@ -4434,7 +4434,7 @@ All Verses: [Matthew 8:18-22](http://www.esvbible.org/Matthew%208:18-22); [Luke 
 </div>
 </div>
 
-## 177. Commissioning The Seventy<a name="pericope177"></a> (<a href="#pericopetoc">^</a>)
+## 177. Commissioning The Seventy<a name="pericope177"></a> (<a href="#pericope177toc">^</a>)
 Essential Verses: [Luke 10:1-12](http://www.esvbible.org/Luke%2010:1-12)
 Additional Verses: [Matthew 9:37-38](http://www.esvbible.org/Matthew%209:37-38); [Matthew 10:7-16](http://www.esvbible.org/Matthew%2010:7-16) ([All](http://www.esvbible.org/Matthew%209:37-38;%20Matthew%2010:7-16))
 All Verses: [Matthew 9:37-38](http://www.esvbible.org/Matthew%209:37-38); [Matthew 10:7-16](http://www.esvbible.org/Matthew%2010:7-16); [Luke 10:1-12](http://www.esvbible.org/Luke%2010:1-12) ([All](http://www.esvbible.org/Matthew%209:37-38;%20Matthew%2010:7-16;%20Luke%2010:1-12))
@@ -4460,7 +4460,7 @@ All Verses: [Matthew 9:37-38](http://www.esvbible.org/Matthew%209:37-38); [Matth
 </div>
 </div>
 
-## 178. Woes Pronounced On Galilaean Cities<a name="pericope178"></a> (<a href="#pericopetoc">^</a>)
+## 178. Woes Pronounced On Galilaean Cities<a name="pericope178"></a> (<a href="#pericope178toc">^</a>)
 Essential Verses: [Luke 10:13-15](http://www.esvbible.org/Luke%2010:13-15)
 Additional Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24)
 All Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24); [Luke 10:13-15](http://www.esvbible.org/Luke%2010:13-15) ([All](http://www.esvbible.org/Matthew%2011:20-24;%20Luke%2010:13-15))
@@ -4479,7 +4479,7 @@ All Verses: [Matthew 11:20-24](http://www.esvbible.org/Matthew%2011:20-24); [Luk
 </div>
 </div>
 
-## 179. He Who Hears You, Hears Me<a name="pericope179"></a> (<a href="#pericopetoc">^</a>)
+## 179. He Who Hears You, Hears Me<a name="pericope179"></a> (<a href="#pericope179toc">^</a>)
 Essential Verses: [Luke 10:16](http://www.esvbible.org/Luke%2010:16)
 Additional Verses: [Matthew 10:40](http://www.esvbible.org/Matthew%2010:40); [John 13:20](http://www.esvbible.org/John%2013:20) ([All](http://www.esvbible.org/Matthew%2010:40;%20John%2013:20))
 All Verses: [Matthew 10:40](http://www.esvbible.org/Matthew%2010:40); [Luke 10:16](http://www.esvbible.org/Luke%2010:16); [John 13:20](http://www.esvbible.org/John%2013:20) ([All](http://www.esvbible.org/Matthew%2010:40;%20Luke%2010:16;%20John%2013:20))
@@ -4503,7 +4503,7 @@ All Verses: [Matthew 10:40](http://www.esvbible.org/Matthew%2010:40); [Luke 10:1
 </div>
 </div>
 
-## 180. The Return Of The Seventy<a name="pericope180"></a> (<a href="#pericopetoc">^</a>)
+## 180. The Return Of The Seventy<a name="pericope180"></a> (<a href="#pericope180toc">^</a>)
 All Verses: [Luke 10:17-20](http://www.esvbible.org/Luke%2010:17-20) ([All](http://www.esvbible.org/Luke%2010:17-20))
 
 ### Luke 10:17-20
@@ -4513,7 +4513,7 @@ All Verses: [Luke 10:17-20](http://www.esvbible.org/Luke%2010:17-20) ([All](http
 </div>
 </div>
 
-## 181. Jesus' Thanksgiving To The Father, And The Blessedness Of The Disciples<a name="pericope181"></a> (<a href="#pericopetoc">^</a>)
+## 181. Jesus' Thanksgiving To The Father, And The Blessedness Of The Disciples<a name="pericope181"></a> (<a href="#pericope181toc">^</a>)
 Essential Verses: [Luke 10:21-24](http://www.esvbible.org/Luke%2010:21-24)
 Additional Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27); [Matthew 13:16-17](http://www.esvbible.org/Matthew%2013:16-17) ([All](http://www.esvbible.org/Matthew%2011:25-27;%20Matthew%2013:16-17))
 All Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27); [Matthew 13:16-17](http://www.esvbible.org/Matthew%2013:16-17); [Luke 10:21-24](http://www.esvbible.org/Luke%2010:21-24) ([All](http://www.esvbible.org/Matthew%2011:25-27;%20Matthew%2013:16-17;%20Luke%2010:21-24))
@@ -4539,7 +4539,7 @@ All Verses: [Matthew 11:25-27](http://www.esvbible.org/Matthew%2011:25-27); [Mat
 </div>
 </div>
 
-## 182. The Lawyer's Question<a name="pericope182"></a> (<a href="#pericopetoc">^</a>)
+## 182. The Lawyer's Question<a name="pericope182"></a> (<a href="#pericope182toc">^</a>)
 Essential Verses: [Luke 10:25-28](http://www.esvbible.org/Luke%2010:25-28)
 Additional Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mark 12:28-34](http://www.esvbible.org/Mark%2012:28-34) ([All](http://www.esvbible.org/Matthew%2022:34-40;%20Mark%2012:28-34))
 All Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mark 12:28-34](http://www.esvbible.org/Mark%2012:28-34); [Luke 10:25-28](http://www.esvbible.org/Luke%2010:25-28) ([All](http://www.esvbible.org/Matthew%2022:34-40;%20Mark%2012:28-34;%20Luke%2010:25-28))
@@ -4565,7 +4565,7 @@ All Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mar
 </div>
 </div>
 
-## 183. The Parable Of The Good Samaritan<a name="pericope183"></a> (<a href="#pericopetoc">^</a>)
+## 183. The Parable Of The Good Samaritan<a name="pericope183"></a> (<a href="#pericope183toc">^</a>)
 All Verses: [Luke 10:29-37](http://www.esvbible.org/Luke%2010:29-37) ([All](http://www.esvbible.org/Luke%2010:29-37))
 
 ### Luke 10:29-37
@@ -4574,7 +4574,7 @@ All Verses: [Luke 10:29-37](http://www.esvbible.org/Luke%2010:29-37) ([All](http
 </div>
 </div>
 
-## 184. Mary And Martha<a name="pericope184"></a> (<a href="#pericopetoc">^</a>)
+## 184. Mary And Martha<a name="pericope184"></a> (<a href="#pericope184toc">^</a>)
 All Verses: [Luke 10:38-42](http://www.esvbible.org/Luke%2010:38-42) ([All](http://www.esvbible.org/Luke%2010:38-42))
 
 ### Luke 10:38-42
@@ -4584,7 +4584,7 @@ All Verses: [Luke 10:38-42](http://www.esvbible.org/Luke%2010:38-42) ([All](http
 </div>
 </div>
 
-## 185. The Lord's Prayer<a name="pericope185"></a> (<a href="#pericopetoc">^</a>)
+## 185. The Lord's Prayer<a name="pericope185"></a> (<a href="#pericope185toc">^</a>)
 Essential Verses: [Luke 11:1-4](http://www.esvbible.org/Luke%2011:1-4)
 Additional Verses: [Matthew 6:9-13](http://www.esvbible.org/Matthew%206:9-13)
 All Verses: [Matthew 6:9-13](http://www.esvbible.org/Matthew%206:9-13); [Luke 11:1-4](http://www.esvbible.org/Luke%2011:1-4) ([All](http://www.esvbible.org/Matthew%206:9-13;%20Luke%2011:1-4))
@@ -4610,7 +4610,7 @@ And lead us not into temptation.&#x201D;</span></p></blockquote>
 </div>
 </div>
 
-## 186. The Importunate Friend At Midnight<a name="pericope186"></a> (<a href="#pericopetoc">^</a>)
+## 186. The Importunate Friend At Midnight<a name="pericope186"></a> (<a href="#pericope186toc">^</a>)
 All Verses: [Luke 11:5-8](http://www.esvbible.org/Luke%2011:5-8) ([All](http://www.esvbible.org/Luke%2011:5-8))
 
 ### Luke 11:5-8
@@ -4619,7 +4619,7 @@ All Verses: [Luke 11:5-8](http://www.esvbible.org/Luke%2011:5-8) ([All](http://w
 </div>
 </div>
 
-## 187. Encouragement To Pray<a name="pericope187"></a> (<a href="#pericopetoc">^</a>)
+## 187. Encouragement To Pray<a name="pericope187"></a> (<a href="#pericope187toc">^</a>)
 Essential Verses: [Luke 11:9-13](http://www.esvbible.org/Luke%2011:9-13)
 Additional Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11)
 All Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11); [Luke 11:9-13](http://www.esvbible.org/Luke%2011:9-13) ([All](http://www.esvbible.org/Matthew%207:7-11;%20Luke%2011:9-13))
@@ -4637,7 +4637,7 @@ All Verses: [Matthew 7:7-11](http://www.esvbible.org/Matthew%207:7-11); [Luke 11
 </div>
 </div>
 
-## 188. The Beelzebub Controversy<a name="pericope188"></a> (<a href="#pericopetoc">^</a>)
+## 188. The Beelzebub Controversy<a name="pericope188"></a> (<a href="#pericope188toc">^</a>)
 Essential Verses: [Luke 11:14-23](http://www.esvbible.org/Luke%2011:14-23)
 Additional Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Mark 3:22-27](http://www.esvbible.org/Mark%203:22-27) ([All](http://www.esvbible.org/Matthew%2012:22-30;%20Mark%203:22-27))
 All Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Mark 3:22-27](http://www.esvbible.org/Mark%203:22-27); [Luke 11:14-23](http://www.esvbible.org/Luke%2011:14-23) ([All](http://www.esvbible.org/Matthew%2012:22-30;%20Mark%203:22-27;%20Luke%2011:14-23))
@@ -4663,7 +4663,7 @@ All Verses: [Matthew 12:22-30](http://www.esvbible.org/Matthew%2012:22-30); [Mar
 </div>
 </div>
 
-## 189. The Return Of The Evil Spirit<a name="pericope189"></a> (<a href="#pericopetoc">^</a>)
+## 189. The Return Of The Evil Spirit<a name="pericope189"></a> (<a href="#pericope189toc">^</a>)
 Essential Verses: [Luke 11:24-26](http://www.esvbible.org/Luke%2011:24-26)
 Additional Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45)
 All Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45); [Luke 11:24-26](http://www.esvbible.org/Luke%2011:24-26) ([All](http://www.esvbible.org/Matthew%2012:43-45;%20Luke%2011:24-26))
@@ -4682,7 +4682,7 @@ All Verses: [Matthew 12:43-45](http://www.esvbible.org/Matthew%2012:43-45); [Luk
 </div>
 </div>
 
-## 190. True Blessedness<a name="pericope190"></a> (<a href="#pericopetoc">^</a>)
+## 190. True Blessedness<a name="pericope190"></a> (<a href="#pericope190toc">^</a>)
 All Verses: [Luke 11:27-28](http://www.esvbible.org/Luke%2011:27-28) ([All](http://www.esvbible.org/Luke%2011:27-28))
 
 ### Luke 11:27-28
@@ -4692,7 +4692,7 @@ All Verses: [Luke 11:27-28](http://www.esvbible.org/Luke%2011:27-28) ([All](http
 </div>
 </div>
 
-## 191. The Sign Of Jonah<a name="pericope191"></a> (<a href="#pericopetoc">^</a>)
+## 191. The Sign Of Jonah<a name="pericope191"></a> (<a href="#pericope191toc">^</a>)
 Essential Verses: [Luke 11:29-32](http://www.esvbible.org/Luke%2011:29-32)
 Additional Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42); [Mark 8:11-12](http://www.esvbible.org/Mark%208:11-12) ([All](http://www.esvbible.org/Matthew%2012:38-42;%20Mark%208:11-12))
 All Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42); [Mark 8:11-12](http://www.esvbible.org/Mark%208:11-12); [Luke 11:29-32](http://www.esvbible.org/Luke%2011:29-32) ([All](http://www.esvbible.org/Matthew%2012:38-42;%20Mark%208:11-12;%20Luke%2011:29-32))
@@ -4718,7 +4718,7 @@ All Verses: [Matthew 12:38-42](http://www.esvbible.org/Matthew%2012:38-42); [Mar
 </div>
 </div>
 
-## 192. Concerning Light<a name="pericope192"></a> (<a href="#pericopetoc">^</a>)
+## 192. Concerning Light<a name="pericope192"></a> (<a href="#pericope192toc">^</a>)
 Essential Verses: [Luke 11:33](http://www.esvbible.org/Luke%2011:33)
 Additional Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Mark 4:21](http://www.esvbible.org/Mark%204:21) ([All](http://www.esvbible.org/Matthew%205:15;%20Mark%204:21))
 All Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Mark 4:21](http://www.esvbible.org/Mark%204:21); [Luke 11:33](http://www.esvbible.org/Luke%2011:33) ([All](http://www.esvbible.org/Matthew%205:15;%20Mark%204:21;%20Luke%2011:33))
@@ -4743,7 +4743,7 @@ All Verses: [Matthew 5:15](http://www.esvbible.org/Matthew%205:15); [Mark 4:21](
 </div>
 </div>
 
-## 193. The Sound Eye<a name="pericope193"></a> (<a href="#pericopetoc">^</a>)
+## 193. The Sound Eye<a name="pericope193"></a> (<a href="#pericope193toc">^</a>)
 Essential Verses: [Luke 11:34-36](http://www.esvbible.org/Luke%2011:34-36)
 Additional Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23)
 All Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23); [Luke 11:34-36](http://www.esvbible.org/Luke%2011:34-36) ([All](http://www.esvbible.org/Matthew%206:22-23;%20Luke%2011:34-36))
@@ -4760,7 +4760,7 @@ All Verses: [Matthew 6:22-23](http://www.esvbible.org/Matthew%206:22-23); [Luke 
 </div>
 </div>
 
-## 194. Discourses Against The Pharisees And Lawyers<a name="pericope194"></a> (<a href="#pericopetoc">^</a>)
+## 194. Discourses Against The Pharisees And Lawyers<a name="pericope194"></a> (<a href="#pericope194toc">^</a>)
 Essential Verses: [Luke 11:37-54](http://www.esvbible.org/Luke%2011:37-54)
 Additional Verses: [Matthew 15:1-9](http://www.esvbible.org/Matthew%2015:1-9); [Mark 7:1-9](http://www.esvbible.org/Mark%207:1-9) ([All](http://www.esvbible.org/Matthew%2015:1-9;%20Mark%207:1-9))
 All Verses: [Matthew 15:1-9](http://www.esvbible.org/Matthew%2015:1-9); [Mark 7:1-9](http://www.esvbible.org/Mark%207:1-9); [Luke 11:37-54](http://www.esvbible.org/Luke%2011:37-54) ([All](http://www.esvbible.org/Matthew%2015:1-9;%20Mark%207:1-9;%20Luke%2011:37-54))
@@ -4795,7 +4795,7 @@ All Verses: [Matthew 15:1-9](http://www.esvbible.org/Matthew%2015:1-9); [Mark 7:
 </div>
 </div>
 
-## 195. The Leaven Of The Pharisees<a name="pericope195"></a> (<a href="#pericopetoc">^</a>)
+## 195. The Leaven Of The Pharisees<a name="pericope195"></a> (<a href="#pericope195toc">^</a>)
 Essential Verses: [Luke 12:1](http://www.esvbible.org/Luke%2012:1)
 Additional Verses: [Matthew 16:5-6](http://www.esvbible.org/Matthew%2016:5-6); [Mark 8:14-15](http://www.esvbible.org/Mark%208:14-15) ([All](http://www.esvbible.org/Matthew%2016:5-6;%20Mark%208:14-15))
 All Verses: [Matthew 16:5-6](http://www.esvbible.org/Matthew%2016:5-6); [Mark 8:14-15](http://www.esvbible.org/Mark%208:14-15); [Luke 12:1](http://www.esvbible.org/Luke%2012:1) ([All](http://www.esvbible.org/Matthew%2016:5-6;%20Mark%208:14-15;%20Luke%2012:1))
@@ -4821,7 +4821,7 @@ All Verses: [Matthew 16:5-6](http://www.esvbible.org/Matthew%2016:5-6); [Mark 8:
 </div>
 </div>
 
-## 196. Exhortation To Fearless Confession<a name="pericope196"></a> (<a href="#pericopetoc">^</a>)
+## 196. Exhortation To Fearless Confession<a name="pericope196"></a> (<a href="#pericope196toc">^</a>)
 Essential Verses: [Luke 12:2-9](http://www.esvbible.org/Luke%2012:2-9)
 Additional Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33)
 All Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33); [Luke 12:2-9](http://www.esvbible.org/Luke%2012:2-9) ([All](http://www.esvbible.org/Matthew%2010:26-33;%20Luke%2012:2-9))
@@ -4843,7 +4843,7 @@ All Verses: [Matthew 10:26-33](http://www.esvbible.org/Matthew%2010:26-33); [Luk
 </div>
 </div>
 
-## 197. The Sin Against The Holy Spirit<a name="pericope197"></a> (<a href="#pericopetoc">^</a>)
+## 197. The Sin Against The Holy Spirit<a name="pericope197"></a> (<a href="#pericope197toc">^</a>)
 Essential Verses: [Luke 12:10](http://www.esvbible.org/Luke%2012:10)
 Additional Verses: [Matthew 12:31-32](http://www.esvbible.org/Matthew%2012:31-32); [Mark 3:28-30](http://www.esvbible.org/Mark%203:28-30) ([All](http://www.esvbible.org/Matthew%2012:31-32;%20Mark%203:28-30))
 All Verses: [Matthew 12:31-32](http://www.esvbible.org/Matthew%2012:31-32); [Mark 3:28-30](http://www.esvbible.org/Mark%203:28-30); [Luke 12:10](http://www.esvbible.org/Luke%2012:10) ([All](http://www.esvbible.org/Matthew%2012:31-32;%20Mark%203:28-30;%20Luke%2012:10))
@@ -4866,7 +4866,7 @@ All Verses: [Matthew 12:31-32](http://www.esvbible.org/Matthew%2012:31-32); [Mar
 </div>
 </div>
 
-## 198. The Assistance Of The Holy Spirit<a name="pericope198"></a> (<a href="#pericopetoc">^</a>)
+## 198. The Assistance Of The Holy Spirit<a name="pericope198"></a> (<a href="#pericope198toc">^</a>)
 Essential Verses: [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12)
 Additional Verses: [Matthew 10:19-20](http://www.esvbible.org/Matthew%2010:19-20); [Mark 13:11](http://www.esvbible.org/Mark%2013:11); [Luke 21:14-15](http://www.esvbible.org/Luke%2021:14-15) ([All](http://www.esvbible.org/Matthew%2010:19-20;%20Mark%2013:11;%20Luke%2021:14-15))
 All Verses: [Matthew 10:19-20](http://www.esvbible.org/Matthew%2010:19-20); [Mark 13:11](http://www.esvbible.org/Mark%2013:11); [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12); [Luke 21:14-15](http://www.esvbible.org/Luke%2021:14-15) ([All](http://www.esvbible.org/Matthew%2010:19-20;%20Mark%2013:11;%20Luke%2012:11-12;%20Luke%2021:14-15))
@@ -4895,7 +4895,7 @@ All Verses: [Matthew 10:19-20](http://www.esvbible.org/Matthew%2010:19-20); [Mar
 </div>
 </div>
 
-## 199. Warning Against Avarice<a name="pericope199"></a> (<a href="#pericopetoc">^</a>)
+## 199. Warning Against Avarice<a name="pericope199"></a> (<a href="#pericope199toc">^</a>)
 All Verses: [Luke 12:13-15](http://www.esvbible.org/Luke%2012:13-15) ([All](http://www.esvbible.org/Luke%2012:13-15))
 
 ### Luke 12:13-15
@@ -4905,7 +4905,7 @@ All Verses: [Luke 12:13-15](http://www.esvbible.org/Luke%2012:13-15) ([All](http
 </div>
 </div>
 
-## 200. The Parable Of The Rich Fool<a name="pericope200"></a> (<a href="#pericopetoc">^</a>)
+## 200. The Parable Of The Rich Fool<a name="pericope200"></a> (<a href="#pericope200toc">^</a>)
 All Verses: [Luke 12:16-21](http://www.esvbible.org/Luke%2012:16-21) ([All](http://www.esvbible.org/Luke%2012:16-21))
 
 ### Luke 12:16-21
@@ -4914,7 +4914,7 @@ All Verses: [Luke 12:16-21](http://www.esvbible.org/Luke%2012:16-21) ([All](http
 </div>
 </div>
 
-## 201. Anxieties About Earthly Things<a name="pericope201"></a> (<a href="#pericopetoc">^</a>)
+## 201. Anxieties About Earthly Things<a name="pericope201"></a> (<a href="#pericope201toc">^</a>)
 Essential Verses: [Luke 12:22-32](http://www.esvbible.org/Luke%2012:22-32)
 Additional Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34)
 All Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34); [Luke 12:22-32](http://www.esvbible.org/Luke%2012:22-32) ([All](http://www.esvbible.org/Matthew%206:25-34;%20Luke%2012:22-32))
@@ -4935,7 +4935,7 @@ All Verses: [Matthew 6:25-34](http://www.esvbible.org/Matthew%206:25-34); [Luke 
 </div>
 </div>
 
-## 202. Treasures In Heaven<a name="pericope202"></a> (<a href="#pericopetoc">^</a>)
+## 202. Treasures In Heaven<a name="pericope202"></a> (<a href="#pericope202toc">^</a>)
 Essential Verses: [Luke 12:33-34](http://www.esvbible.org/Luke%2012:33-34)
 Additional Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21)
 All Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21); [Luke 12:33-34](http://www.esvbible.org/Luke%2012:33-34) ([All](http://www.esvbible.org/Matthew%206:19-21;%20Luke%2012:33-34))
@@ -4953,7 +4953,7 @@ All Verses: [Matthew 6:19-21](http://www.esvbible.org/Matthew%206:19-21); [Luke 
 </div>
 </div>
 
-## 203. Watchfulness And Faithfulness<a name="pericope203"></a> (<a href="#pericopetoc">^</a>)
+## 203. Watchfulness And Faithfulness<a name="pericope203"></a> (<a href="#pericope203toc">^</a>)
 Essential Verses: [Luke 12:35-48](http://www.esvbible.org/Luke%2012:35-48)
 Additional Verses: [Matthew 24:42-51](http://www.esvbible.org/Matthew%2024:42-51)
 All Verses: [Matthew 24:42-51](http://www.esvbible.org/Matthew%2024:42-51); [Luke 12:35-48](http://www.esvbible.org/Luke%2012:35-48) ([All](http://www.esvbible.org/Matthew%2024:42-51;%20Luke%2012:35-48))
@@ -4973,7 +4973,7 @@ All Verses: [Matthew 24:42-51](http://www.esvbible.org/Matthew%2024:42-51); [Luk
 </div>
 </div>
 
-## 204. Division In Households<a name="pericope204"></a> (<a href="#pericopetoc">^</a>)
+## 204. Division In Households<a name="pericope204"></a> (<a href="#pericope204toc">^</a>)
 Essential Verses: [Luke 12:49-53](http://www.esvbible.org/Luke%2012:49-53)
 Additional Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36)
 All Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36); [Luke 12:49-53](http://www.esvbible.org/Luke%2012:49-53) ([All](http://www.esvbible.org/Matthew%2010:34-36;%20Luke%2012:49-53))
@@ -4992,7 +4992,7 @@ All Verses: [Matthew 10:34-36](http://www.esvbible.org/Matthew%2010:34-36); [Luk
 </div>
 </div>
 
-## 205. Interpreting The Times<a name="pericope205"></a> (<a href="#pericopetoc">^</a>)
+## 205. Interpreting The Times<a name="pericope205"></a> (<a href="#pericope205toc">^</a>)
 Essential Verses: [Luke 12:54-56](http://www.esvbible.org/Luke%2012:54-56)
 Additional Verses: [Matthew 16:2-3](http://www.esvbible.org/Matthew%2016:2-3)
 All Verses: [Matthew 16:2-3](http://www.esvbible.org/Matthew%2016:2-3); [Luke 12:54-56](http://www.esvbible.org/Luke%2012:54-56) ([All](http://www.esvbible.org/Matthew%2016:2-3;%20Luke%2012:54-56))
@@ -5010,7 +5010,7 @@ All Verses: [Matthew 16:2-3](http://www.esvbible.org/Matthew%2016:2-3); [Luke 12
 </div>
 </div>
 
-## 206. Agreement With One's Accuser<a name="pericope206"></a> (<a href="#pericopetoc">^</a>)
+## 206. Agreement With One's Accuser<a name="pericope206"></a> (<a href="#pericope206toc">^</a>)
 Essential Verses: [Luke 12:57-59](http://www.esvbible.org/Luke%2012:57-59)
 Additional Verses: [Matthew 5:25-26](http://www.esvbible.org/Matthew%205:25-26)
 All Verses: [Matthew 5:25-26](http://www.esvbible.org/Matthew%205:25-26); [Luke 12:57-59](http://www.esvbible.org/Luke%2012:57-59) ([All](http://www.esvbible.org/Matthew%205:25-26;%20Luke%2012:57-59))
@@ -5028,7 +5028,7 @@ All Verses: [Matthew 5:25-26](http://www.esvbible.org/Matthew%205:25-26); [Luke 
 </div>
 </div>
 
-## 207. Repentance Or Destruction (the Parable Of The Barren Fig Tree)<a name="pericope207"></a> (<a href="#pericopetoc">^</a>)
+## 207. Repentance Or Destruction (the Parable Of The Barren Fig Tree)<a name="pericope207"></a> (<a href="#pericope207toc">^</a>)
 All Verses: [Luke 13:1-9](http://www.esvbible.org/Luke%2013:1-9) ([All](http://www.esvbible.org/Luke%2013:1-9))
 
 ### Luke 13:1-9
@@ -5040,7 +5040,7 @@ All Verses: [Luke 13:1-9](http://www.esvbible.org/Luke%2013:1-9) ([All](http://w
 </div>
 </div>
 
-## 208. The Healing Of The Crippled Woman On The Sabbath<a name="pericope208"></a> (<a href="#pericopetoc">^</a>)
+## 208. The Healing Of The Crippled Woman On The Sabbath<a name="pericope208"></a> (<a href="#pericope208toc">^</a>)
 All Verses: [Luke 13:10-17](http://www.esvbible.org/Luke%2013:10-17) ([All](http://www.esvbible.org/Luke%2013:10-17))
 
 ### Luke 13:10-17
@@ -5050,7 +5050,7 @@ All Verses: [Luke 13:10-17](http://www.esvbible.org/Luke%2013:10-17) ([All](http
 </div>
 </div>
 
-## 209. The Parable Of The Mustard Seed<a name="pericope209"></a> (<a href="#pericopetoc">^</a>)
+## 209. The Parable Of The Mustard Seed<a name="pericope209"></a> (<a href="#pericope209toc">^</a>)
 Essential Verses: [Luke 13:18-19](http://www.esvbible.org/Luke%2013:18-19)
 Additional Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mark 4:30-32](http://www.esvbible.org/Mark%204:30-32) ([All](http://www.esvbible.org/Matthew%2013:31-32;%20Mark%204:30-32))
 All Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mark 4:30-32](http://www.esvbible.org/Mark%204:30-32); [Luke 13:18-19](http://www.esvbible.org/Luke%2013:18-19) ([All](http://www.esvbible.org/Matthew%2013:31-32;%20Mark%204:30-32;%20Luke%2013:18-19))
@@ -5076,7 +5076,7 @@ All Verses: [Matthew 13:31-32](http://www.esvbible.org/Matthew%2013:31-32); [Mar
 </div>
 </div>
 
-## 210. The Parable Of The Leaven<a name="pericope210"></a> (<a href="#pericopetoc">^</a>)
+## 210. The Parable Of The Leaven<a name="pericope210"></a> (<a href="#pericope210toc">^</a>)
 Essential Verses: [Luke 13:20-21](http://www.esvbible.org/Luke%2013:20-21)
 Additional Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33)
 All Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33); [Luke 13:20-21](http://www.esvbible.org/Luke%2013:20-21) ([All](http://www.esvbible.org/Matthew%2013:33;%20Luke%2013:20-21))
@@ -5093,7 +5093,7 @@ All Verses: [Matthew 13:33](http://www.esvbible.org/Matthew%2013:33); [Luke 13:2
 </div>
 </div>
 
-## 211. Exclusion From The Kingdom<a name="pericope211"></a> (<a href="#pericopetoc">^</a>)
+## 211. Exclusion From The Kingdom<a name="pericope211"></a> (<a href="#pericope211toc">^</a>)
 Essential Verses: [Luke 13:22-30](http://www.esvbible.org/Luke%2013:22-30)
 Additional Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14); [Matthew 7:22-23](http://www.esvbible.org/Matthew%207:22-23); [Matthew 8:11-12](http://www.esvbible.org/Matthew%208:11-12); [Matthew 19:30](http://www.esvbible.org/Matthew%2019:30); [Mark 10:31](http://www.esvbible.org/Mark%2010:31) ([All](http://www.esvbible.org/Matthew%207:13-14;%20Matthew%207:22-23;%20Matthew%208:11-12;%20Matthew%2019:30;%20Mark%2010:31))
 All Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14); [Matthew 7:22-23](http://www.esvbible.org/Matthew%207:22-23); [Matthew 8:11-12](http://www.esvbible.org/Matthew%208:11-12); [Matthew 19:30](http://www.esvbible.org/Matthew%2019:30); [Mark 10:31](http://www.esvbible.org/Mark%2010:31); [Luke 13:22-30](http://www.esvbible.org/Luke%2013:22-30) ([All](http://www.esvbible.org/Matthew%207:13-14;%20Matthew%207:22-23;%20Matthew%208:11-12;%20Matthew%2019:30;%20Mark%2010:31;%20Luke%2013:22-30))
@@ -5135,7 +5135,7 @@ All Verses: [Matthew 7:13-14](http://www.esvbible.org/Matthew%207:13-14); [Matth
 </div>
 </div>
 
-## 212. A Warning Against Herod<a name="pericope212"></a> (<a href="#pericopetoc">^</a>)
+## 212. A Warning Against Herod<a name="pericope212"></a> (<a href="#pericope212toc">^</a>)
 All Verses: [Luke 13:31-33](http://www.esvbible.org/Luke%2013:31-33) ([All](http://www.esvbible.org/Luke%2013:31-33))
 
 ### Luke 13:31-33
@@ -5145,7 +5145,7 @@ All Verses: [Luke 13:31-33](http://www.esvbible.org/Luke%2013:31-33) ([All](http
 </div>
 </div>
 
-## 213. The Lament Over Jerusalem<a name="pericope213"></a> (<a href="#pericopetoc">^</a>)
+## 213. The Lament Over Jerusalem<a name="pericope213"></a> (<a href="#pericope213toc">^</a>)
 Essential Verses: [Luke 13:34-35](http://www.esvbible.org/Luke%2013:34-35)
 Additional Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39)
 All Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39); [Luke 13:34-35](http://www.esvbible.org/Luke%2013:34-35) ([All](http://www.esvbible.org/Matthew%2023:37-39;%20Luke%2013:34-35))
@@ -5163,7 +5163,7 @@ All Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39); [Luk
 </div>
 </div>
 
-## 214. The Healing Of The Man With Dropsy<a name="pericope214"></a> (<a href="#pericopetoc">^</a>)
+## 214. The Healing Of The Man With Dropsy<a name="pericope214"></a> (<a href="#pericope214toc">^</a>)
 All Verses: [Luke 14:1-6](http://www.esvbible.org/Luke%2014:1-6) ([All](http://www.esvbible.org/Luke%2014:1-6))
 
 ### Luke 14:1-6
@@ -5173,7 +5173,7 @@ All Verses: [Luke 14:1-6](http://www.esvbible.org/Luke%2014:1-6) ([All](http://w
 </div>
 </div>
 
-## 215. Teaching On Humility<a name="pericope215"></a> (<a href="#pericopetoc">^</a>)
+## 215. Teaching On Humility<a name="pericope215"></a> (<a href="#pericope215toc">^</a>)
 All Verses: [Luke 14:7-14](http://www.esvbible.org/Luke%2014:7-14) ([All](http://www.esvbible.org/Luke%2014:7-14))
 
 ### Luke 14:7-14
@@ -5185,7 +5185,7 @@ All Verses: [Luke 14:7-14](http://www.esvbible.org/Luke%2014:7-14) ([All](http:/
 </div>
 </div>
 
-## 216. The Parable Of The Great Supper<a name="pericope216"></a> (<a href="#pericopetoc">^</a>)
+## 216. The Parable Of The Great Supper<a name="pericope216"></a> (<a href="#pericope216toc">^</a>)
 Essential Verses: [Luke 14:15-24](http://www.esvbible.org/Luke%2014:15-24)
 Additional Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14)
 All Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14); [Luke 14:15-24](http://www.esvbible.org/Luke%2014:15-24) ([All](http://www.esvbible.org/Matthew%2022:1-14;%20Luke%2014:15-24))
@@ -5204,7 +5204,7 @@ All Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14); [Luke 
 </div>
 </div>
 
-## 217. The Conditions Of Discipleship<a name="pericope217"></a> (<a href="#pericopetoc">^</a>)
+## 217. The Conditions Of Discipleship<a name="pericope217"></a> (<a href="#pericope217toc">^</a>)
 Essential Verses: [Luke 14:25-33](http://www.esvbible.org/Luke%2014:25-33)
 Additional Verses: [Matthew 10:37-38](http://www.esvbible.org/Matthew%2010:37-38)
 All Verses: [Matthew 10:37-38](http://www.esvbible.org/Matthew%2010:37-38); [Luke 14:25-33](http://www.esvbible.org/Luke%2014:25-33) ([All](http://www.esvbible.org/Matthew%2010:37-38;%20Luke%2014:25-33))
@@ -5222,7 +5222,7 @@ All Verses: [Matthew 10:37-38](http://www.esvbible.org/Matthew%2010:37-38); [Luk
 </div>
 </div>
 
-## 218. The Parable Of Salt<a name="pericope218"></a> (<a href="#pericopetoc">^</a>)
+## 218. The Parable Of Salt<a name="pericope218"></a> (<a href="#pericope218toc">^</a>)
 Essential Verses: [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35)
 Additional Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:49-50](http://www.esvbible.org/Mark%209:49-50) ([All](http://www.esvbible.org/Matthew%205:13;%20Mark%209:49-50))
 All Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:49-50](http://www.esvbible.org/Mark%209:49-50); [Luke 14:34-35](http://www.esvbible.org/Luke%2014:34-35) ([All](http://www.esvbible.org/Matthew%205:13;%20Mark%209:49-50;%20Luke%2014:34-35))
@@ -5247,7 +5247,7 @@ All Verses: [Matthew 5:13](http://www.esvbible.org/Matthew%205:13); [Mark 9:49-5
 </div>
 </div>
 
-## 219. The Parable Of The Lost Sheep<a name="pericope219"></a> (<a href="#pericopetoc">^</a>)
+## 219. The Parable Of The Lost Sheep<a name="pericope219"></a> (<a href="#pericope219toc">^</a>)
 Essential Verses: [Luke 15:1-7](http://www.esvbible.org/Luke%2015:1-7)
 Additional Verses: [Matthew 18:12-14](http://www.esvbible.org/Matthew%2018:12-14)
 All Verses: [Matthew 18:12-14](http://www.esvbible.org/Matthew%2018:12-14); [Luke 15:1-7](http://www.esvbible.org/Luke%2015:1-7) ([All](http://www.esvbible.org/Matthew%2018:12-14;%20Luke%2015:1-7))
@@ -5266,7 +5266,7 @@ All Verses: [Matthew 18:12-14](http://www.esvbible.org/Matthew%2018:12-14); [Luk
 </div>
 </div>
 
-## 220. The Parable Of The Lost Coin<a name="pericope220"></a> (<a href="#pericopetoc">^</a>)
+## 220. The Parable Of The Lost Coin<a name="pericope220"></a> (<a href="#pericope220toc">^</a>)
 All Verses: [Luke 15:8-10](http://www.esvbible.org/Luke%2015:8-10) ([All](http://www.esvbible.org/Luke%2015:8-10))
 
 ### Luke 15:8-10
@@ -5276,7 +5276,7 @@ All Verses: [Luke 15:8-10](http://www.esvbible.org/Luke%2015:8-10) ([All](http:/
 </div>
 </div>
 
-## 221. The Parable Of The Prodigal Son<a name="pericope221"></a> (<a href="#pericopetoc">^</a>)
+## 221. The Parable Of The Prodigal Son<a name="pericope221"></a> (<a href="#pericope221toc">^</a>)
 All Verses: [Luke 15:11-32](http://www.esvbible.org/Luke%2015:11-32) ([All](http://www.esvbible.org/Luke%2015:11-32))
 
 ### Luke 15:11-32
@@ -5288,7 +5288,7 @@ All Verses: [Luke 15:11-32](http://www.esvbible.org/Luke%2015:11-32) ([All](http
 </div>
 </div>
 
-## 222. The Parable Of The Unjust Steward<a name="pericope222"></a> (<a href="#pericopetoc">^</a>)
+## 222. The Parable Of The Unjust Steward<a name="pericope222"></a> (<a href="#pericope222toc">^</a>)
 All Verses: [Luke 16:1-9](http://www.esvbible.org/Luke%2016:1-9) ([All](http://www.esvbible.org/Luke%2016:1-9))
 
 ### Luke 16:1-9
@@ -5298,7 +5298,7 @@ All Verses: [Luke 16:1-9](http://www.esvbible.org/Luke%2016:1-9) ([All](http://w
 </div>
 </div>
 
-## 223. On Faithfulness In What Is Least<a name="pericope223"></a> (<a href="#pericopetoc">^</a>)
+## 223. On Faithfulness In What Is Least<a name="pericope223"></a> (<a href="#pericope223toc">^</a>)
 All Verses: [Luke 16:10-12](http://www.esvbible.org/Luke%2016:10-12) ([All](http://www.esvbible.org/Luke%2016:10-12))
 
 ### Luke 16:10-12
@@ -5307,7 +5307,7 @@ All Verses: [Luke 16:10-12](http://www.esvbible.org/Luke%2016:10-12) ([All](http
 </div>
 </div>
 
-## 224. On Serving Two Masters<a name="pericope224"></a> (<a href="#pericopetoc">^</a>)
+## 224. On Serving Two Masters<a name="pericope224"></a> (<a href="#pericope224toc">^</a>)
 Essential Verses: [Luke 16:13](http://www.esvbible.org/Luke%2016:13)
 Additional Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24)
 All Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24); [Luke 16:13](http://www.esvbible.org/Luke%2016:13) ([All](http://www.esvbible.org/Matthew%206:24;%20Luke%2016:13))
@@ -5324,7 +5324,7 @@ All Verses: [Matthew 6:24](http://www.esvbible.org/Matthew%206:24); [Luke 16:13]
 </div>
 </div>
 
-## 225. The Pharisees Reproved<a name="pericope225"></a> (<a href="#pericopetoc">^</a>)
+## 225. The Pharisees Reproved<a name="pericope225"></a> (<a href="#pericope225toc">^</a>)
 All Verses: [Luke 16:14-15](http://www.esvbible.org/Luke%2016:14-15) ([All](http://www.esvbible.org/Luke%2016:14-15))
 
 ### Luke 16:14-15
@@ -5334,7 +5334,7 @@ All Verses: [Luke 16:14-15](http://www.esvbible.org/Luke%2016:14-15) ([All](http
 </div>
 </div>
 
-## 226. Concerning The Law<a name="pericope226"></a> (<a href="#pericopetoc">^</a>)
+## 226. Concerning The Law<a name="pericope226"></a> (<a href="#pericope226toc">^</a>)
 Essential Verses: [Luke 16:16-17](http://www.esvbible.org/Luke%2016:16-17)
 Additional Verses: [Matthew 11:12-13](http://www.esvbible.org/Matthew%2011:12-13); [Matthew 5:18](http://www.esvbible.org/Matthew%205:18) ([All](http://www.esvbible.org/Matthew%2011:12-13;%20Matthew%205:18))
 All Verses: [Matthew 11:12-13](http://www.esvbible.org/Matthew%2011:12-13); [Matthew 5:18](http://www.esvbible.org/Matthew%205:18); [Luke 16:16-17](http://www.esvbible.org/Luke%2016:16-17) ([All](http://www.esvbible.org/Matthew%2011:12-13;%20Matthew%205:18;%20Luke%2016:16-17))
@@ -5357,7 +5357,7 @@ All Verses: [Matthew 11:12-13](http://www.esvbible.org/Matthew%2011:12-13); [Mat
 </div>
 </div>
 
-## 227. Concerning Divorce<a name="pericope227"></a> (<a href="#pericopetoc">^</a>)
+## 227. Concerning Divorce<a name="pericope227"></a> (<a href="#pericope227toc">^</a>)
 Essential Verses: [Luke 16:18](http://www.esvbible.org/Luke%2016:18)
 Additional Verses: [Matthew 19:9](http://www.esvbible.org/Matthew%2019:9); [Mark 10:11-12](http://www.esvbible.org/Mark%2010:11-12) ([All](http://www.esvbible.org/Matthew%2019:9;%20Mark%2010:11-12))
 All Verses: [Matthew 19:9](http://www.esvbible.org/Matthew%2019:9); [Mark 10:11-12](http://www.esvbible.org/Mark%2010:11-12); [Luke 16:18](http://www.esvbible.org/Luke%2016:18) ([All](http://www.esvbible.org/Matthew%2019:9;%20Mark%2010:11-12;%20Luke%2016:18))
@@ -5381,7 +5381,7 @@ All Verses: [Matthew 19:9](http://www.esvbible.org/Matthew%2019:9); [Mark 10:11-
 </div>
 </div>
 
-## 228. The Parable Of The Rich Man And Lazarus<a name="pericope228"></a> (<a href="#pericopetoc">^</a>)
+## 228. The Parable Of The Rich Man And Lazarus<a name="pericope228"></a> (<a href="#pericope228toc">^</a>)
 All Verses: [Luke 16:19-31](http://www.esvbible.org/Luke%2016:19-31) ([All](http://www.esvbible.org/Luke%2016:19-31))
 
 ### Luke 16:19-31
@@ -5391,7 +5391,7 @@ All Verses: [Luke 16:19-31](http://www.esvbible.org/Luke%2016:19-31) ([All](http
 </div>
 </div>
 
-## 229. Warning Against Offenses<a name="pericope229"></a> (<a href="#pericopetoc">^</a>)
+## 229. Warning Against Offenses<a name="pericope229"></a> (<a href="#pericope229toc">^</a>)
 Essential Verses: [Luke 17:1-3a](http://www.esvbible.org/Luke%2017:1-3a)
 Additional Verses: [Matthew 18:6-7](http://www.esvbible.org/Matthew%2018:6-7); [Mark 9:42](http://www.esvbible.org/Mark%209:42) ([All](http://www.esvbible.org/Matthew%2018:6-7;%20Mark%209:42))
 All Verses: [Matthew 18:6-7](http://www.esvbible.org/Matthew%2018:6-7); [Mark 9:42](http://www.esvbible.org/Mark%209:42); [Luke 17:1-3a](http://www.esvbible.org/Luke%2017:1-3a) ([All](http://www.esvbible.org/Matthew%2018:6-7;%20Mark%209:42;%20Luke%2017:1-3a))
@@ -5418,7 +5418,7 @@ All Verses: [Matthew 18:6-7](http://www.esvbible.org/Matthew%2018:6-7); [Mark 9:
 </div>
 </div>
 
-## 230. On Forgiveness<a name="pericope230"></a> (<a href="#pericopetoc">^</a>)
+## 230. On Forgiveness<a name="pericope230"></a> (<a href="#pericope230toc">^</a>)
 Essential Verses: [Luke 17:3b-4](http://www.esvbible.org/Luke%2017:3b-4)
 Additional Verses: [Matthew 18:15](http://www.esvbible.org/Matthew%2018:15)
 All Verses: [Matthew 18:15](http://www.esvbible.org/Matthew%2018:15); [Luke 17:3b-4](http://www.esvbible.org/Luke%2017:3b-4) ([All](http://www.esvbible.org/Matthew%2018:15;%20Luke%2017:3b-4))
@@ -5436,7 +5436,7 @@ All Verses: [Matthew 18:15](http://www.esvbible.org/Matthew%2018:15); [Luke 17:3
 </div>
 </div>
 
-## 231. On Faith<a name="pericope231"></a> (<a href="#pericopetoc">^</a>)
+## 231. On Faith<a name="pericope231"></a> (<a href="#pericope231toc">^</a>)
 Essential Verses: [Luke 17:5-6](http://www.esvbible.org/Luke%2017:5-6)
 Additional Verses: [Matthew 17:19-21](http://www.esvbible.org/Matthew%2017:19-21); [Mark 9:28-29](http://www.esvbible.org/Mark%209:28-29) ([All](http://www.esvbible.org/Matthew%2017:19-21;%20Mark%209:28-29))
 All Verses: [Matthew 17:19-21](http://www.esvbible.org/Matthew%2017:19-21); [Mark 9:28-29](http://www.esvbible.org/Mark%209:28-29); [Luke 17:5-6](http://www.esvbible.org/Luke%2017:5-6) ([All](http://www.esvbible.org/Matthew%2017:19-21;%20Mark%209:28-29;%20Luke%2017:5-6))
@@ -5460,7 +5460,7 @@ All Verses: [Matthew 17:19-21](http://www.esvbible.org/Matthew%2017:19-21); [Mar
 </div>
 </div>
 
-## 232. We Are Unprofitable Servants<a name="pericope232"></a> (<a href="#pericopetoc">^</a>)
+## 232. We Are Unprofitable Servants<a name="pericope232"></a> (<a href="#pericope232toc">^</a>)
 All Verses: [Luke 17:7-10](http://www.esvbible.org/Luke%2017:7-10) ([All](http://www.esvbible.org/Luke%2017:7-10))
 
 ### Luke 17:7-10
@@ -5470,7 +5470,7 @@ All Verses: [Luke 17:7-10](http://www.esvbible.org/Luke%2017:7-10) ([All](http:/
 </div>
 </div>
 
-## 233. The Cleansing Of The Ten Lepers<a name="pericope233"></a> (<a href="#pericopetoc">^</a>)
+## 233. The Cleansing Of The Ten Lepers<a name="pericope233"></a> (<a href="#pericope233toc">^</a>)
 All Verses: [Luke 17:11-19](http://www.esvbible.org/Luke%2017:11-19) ([All](http://www.esvbible.org/Luke%2017:11-19))
 
 ### Luke 17:11-19
@@ -5480,7 +5480,7 @@ All Verses: [Luke 17:11-19](http://www.esvbible.org/Luke%2017:11-19) ([All](http
 </div>
 </div>
 
-## 234. On The Coming Of The Kingdom Of God<a name="pericope234"></a> (<a href="#pericopetoc">^</a>)
+## 234. On The Coming Of The Kingdom Of God<a name="pericope234"></a> (<a href="#pericope234toc">^</a>)
 All Verses: [Luke 17:20-21](http://www.esvbible.org/Luke%2017:20-21) ([All](http://www.esvbible.org/Luke%2017:20-21))
 
 ### Luke 17:20-21
@@ -5490,7 +5490,7 @@ All Verses: [Luke 17:20-21](http://www.esvbible.org/Luke%2017:20-21) ([All](http
 </div>
 </div>
 
-## 235. The Day Of The Son Of Man<a name="pericope235"></a> (<a href="#pericopetoc">^</a>)
+## 235. The Day Of The Son Of Man<a name="pericope235"></a> (<a href="#pericope235toc">^</a>)
 Essential Verses: [Luke 17:22-37](http://www.esvbible.org/Luke%2017:22-37)
 Additional Verses: [Matthew 24:23](http://www.esvbible.org/Matthew%2024:23); [Matthew 24:26-27](http://www.esvbible.org/Matthew%2024:26-27); [Matthew 24:37-39](http://www.esvbible.org/Matthew%2024:37-39); [Matthew 24:17-18](http://www.esvbible.org/Matthew%2024:17-18); [Matthew 10:39](http://www.esvbible.org/Matthew%2010:39); [Matthew 24:40-41](http://www.esvbible.org/Matthew%2024:40-41); [Matthew 24:28](http://www.esvbible.org/Matthew%2024:28); [Mark 13:19-23](http://www.esvbible.org/Mark%2013:19-23); [Mark 13:14-16](http://www.esvbible.org/Mark%2013:14-16); [John 12:25](http://www.esvbible.org/John%2012:25) ([All](http://www.esvbible.org/Matthew%2024:23;%20Matthew%2024:26-27;%20Matthew%2024:37-39;%20Matthew%2024:17-18;%20Matthew%2010:39;%20Matthew%2024:40-41;%20Matthew%2024:28;%20Mark%2013:19-23;%20Mark%2013:14-16;%20John%2012:25))
 All Verses: [Matthew 24:23](http://www.esvbible.org/Matthew%2024:23); [Matthew 24:26-27](http://www.esvbible.org/Matthew%2024:26-27); [Matthew 24:37-39](http://www.esvbible.org/Matthew%2024:37-39); [Matthew 24:17-18](http://www.esvbible.org/Matthew%2024:17-18); [Matthew 10:39](http://www.esvbible.org/Matthew%2010:39); [Matthew 24:40-41](http://www.esvbible.org/Matthew%2024:40-41); [Matthew 24:28](http://www.esvbible.org/Matthew%2024:28); [Mark 13:19-23](http://www.esvbible.org/Mark%2013:19-23); [Mark 13:14-16](http://www.esvbible.org/Mark%2013:14-16); [Luke 17:22-37](http://www.esvbible.org/Luke%2017:22-37); [John 12:25](http://www.esvbible.org/John%2012:25) ([All](http://www.esvbible.org/Matthew%2024:23;%20Matthew%2024:26-27;%20Matthew%2024:37-39;%20Matthew%2024:17-18;%20Matthew%2010:39;%20Matthew%2024:40-41;%20Matthew%2024:28;%20Mark%2013:19-23;%20Mark%2013:14-16;%20Luke%2017:22-37;%20John%2012:25))
@@ -5562,7 +5562,7 @@ All Verses: [Matthew 24:23](http://www.esvbible.org/Matthew%2024:23); [Matthew 2
 </div>
 </div>
 
-## 236. The Parable Of The Unjust Judge<a name="pericope236"></a> (<a href="#pericopetoc">^</a>)
+## 236. The Parable Of The Unjust Judge<a name="pericope236"></a> (<a href="#pericope236toc">^</a>)
 All Verses: [Luke 18:1-8](http://www.esvbible.org/Luke%2018:1-8) ([All](http://www.esvbible.org/Luke%2018:1-8))
 
 ### Luke 18:1-8
@@ -5572,7 +5572,7 @@ All Verses: [Luke 18:1-8](http://www.esvbible.org/Luke%2018:1-8) ([All](http://w
 </div>
 </div>
 
-## 237. The Pharisee And The Publican<a name="pericope237"></a> (<a href="#pericopetoc">^</a>)
+## 237. The Pharisee And The Publican<a name="pericope237"></a> (<a href="#pericope237toc">^</a>)
 All Verses: [Luke 18:9-14](http://www.esvbible.org/Luke%2018:9-14) ([All](http://www.esvbible.org/Luke%2018:9-14))
 
 ### Luke 18:9-14
@@ -5582,7 +5582,7 @@ All Verses: [Luke 18:9-14](http://www.esvbible.org/Luke%2018:9-14) ([All](http:/
 </div>
 </div>
 
-## 238. Jesus Remains In Galilee<a name="pericope238"></a> (<a href="#pericopetoc">^</a>)
+## 238. Jesus Remains In Galilee<a name="pericope238"></a> (<a href="#pericope238toc">^</a>)
 All Verses: [John 7:1-9](http://www.esvbible.org/John%207:1-9) ([All](http://www.esvbible.org/John%207:1-9))
 
 ### John 7:1-9
@@ -5592,7 +5592,7 @@ All Verses: [John 7:1-9](http://www.esvbible.org/John%207:1-9) ([All](http://www
 </div>
 </div>
 
-## 239. Journey To Jerusalem In Secret<a name="pericope239"></a> (<a href="#pericopetoc">^</a>)
+## 239. Journey To Jerusalem In Secret<a name="pericope239"></a> (<a href="#pericope239toc">^</a>)
 All Verses: [John 7:10-13](http://www.esvbible.org/John%207:10-13) ([All](http://www.esvbible.org/John%207:10-13))
 
 ### John 7:10-13
@@ -5601,7 +5601,7 @@ All Verses: [John 7:10-13](http://www.esvbible.org/John%207:10-13) ([All](http:/
 </div>
 </div>
 
-## 240. Teaching In The Temple<a name="pericope240"></a> (<a href="#pericopetoc">^</a>)
+## 240. Teaching In The Temple<a name="pericope240"></a> (<a href="#pericope240toc">^</a>)
 All Verses: [John 7:14-39](http://www.esvbible.org/John%207:14-39) ([All](http://www.esvbible.org/John%207:14-39))
 
 ### John 7:14-39
@@ -5616,7 +5616,7 @@ All Verses: [John 7:14-39](http://www.esvbible.org/John%207:14-39) ([All](http:/
 </div>
 </div>
 
-## 241. Division Among The People Regarding Jesus<a name="pericope241"></a> (<a href="#pericopetoc">^</a>)
+## 241. Division Among The People Regarding Jesus<a name="pericope241"></a> (<a href="#pericope241toc">^</a>)
 All Verses: [John 7:40-52](http://www.esvbible.org/John%207:40-52) ([All](http://www.esvbible.org/John%207:40-52))
 
 ### John 7:40-52
@@ -5627,7 +5627,7 @@ All Verses: [John 7:40-52](http://www.esvbible.org/John%207:40-52) ([All](http:/
 </div>
 </div>
 
-## 242. The Woman Caught In Adultery<a name="pericope242"></a> (<a href="#pericopetoc">^</a>)
+## 242. The Woman Caught In Adultery<a name="pericope242"></a> (<a href="#pericope242toc">^</a>)
 All Verses: [John 7:53-8:11](http://www.esvbible.org/John%207:53-8:11) ([All](http://www.esvbible.org/John%207:53-8:11))
 
 ### John 7:53-8:11
@@ -5638,7 +5638,7 @@ All Verses: [John 7:53-8:11](http://www.esvbible.org/John%207:53-8:11) ([All](ht
 </div>
 </div>
 
-## 243. I Am The Light Of The World<a name="pericope243"></a> (<a href="#pericopetoc">^</a>)
+## 243. I Am The Light Of The World<a name="pericope243"></a> (<a href="#pericope243toc">^</a>)
 All Verses: [John 8:12-20](http://www.esvbible.org/John%208:12-20) ([All](http://www.esvbible.org/John%208:12-20))
 
 ### John 8:12-20
@@ -5648,7 +5648,7 @@ All Verses: [John 8:12-20](http://www.esvbible.org/John%208:12-20) ([All](http:/
 </div>
 </div>
 
-## 244. Discussion With The Jews<a name="pericope244"></a> (<a href="#pericopetoc">^</a>)
+## 244. Discussion With The Jews<a name="pericope244"></a> (<a href="#pericope244toc">^</a>)
 All Verses: [John 8:21-29](http://www.esvbible.org/John%208:21-29) ([All](http://www.esvbible.org/John%208:21-29))
 
 ### John 8:21-29
@@ -5657,7 +5657,7 @@ All Verses: [John 8:21-29](http://www.esvbible.org/John%208:21-29) ([All](http:/
 </div>
 </div>
 
-## 245. The Truth Will Make You Free<a name="pericope245"></a> (<a href="#pericopetoc">^</a>)
+## 245. The Truth Will Make You Free<a name="pericope245"></a> (<a href="#pericope245toc">^</a>)
 All Verses: [John 8:30-36](http://www.esvbible.org/John%208:30-36) ([All](http://www.esvbible.org/John%208:30-36))
 
 ### John 8:30-36
@@ -5669,7 +5669,7 @@ All Verses: [John 8:30-36](http://www.esvbible.org/John%208:30-36) ([All](http:/
 </div>
 </div>
 
-## 246. Children Of The Devil<a name="pericope246"></a> (<a href="#pericopetoc">^</a>)
+## 246. Children Of The Devil<a name="pericope246"></a> (<a href="#pericope246toc">^</a>)
 All Verses: [John 8:37-47](http://www.esvbible.org/John%208:37-47) ([All](http://www.esvbible.org/John%208:37-47))
 
 ### John 8:37-47
@@ -5680,7 +5680,7 @@ All Verses: [John 8:37-47](http://www.esvbible.org/John%208:37-47) ([All](http:/
 </div>
 </div>
 
-## 247. Before Abraham Was, I Am<a name="pericope247"></a> (<a href="#pericopetoc">^</a>)
+## 247. Before Abraham Was, I Am<a name="pericope247"></a> (<a href="#pericope247toc">^</a>)
 All Verses: [John 8:48-59](http://www.esvbible.org/John%208:48-59) ([All](http://www.esvbible.org/John%208:48-59))
 
 ### John 8:48-59
@@ -5690,7 +5690,7 @@ All Verses: [John 8:48-59](http://www.esvbible.org/John%208:48-59) ([All](http:/
 </div>
 </div>
 
-## 248. Jesus Heals The Man Born Blind<a name="pericope248"></a> (<a href="#pericopetoc">^</a>)
+## 248. Jesus Heals The Man Born Blind<a name="pericope248"></a> (<a href="#pericope248toc">^</a>)
 All Verses: [John 9:1-41](http://www.esvbible.org/John%209:1-41) ([All](http://www.esvbible.org/John%209:1-41))
 
 ### John 9:1-41
@@ -5705,7 +5705,7 @@ All Verses: [John 9:1-41](http://www.esvbible.org/John%209:1-41) ([All](http://w
 </div>
 </div>
 
-## 249. I Am The Good Shepherd<a name="pericope249"></a> (<a href="#pericopetoc">^</a>)
+## 249. I Am The Good Shepherd<a name="pericope249"></a> (<a href="#pericope249toc">^</a>)
 All Verses: [John 10:1-18](http://www.esvbible.org/John%2010:1-18) ([All](http://www.esvbible.org/John%2010:1-18))
 
 ### John 10:1-18
@@ -5716,7 +5716,7 @@ All Verses: [John 10:1-18](http://www.esvbible.org/John%2010:1-18) ([All](http:/
 </div>
 </div>
 
-## 250. Division Among The Jews Again<a name="pericope250"></a> (<a href="#pericopetoc">^</a>)
+## 250. Division Among The Jews Again<a name="pericope250"></a> (<a href="#pericope250toc">^</a>)
 All Verses: [John 10:19-21](http://www.esvbible.org/John%2010:19-21) ([All](http://www.esvbible.org/John%2010:19-21))
 
 ### John 10:19-21
@@ -5725,7 +5725,7 @@ All Verses: [John 10:19-21](http://www.esvbible.org/John%2010:19-21) ([All](http
 </div>
 </div>
 
-## 251. Departure To Judea<a name="pericope251"></a> (<a href="#pericopetoc">^</a>)
+## 251. Departure To Judea<a name="pericope251"></a> (<a href="#pericope251toc">^</a>)
 Essential Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10:1](http://www.esvbible.org/Mark%2010:1) ([All](http://www.esvbible.org/Matthew%2019:1-2;%20Mark%2010:1))
 Additional Verses: [Luke 9:51](http://www.esvbible.org/Luke%209:51)
 All Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10:1](http://www.esvbible.org/Mark%2010:1); [Luke 9:51](http://www.esvbible.org/Luke%209:51) ([All](http://www.esvbible.org/Matthew%2019:1-2;%20Mark%2010:1;%20Luke%209:51))
@@ -5751,7 +5751,7 @@ All Verses: [Matthew 19:1-2](http://www.esvbible.org/Matthew%2019:1-2); [Mark 10
 </div>
 </div>
 
-## 252. On Divorce And Celibacy<a name="pericope252"></a> (<a href="#pericopetoc">^</a>)
+## 252. On Divorce And Celibacy<a name="pericope252"></a> (<a href="#pericope252toc">^</a>)
 Essential Verses: [Matthew 19:3-12](http://www.esvbible.org/Matthew%2019:3-12); [Mark 10:2-12](http://www.esvbible.org/Mark%2010:2-12) ([All](http://www.esvbible.org/Matthew%2019:3-12;%20Mark%2010:2-12))
 Additional Verses: [Luke 16:18](http://www.esvbible.org/Luke%2016:18)
 All Verses: [Matthew 19:3-12](http://www.esvbible.org/Matthew%2019:3-12); [Mark 10:2-12](http://www.esvbible.org/Mark%2010:2-12); [Luke 16:18](http://www.esvbible.org/Luke%2016:18) ([All](http://www.esvbible.org/Matthew%2019:3-12;%20Mark%2010:2-12;%20Luke%2016:18))
@@ -5777,7 +5777,7 @@ All Verses: [Matthew 19:3-12](http://www.esvbible.org/Matthew%2019:3-12); [Mark 
 </div>
 </div>
 
-## 253. Jesus Blesses The Children<a name="pericope253"></a> (<a href="#pericopetoc">^</a>)
+## 253. Jesus Blesses The Children<a name="pericope253"></a> (<a href="#pericope253toc">^</a>)
 All Verses: [Matthew 19:13-15](http://www.esvbible.org/Matthew%2019:13-15); [Mark 10:13-16](http://www.esvbible.org/Mark%2010:13-16); [Luke 18:15-17](http://www.esvbible.org/Luke%2018:15-17) ([All](http://www.esvbible.org/Matthew%2019:13-15;%20Mark%2010:13-16;%20Luke%2018:15-17))
 
 ### Matthew 19:13-15
@@ -5801,7 +5801,7 @@ All Verses: [Matthew 19:13-15](http://www.esvbible.org/Matthew%2019:13-15); [Mar
 </div>
 </div>
 
-## 254. The Rich Young Man<a name="pericope254"></a> (<a href="#pericopetoc">^</a>)
+## 254. The Rich Young Man<a name="pericope254"></a> (<a href="#pericope254toc">^</a>)
 All Verses: [Matthew 19:16-22](http://www.esvbible.org/Matthew%2019:16-22); [Mark 10:17-22](http://www.esvbible.org/Mark%2010:17-22); [Luke 18:18-23](http://www.esvbible.org/Luke%2018:18-23) ([All](http://www.esvbible.org/Matthew%2019:16-22;%20Mark%2010:17-22;%20Luke%2018:18-23))
 
 ### Matthew 19:16-22
@@ -5825,7 +5825,7 @@ All Verses: [Matthew 19:16-22](http://www.esvbible.org/Matthew%2019:16-22); [Mar
 </div>
 </div>
 
-## 255. On Riches And The Rewards Of Discipleship<a name="pericope255"></a> (<a href="#pericopetoc">^</a>)
+## 255. On Riches And The Rewards Of Discipleship<a name="pericope255"></a> (<a href="#pericope255toc">^</a>)
 Essential Verses: [Matthew 19:23-30](http://www.esvbible.org/Matthew%2019:23-30); [Mark 10:23-31](http://www.esvbible.org/Mark%2010:23-31); [Luke 18:24-30](http://www.esvbible.org/Luke%2018:24-30) ([All](http://www.esvbible.org/Matthew%2019:23-30;%20Mark%2010:23-31;%20Luke%2018:24-30))
 Additional Verses: [Luke 22:28-30](http://www.esvbible.org/Luke%2022:28-30)
 All Verses: [Matthew 19:23-30](http://www.esvbible.org/Matthew%2019:23-30); [Mark 10:23-31](http://www.esvbible.org/Mark%2010:23-31); [Luke 18:24-30](http://www.esvbible.org/Luke%2018:24-30); [Luke 22:28-30](http://www.esvbible.org/Luke%2022:28-30) ([All](http://www.esvbible.org/Matthew%2019:23-30;%20Mark%2010:23-31;%20Luke%2018:24-30;%20Luke%2022:28-30))
@@ -5854,7 +5854,7 @@ All Verses: [Matthew 19:23-30](http://www.esvbible.org/Matthew%2019:23-30); [Mar
 </div>
 </div>
 
-## 256. The Parable Of The Laborers In The Vineyard<a name="pericope256"></a> (<a href="#pericopetoc">^</a>)
+## 256. The Parable Of The Laborers In The Vineyard<a name="pericope256"></a> (<a href="#pericope256toc">^</a>)
 Essential Verses: [Matthew 20:1-16](http://www.esvbible.org/Matthew%2020:1-16)
 Additional Verses: [Mark 10:31](http://www.esvbible.org/Mark%2010:31); [Luke 13:30](http://www.esvbible.org/Luke%2013:30) ([All](http://www.esvbible.org/Mark%2010:31;%20Luke%2013:30))
 All Verses: [Matthew 20:1-16](http://www.esvbible.org/Matthew%2020:1-16); [Mark 10:31](http://www.esvbible.org/Mark%2010:31); [Luke 13:30](http://www.esvbible.org/Luke%2013:30) ([All](http://www.esvbible.org/Matthew%2020:1-16;%20Mark%2010:31;%20Luke%2013:30))
@@ -5878,7 +5878,7 @@ All Verses: [Matthew 20:1-16](http://www.esvbible.org/Matthew%2020:1-16); [Mark 
 </div>
 </div>
 
-## 257. Jesus At The Feast Of Dedication In Jerusalem<a name="pericope257"></a> (<a href="#pericopetoc">^</a>)
+## 257. Jesus At The Feast Of Dedication In Jerusalem<a name="pericope257"></a> (<a href="#pericope257toc">^</a>)
 All Verses: [John 10:22-39](http://www.esvbible.org/John%2010:22-39) ([All](http://www.esvbible.org/John%2010:22-39))
 
 ### John 10:22-39
@@ -5889,7 +5889,7 @@ All Verses: [John 10:22-39](http://www.esvbible.org/John%2010:22-39) ([All](http
 </div>
 </div>
 
-## 258. Jesus Withdraws Across The Jordan<a name="pericope258"></a> (<a href="#pericopetoc">^</a>)
+## 258. Jesus Withdraws Across The Jordan<a name="pericope258"></a> (<a href="#pericope258toc">^</a>)
 All Verses: [John 10:40-42](http://www.esvbible.org/John%2010:40-42) ([All](http://www.esvbible.org/John%2010:40-42))
 
 ### John 10:40-42
@@ -5898,7 +5898,7 @@ All Verses: [John 10:40-42](http://www.esvbible.org/John%2010:40-42) ([All](http
 </div>
 </div>
 
-## 259. The Raising Of Lazarus<a name="pericope259"></a> (<a href="#pericopetoc">^</a>)
+## 259. The Raising Of Lazarus<a name="pericope259"></a> (<a href="#pericope259toc">^</a>)
 All Verses: [John 11:1-44](http://www.esvbible.org/John%2011:1-44) ([All](http://www.esvbible.org/John%2011:1-44))
 
 ### John 11:1-44
@@ -5915,7 +5915,7 @@ All Verses: [John 11:1-44](http://www.esvbible.org/John%2011:1-44) ([All](http:/
 </div>
 </div>
 
-## 260. The Chief Priests And Pharisees Take Counsel Against Jesus<a name="pericope260"></a> (<a href="#pericopetoc">^</a>)
+## 260. The Chief Priests And Pharisees Take Counsel Against Jesus<a name="pericope260"></a> (<a href="#pericope260toc">^</a>)
 All Verses: [John 11:45-53](http://www.esvbible.org/John%2011:45-53) ([All](http://www.esvbible.org/John%2011:45-53))
 
 ### John 11:45-53
@@ -5925,7 +5925,7 @@ All Verses: [John 11:45-53](http://www.esvbible.org/John%2011:45-53) ([All](http
 </div>
 </div>
 
-## 261. Jesus Retires To Ephraim<a name="pericope261"></a> (<a href="#pericopetoc">^</a>)
+## 261. Jesus Retires To Ephraim<a name="pericope261"></a> (<a href="#pericope261toc">^</a>)
 All Verses: [John 11:54-57](http://www.esvbible.org/John%2011:54-57) ([All](http://www.esvbible.org/John%2011:54-57))
 
 ### John 11:54-57
@@ -5935,7 +5935,7 @@ All Verses: [John 11:54-57](http://www.esvbible.org/John%2011:54-57) ([All](http
 </div>
 </div>
 
-## 262. The Third Prediction Of The Passion<a name="pericope262"></a> (<a href="#pericopetoc">^</a>)
+## 262. The Third Prediction Of The Passion<a name="pericope262"></a> (<a href="#pericope262toc">^</a>)
 All Verses: [Matthew 20:17-19](http://www.esvbible.org/Matthew%2020:17-19); [Mark 10:32-34](http://www.esvbible.org/Mark%2010:32-34); [Luke 18:31-34](http://www.esvbible.org/Luke%2018:31-34) ([All](http://www.esvbible.org/Matthew%2020:17-19;%20Mark%2010:32-34;%20Luke%2018:31-34))
 
 ### Matthew 20:17-19
@@ -5959,7 +5959,7 @@ All Verses: [Matthew 20:17-19](http://www.esvbible.org/Matthew%2020:17-19); [Mar
 </div>
 </div>
 
-## 263. The Sons Of Zebedee; Precedence Among The Disciples<a name="pericope263"></a> (<a href="#pericopetoc">^</a>)
+## 263. The Sons Of Zebedee; Precedence Among The Disciples<a name="pericope263"></a> (<a href="#pericope263toc">^</a>)
 Essential Verses: [Matthew 20:20-28](http://www.esvbible.org/Matthew%2020:20-28); [Mark 10:35-45](http://www.esvbible.org/Mark%2010:35-45) ([All](http://www.esvbible.org/Matthew%2020:20-28;%20Mark%2010:35-45))
 Additional Verses: [Luke 22:24-27](http://www.esvbible.org/Luke%2022:24-27)
 All Verses: [Matthew 20:20-28](http://www.esvbible.org/Matthew%2020:20-28); [Mark 10:35-45](http://www.esvbible.org/Mark%2010:35-45); [Luke 22:24-27](http://www.esvbible.org/Luke%2022:24-27) ([All](http://www.esvbible.org/Matthew%2020:20-28;%20Mark%2010:35-45;%20Luke%2022:24-27))
@@ -5985,7 +5985,7 @@ All Verses: [Matthew 20:20-28](http://www.esvbible.org/Matthew%2020:20-28); [Mar
 </div>
 </div>
 
-## 264. The Healing Of The Blind Men (bartimaeus)<a name="pericope264"></a> (<a href="#pericopetoc">^</a>)
+## 264. The Healing Of The Blind Men (bartimaeus)<a name="pericope264"></a> (<a href="#pericope264toc">^</a>)
 Essential Verses: [Matthew 20:29-34](http://www.esvbible.org/Matthew%2020:29-34); [Mark 10:46-52](http://www.esvbible.org/Mark%2010:46-52); [Luke 18:35-43](http://www.esvbible.org/Luke%2018:35-43) ([All](http://www.esvbible.org/Matthew%2020:29-34;%20Mark%2010:46-52;%20Luke%2018:35-43))
 Additional Verses: [Matthew 9:27-31](http://www.esvbible.org/Matthew%209:27-31)
 All Verses: [Matthew 20:29-34](http://www.esvbible.org/Matthew%2020:29-34); [Matthew 9:27-31](http://www.esvbible.org/Matthew%209:27-31); [Mark 10:46-52](http://www.esvbible.org/Mark%2010:46-52); [Luke 18:35-43](http://www.esvbible.org/Luke%2018:35-43) ([All](http://www.esvbible.org/Matthew%2020:29-34;%20Matthew%209:27-31;%20Mark%2010:46-52;%20Luke%2018:35-43))
@@ -6018,7 +6018,7 @@ All Verses: [Matthew 20:29-34](http://www.esvbible.org/Matthew%2020:29-34); [Mat
 </div>
 </div>
 
-## 265. Zacchaeus<a name="pericope265"></a> (<a href="#pericopetoc">^</a>)
+## 265. Zacchaeus<a name="pericope265"></a> (<a href="#pericope265toc">^</a>)
 Essential Verses: [Luke 19:1-10](http://www.esvbible.org/Luke%2019:1-10)
 Additional Verses: [Matthew 18:11](http://www.esvbible.org/Matthew%2018:11)
 All Verses: [Matthew 18:11](http://www.esvbible.org/Matthew%2018:11); [Luke 19:1-10](http://www.esvbible.org/Luke%2019:1-10) ([All](http://www.esvbible.org/Matthew%2018:11;%20Luke%2019:1-10))
@@ -6037,7 +6037,7 @@ All Verses: [Matthew 18:11](http://www.esvbible.org/Matthew%2018:11); [Luke 19:1
 </div>
 </div>
 
-## 266. The Parable Of The Pounds<a name="pericope266"></a> (<a href="#pericopetoc">^</a>)
+## 266. The Parable Of The Pounds<a name="pericope266"></a> (<a href="#pericope266toc">^</a>)
 Essential Verses: [Luke 19:11-27](http://www.esvbible.org/Luke%2019:11-27)
 Additional Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30); [Mark 13:34](http://www.esvbible.org/Mark%2013:34) ([All](http://www.esvbible.org/Matthew%2025:14-30;%20Mark%2013:34))
 All Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30); [Mark 13:34](http://www.esvbible.org/Mark%2013:34); [Luke 19:11-27](http://www.esvbible.org/Luke%2019:11-27) ([All](http://www.esvbible.org/Matthew%2025:14-30;%20Mark%2013:34;%20Luke%2019:11-27))
@@ -6062,7 +6062,7 @@ All Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30); [Mar
 </div>
 </div>
 
-## 267. The Anointing At Bethany<a name="pericope267"></a> (<a href="#pericopetoc">^</a>)
+## 267. The Anointing At Bethany<a name="pericope267"></a> (<a href="#pericope267toc">^</a>)
 Essential Verses: [John 12:1-8](http://www.esvbible.org/John%2012:1-8)
 Additional Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9); [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9;%20Luke%207:36-50))
 All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9); [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50); [John 12:1-8](http://www.esvbible.org/John%2012:1-8) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9;%20Luke%207:36-50;%20John%2012:1-8))
@@ -6096,7 +6096,7 @@ All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 
 </div>
 </div>
 
-## 268. The Plot Against Lazarus<a name="pericope268"></a> (<a href="#pericopetoc">^</a>)
+## 268. The Plot Against Lazarus<a name="pericope268"></a> (<a href="#pericope268toc">^</a>)
 All Verses: [John 12:9-11](http://www.esvbible.org/John%2012:9-11) ([All](http://www.esvbible.org/John%2012:9-11))
 
 ### John 12:9-11
@@ -6106,7 +6106,7 @@ All Verses: [John 12:9-11](http://www.esvbible.org/John%2012:9-11) ([All](http:/
 </div>
 </div>
 
-## 269. The Triumphal Entry<a name="pericope269"></a> (<a href="#pericopetoc">^</a>)
+## 269. The Triumphal Entry<a name="pericope269"></a> (<a href="#pericope269toc">^</a>)
 All Verses: [Matthew 21:1-9](http://www.esvbible.org/Matthew%2021:1-9); [Mark 11:1-10](http://www.esvbible.org/Mark%2011:1-10); [Luke 19:28-40](http://www.esvbible.org/Luke%2019:28-40); [John 12:12-19](http://www.esvbible.org/John%2012:12-19) ([All](http://www.esvbible.org/Matthew%2021:1-9;%20Mark%2011:1-10;%20Luke%2019:28-40;%20John%2012:12-19))
 
 ### Matthew 21:1-9
@@ -6145,7 +6145,7 @@ behold, your king is coming,<br/>sitting on a donkey's colt!&#x201D;</p></blockq
 </div>
 </div>
 
-## 270. Jesus Weeps Over Jerusalem<a name="pericope270"></a> (<a href="#pericopetoc">^</a>)
+## 270. Jesus Weeps Over Jerusalem<a name="pericope270"></a> (<a href="#pericope270toc">^</a>)
 All Verses: [Luke 19:41-44](http://www.esvbible.org/Luke%2019:41-44) ([All](http://www.esvbible.org/Luke%2019:41-44))
 
 ### Luke 19:41-44
@@ -6155,7 +6155,7 @@ All Verses: [Luke 19:41-44](http://www.esvbible.org/Luke%2019:41-44) ([All](http
 </div>
 </div>
 
-## 271. Jesus In Jerusalem (cleansing The Temple), Return To Bethany<a name="pericope271"></a> (<a href="#pericopetoc">^</a>)
+## 271. Jesus In Jerusalem (cleansing The Temple), Return To Bethany<a name="pericope271"></a> (<a href="#pericope271toc">^</a>)
 Essential Verses: [Matthew 21:10-17](http://www.esvbible.org/Matthew%2021:10-17); [Mark 11:11](http://www.esvbible.org/Mark%2011:11) ([All](http://www.esvbible.org/Matthew%2021:10-17;%20Mark%2011:11))
 Additional Verses: [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46) ([All](http://www.esvbible.org/Mark%2011:15-17;%20Luke%2019:45-46))
 All Verses: [Matthew 21:10-17](http://www.esvbible.org/Matthew%2021:10-17); [Mark 11:11](http://www.esvbible.org/Mark%2011:11); [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46) ([All](http://www.esvbible.org/Matthew%2021:10-17;%20Mark%2011:11;%20Mark%2011:15-17;%20Luke%2019:45-46))
@@ -6192,7 +6192,7 @@ All Verses: [Matthew 21:10-17](http://www.esvbible.org/Matthew%2021:10-17); [Mar
 </div>
 </div>
 
-## 272. The Cursing Of The Fig Tree<a name="pericope272"></a> (<a href="#pericopetoc">^</a>)
+## 272. The Cursing Of The Fig Tree<a name="pericope272"></a> (<a href="#pericope272toc">^</a>)
 All Verses: [Matthew 21:18-19](http://www.esvbible.org/Matthew%2021:18-19); [Mark 11:12-14](http://www.esvbible.org/Mark%2011:12-14) ([All](http://www.esvbible.org/Matthew%2021:18-19;%20Mark%2011:12-14))
 
 ### Matthew 21:18-19
@@ -6209,7 +6209,7 @@ All Verses: [Matthew 21:18-19](http://www.esvbible.org/Matthew%2021:18-19); [Mar
 </div>
 </div>
 
-## 273. The Cleansing Of The Temple<a name="pericope273"></a> (<a href="#pericopetoc">^</a>)
+## 273. The Cleansing Of The Temple<a name="pericope273"></a> (<a href="#pericope273toc">^</a>)
 Essential Verses: [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46) ([All](http://www.esvbible.org/Mark%2011:15-17;%20Luke%2019:45-46))
 Additional Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [John 2:13-17](http://www.esvbible.org/John%202:13-17) ([All](http://www.esvbible.org/Matthew%2021:12-13;%20John%202:13-17))
 All Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [Mark 11:15-17](http://www.esvbible.org/Mark%2011:15-17); [Luke 19:45-46](http://www.esvbible.org/Luke%2019:45-46); [John 2:13-17](http://www.esvbible.org/John%202:13-17) ([All](http://www.esvbible.org/Matthew%2021:12-13;%20Mark%2011:15-17;%20Luke%2019:45-46;%20John%202:13-17))
@@ -6242,7 +6242,7 @@ All Verses: [Matthew 21:12-13](http://www.esvbible.org/Matthew%2021:12-13); [Mar
 </div>
 </div>
 
-## 274. The Chief Priests And Scribes Conspire Against Jesus<a name="pericope274"></a> (<a href="#pericopetoc">^</a>)
+## 274. The Chief Priests And Scribes Conspire Against Jesus<a name="pericope274"></a> (<a href="#pericope274toc">^</a>)
 All Verses: [Mark 11:18-19](http://www.esvbible.org/Mark%2011:18-19); [Luke 19:47-48](http://www.esvbible.org/Luke%2019:47-48) ([All](http://www.esvbible.org/Mark%2011:18-19;%20Luke%2019:47-48))
 
 ### Mark 11:18-19
@@ -6257,7 +6257,7 @@ All Verses: [Mark 11:18-19](http://www.esvbible.org/Mark%2011:18-19); [Luke 19:4
 </div>
 </div>
 
-## 275. The Fig Tree Is Withered<a name="pericope275"></a> (<a href="#pericopetoc">^</a>)
+## 275. The Fig Tree Is Withered<a name="pericope275"></a> (<a href="#pericope275toc">^</a>)
 Essential Verses: [Matthew 21:20-22](http://www.esvbible.org/Matthew%2021:20-22); [Mark 11:20-26](http://www.esvbible.org/Mark%2011:20-26) ([All](http://www.esvbible.org/Matthew%2021:20-22;%20Mark%2011:20-26))
 Additional Verses: [Matthew 6:14-15](http://www.esvbible.org/Matthew%206:14-15)
 All Verses: [Matthew 21:20-22](http://www.esvbible.org/Matthew%2021:20-22); [Matthew 6:14-15](http://www.esvbible.org/Matthew%206:14-15); [Mark 11:20-26](http://www.esvbible.org/Mark%2011:20-26) ([All](http://www.esvbible.org/Matthew%2021:20-22;%20Matthew%206:14-15;%20Mark%2011:20-26))
@@ -6281,7 +6281,7 @@ All Verses: [Matthew 21:20-22](http://www.esvbible.org/Matthew%2021:20-22); [Mat
 </div>
 </div>
 
-## 276. The Question About Authority<a name="pericope276"></a> (<a href="#pericopetoc">^</a>)
+## 276. The Question About Authority<a name="pericope276"></a> (<a href="#pericope276toc">^</a>)
 All Verses: [Matthew 21:23-27](http://www.esvbible.org/Matthew%2021:23-27); [Mark 11:27-33](http://www.esvbible.org/Mark%2011:27-33); [Luke 20:1-8](http://www.esvbible.org/Luke%2020:1-8) ([All](http://www.esvbible.org/Matthew%2021:23-27;%20Mark%2011:27-33;%20Luke%2020:1-8))
 
 ### Matthew 21:23-27
@@ -6305,7 +6305,7 @@ All Verses: [Matthew 21:23-27](http://www.esvbible.org/Matthew%2021:23-27); [Mar
 </div>
 </div>
 
-## 277. The Parable Of The Two Sons<a name="pericope277"></a> (<a href="#pericopetoc">^</a>)
+## 277. The Parable Of The Two Sons<a name="pericope277"></a> (<a href="#pericope277toc">^</a>)
 All Verses: [Matthew 21:28-32](http://www.esvbible.org/Matthew%2021:28-32) ([All](http://www.esvbible.org/Matthew%2021:28-32))
 
 ### Matthew 21:28-32
@@ -6315,7 +6315,7 @@ All Verses: [Matthew 21:28-32](http://www.esvbible.org/Matthew%2021:28-32) ([All
 </div>
 </div>
 
-## 278. The Parable Of The Wicked Husbandmen<a name="pericope278"></a> (<a href="#pericopetoc">^</a>)
+## 278. The Parable Of The Wicked Husbandmen<a name="pericope278"></a> (<a href="#pericope278toc">^</a>)
 All Verses: [Matthew 21:33-46](http://www.esvbible.org/Matthew%2021:33-46); [Mark 12:1-12](http://www.esvbible.org/Mark%2012:1-12); [Luke 20:9-19](http://www.esvbible.org/Luke%2020:9-19) ([All](http://www.esvbible.org/Matthew%2021:33-46;%20Mark%2012:1-12;%20Luke%2020:9-19))
 
 ### Matthew 21:33-46
@@ -6353,7 +6353,7 @@ this was the Lord's doing,<br/>and it is marvelous in our eyes&#x2019;?</span></
 </div>
 </div>
 
-## 279. The Parable Of The Great Supper<a name="pericope279"></a> (<a href="#pericopetoc">^</a>)
+## 279. The Parable Of The Great Supper<a name="pericope279"></a> (<a href="#pericope279toc">^</a>)
 Essential Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14)
 Additional Verses: [Luke 14:15-24](http://www.esvbible.org/Luke%2014:15-24)
 All Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14); [Luke 14:15-24](http://www.esvbible.org/Luke%2014:15-24) ([All](http://www.esvbible.org/Matthew%2022:1-14;%20Luke%2014:15-24))
@@ -6372,7 +6372,7 @@ All Verses: [Matthew 22:1-14](http://www.esvbible.org/Matthew%2022:1-14); [Luke 
 </div>
 </div>
 
-## 280. On Paying Tribute To Caesar<a name="pericope280"></a> (<a href="#pericopetoc">^</a>)
+## 280. On Paying Tribute To Caesar<a name="pericope280"></a> (<a href="#pericope280toc">^</a>)
 All Verses: [Matthew 22:15-22](http://www.esvbible.org/Matthew%2022:15-22); [Mark 12:13-17](http://www.esvbible.org/Mark%2012:13-17); [Luke 20:20-26](http://www.esvbible.org/Luke%2020:20-26) ([All](http://www.esvbible.org/Matthew%2022:15-22;%20Mark%2012:13-17;%20Luke%2020:20-26))
 
 ### Matthew 22:15-22
@@ -6395,7 +6395,7 @@ All Verses: [Matthew 22:15-22](http://www.esvbible.org/Matthew%2022:15-22); [Mar
 </div>
 </div>
 
-## 281. The Question About The Resurrection<a name="pericope281"></a> (<a href="#pericopetoc">^</a>)
+## 281. The Question About The Resurrection<a name="pericope281"></a> (<a href="#pericope281toc">^</a>)
 All Verses: [Matthew 22:23-33](http://www.esvbible.org/Matthew%2022:23-33); [Mark 12:18-27](http://www.esvbible.org/Mark%2012:18-27); [Luke 20:27-40](http://www.esvbible.org/Luke%2020:27-40) ([All](http://www.esvbible.org/Matthew%2022:23-33;%20Mark%2012:18-27;%20Luke%2020:27-40))
 
 ### Matthew 22:23-33
@@ -6422,7 +6422,7 @@ All Verses: [Matthew 22:23-33](http://www.esvbible.org/Matthew%2022:23-33); [Mar
 </div>
 </div>
 
-## 282. The Great Commandment<a name="pericope282"></a> (<a href="#pericopetoc">^</a>)
+## 282. The Great Commandment<a name="pericope282"></a> (<a href="#pericope282toc">^</a>)
 Essential Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mark 12:28-34](http://www.esvbible.org/Mark%2012:28-34) ([All](http://www.esvbible.org/Matthew%2022:34-40;%20Mark%2012:28-34))
 Additional Verses: [Luke 10:25-28](http://www.esvbible.org/Luke%2010:25-28)
 All Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mark 12:28-34](http://www.esvbible.org/Mark%2012:28-34); [Luke 10:25-28](http://www.esvbible.org/Luke%2010:25-28) ([All](http://www.esvbible.org/Matthew%2022:34-40;%20Mark%2012:28-34;%20Luke%2010:25-28))
@@ -6448,7 +6448,7 @@ All Verses: [Matthew 22:34-40](http://www.esvbible.org/Matthew%2022:34-40); [Mar
 </div>
 </div>
 
-## 283. The Question About David's Son<a name="pericope283"></a> (<a href="#pericopetoc">^</a>)
+## 283. The Question About David's Son<a name="pericope283"></a> (<a href="#pericope283toc">^</a>)
 All Verses: [Matthew 22:41-46](http://www.esvbible.org/Matthew%2022:41-46); [Mark 12:35-37a](http://www.esvbible.org/Mark%2012:35-37a); [Luke 20:41-44](http://www.esvbible.org/Luke%2020:41-44) ([All](http://www.esvbible.org/Matthew%2022:41-46;%20Mark%2012:35-37a;%20Luke%2020:41-44))
 
 ### Matthew 22:41-46
@@ -6484,7 +6484,7 @@ Sit at my right hand,</span><br/><span class="woc">until I make your enemies you
 </div>
 </div>
 
-## 284. Woe To The Scribes And Pharisees<a name="pericope284"></a> (<a href="#pericopetoc">^</a>)
+## 284. Woe To The Scribes And Pharisees<a name="pericope284"></a> (<a href="#pericope284toc">^</a>)
 All Verses: [Matthew 23:1-36](http://www.esvbible.org/Matthew%2023:1-36); [Mark 12:37b-40](http://www.esvbible.org/Mark%2012:37b-40); [Luke 20:45-47](http://www.esvbible.org/Luke%2020:45-47) ([All](http://www.esvbible.org/Matthew%2023:1-36;%20Mark%2012:37b-40;%20Luke%2020:45-47))
 
 ### Matthew 23:1-36
@@ -6515,7 +6515,7 @@ All Verses: [Matthew 23:1-36](http://www.esvbible.org/Matthew%2023:1-36); [Mark 
 </div>
 </div>
 
-## 285. Jesus' Lament Over Jerusalem<a name="pericope285"></a> (<a href="#pericopetoc">^</a>)
+## 285. Jesus' Lament Over Jerusalem<a name="pericope285"></a> (<a href="#pericope285toc">^</a>)
 Essential Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39)
 Additional Verses: [Luke 13:34-35](http://www.esvbible.org/Luke%2013:34-35)
 All Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39); [Luke 13:34-35](http://www.esvbible.org/Luke%2013:34-35) ([All](http://www.esvbible.org/Matthew%2023:37-39;%20Luke%2013:34-35))
@@ -6533,7 +6533,7 @@ All Verses: [Matthew 23:37-39](http://www.esvbible.org/Matthew%2023:37-39); [Luk
 </div>
 </div>
 
-## 286. The Widow's Mite<a name="pericope286"></a> (<a href="#pericopetoc">^</a>)
+## 286. The Widow's Mite<a name="pericope286"></a> (<a href="#pericope286toc">^</a>)
 All Verses: [Mark 12:41-44](http://www.esvbible.org/Mark%2012:41-44); [Luke 21:1-4](http://www.esvbible.org/Luke%2021:1-4) ([All](http://www.esvbible.org/Mark%2012:41-44;%20Luke%2021:1-4))
 
 ### Mark 12:41-44
@@ -6550,7 +6550,7 @@ All Verses: [Mark 12:41-44](http://www.esvbible.org/Mark%2012:41-44); [Luke 21:1
 </div>
 </div>
 
-## 287. Prediction Of The Destruction Of The Temple<a name="pericope287"></a> (<a href="#pericopetoc">^</a>)
+## 287. Prediction Of The Destruction Of The Temple<a name="pericope287"></a> (<a href="#pericope287toc">^</a>)
 All Verses: [Matthew 24:1-2](http://www.esvbible.org/Matthew%2024:1-2); [Mark 13:1-2](http://www.esvbible.org/Mark%2013:1-2); [Luke 21:5-6](http://www.esvbible.org/Luke%2021:5-6) ([All](http://www.esvbible.org/Matthew%2024:1-2;%20Mark%2013:1-2;%20Luke%2021:5-6))
 
 ### Matthew 24:1-2
@@ -6574,7 +6574,7 @@ All Verses: [Matthew 24:1-2](http://www.esvbible.org/Matthew%2024:1-2); [Mark 13
 </div>
 </div>
 
-## 288. Signs Before The End<a name="pericope288"></a> (<a href="#pericopetoc">^</a>)
+## 288. Signs Before The End<a name="pericope288"></a> (<a href="#pericope288toc">^</a>)
 All Verses: [Matthew 24:3-8](http://www.esvbible.org/Matthew%2024:3-8); [Mark 13:3-8](http://www.esvbible.org/Mark%2013:3-8); [Luke 21:7-11](http://www.esvbible.org/Luke%2021:7-11) ([All](http://www.esvbible.org/Matthew%2024:3-8;%20Mark%2013:3-8;%20Luke%2021:7-11))
 
 ### Matthew 24:3-8
@@ -6599,7 +6599,7 @@ All Verses: [Matthew 24:3-8](http://www.esvbible.org/Matthew%2024:3-8); [Mark 13
 </div>
 </div>
 
-## 289. Persecutions Foretold<a name="pericope289"></a> (<a href="#pericopetoc">^</a>)
+## 289. Persecutions Foretold<a name="pericope289"></a> (<a href="#pericope289toc">^</a>)
 Essential Verses: [Matthew 24:9-14](http://www.esvbible.org/Matthew%2024:9-14); [Mark 13:9-13](http://www.esvbible.org/Mark%2013:9-13); [Luke 21:12-19](http://www.esvbible.org/Luke%2021:12-19) ([All](http://www.esvbible.org/Matthew%2024:9-14;%20Mark%2013:9-13;%20Luke%2021:12-19))
 Additional Verses: [Matthew 10:17-22a](http://www.esvbible.org/Matthew%2010:17-22a); [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12) ([All](http://www.esvbible.org/Matthew%2010:17-22a;%20Luke%2012:11-12))
 All Verses: [Matthew 24:9-14](http://www.esvbible.org/Matthew%2024:9-14); [Matthew 10:17-22a](http://www.esvbible.org/Matthew%2010:17-22a); [Mark 13:9-13](http://www.esvbible.org/Mark%2013:9-13); [Luke 21:12-19](http://www.esvbible.org/Luke%2021:12-19); [Luke 12:11-12](http://www.esvbible.org/Luke%2012:11-12) ([All](http://www.esvbible.org/Matthew%2024:9-14;%20Matthew%2010:17-22a;%20Mark%2013:9-13;%20Luke%2021:12-19;%20Luke%2012:11-12))
@@ -6634,7 +6634,7 @@ All Verses: [Matthew 24:9-14](http://www.esvbible.org/Matthew%2024:9-14); [Matth
 </div>
 </div>
 
-## 290. The Desolating Sacrilege<a name="pericope290"></a> (<a href="#pericopetoc">^</a>)
+## 290. The Desolating Sacrilege<a name="pericope290"></a> (<a href="#pericope290toc">^</a>)
 All Verses: [Matthew 24:15-22](http://www.esvbible.org/Matthew%2024:15-22); [Mark 13:14-20](http://www.esvbible.org/Mark%2013:14-20); [Luke 21:20-24](http://www.esvbible.org/Luke%2021:20-24) ([All](http://www.esvbible.org/Matthew%2024:15-22;%20Mark%2013:14-20;%20Luke%2021:20-24))
 
 ### Matthew 24:15-22
@@ -6658,7 +6658,7 @@ All Verses: [Matthew 24:15-22](http://www.esvbible.org/Matthew%2024:15-22); [Mar
 </div>
 </div>
 
-## 291. False Christs And False Prophets<a name="pericope291"></a> (<a href="#pericopetoc">^</a>)
+## 291. False Christs And False Prophets<a name="pericope291"></a> (<a href="#pericope291toc">^</a>)
 Essential Verses: [Matthew 24:23-28](http://www.esvbible.org/Matthew%2024:23-28); [Mark 13:21-23](http://www.esvbible.org/Mark%2013:21-23) ([All](http://www.esvbible.org/Matthew%2024:23-28;%20Mark%2013:21-23))
 Additional Verses: [Luke 17:23-24](http://www.esvbible.org/Luke%2017:23-24); [Luke 17:37b](http://www.esvbible.org/Luke%2017:37b) ([All](http://www.esvbible.org/Luke%2017:23-24;%20Luke%2017:37b))
 All Verses: [Matthew 24:23-28](http://www.esvbible.org/Matthew%2024:23-28); [Mark 13:21-23](http://www.esvbible.org/Mark%2013:21-23); [Luke 17:23-24](http://www.esvbible.org/Luke%2017:23-24); [Luke 17:37b](http://www.esvbible.org/Luke%2017:37b) ([All](http://www.esvbible.org/Matthew%2024:23-28;%20Mark%2013:21-23;%20Luke%2017:23-24;%20Luke%2017:37b))
@@ -6687,7 +6687,7 @@ All Verses: [Matthew 24:23-28](http://www.esvbible.org/Matthew%2024:23-28); [Mar
 </div>
 </div>
 
-## 292. The Coming Of The Son Of Man<a name="pericope292"></a> (<a href="#pericopetoc">^</a>)
+## 292. The Coming Of The Son Of Man<a name="pericope292"></a> (<a href="#pericope292toc">^</a>)
 All Verses: [Matthew 24:29-31](http://www.esvbible.org/Matthew%2024:29-31); [Mark 13:24-27](http://www.esvbible.org/Mark%2013:24-27); [Luke 21:25-28](http://www.esvbible.org/Luke%2021:25-28) ([All](http://www.esvbible.org/Matthew%2024:29-31;%20Mark%2013:24-27;%20Luke%2021:25-28))
 
 ### Matthew 24:29-31
@@ -6711,7 +6711,7 @@ All Verses: [Matthew 24:29-31](http://www.esvbible.org/Matthew%2024:29-31); [Mar
 </div>
 </div>
 
-## 293. The Time Of The Coming: The Parable Of The Fig Tree<a name="pericope293"></a> (<a href="#pericopetoc">^</a>)
+## 293. The Time Of The Coming: The Parable Of The Fig Tree<a name="pericope293"></a> (<a href="#pericope293toc">^</a>)
 All Verses: [Matthew 24:32-36](http://www.esvbible.org/Matthew%2024:32-36); [Mark 13:28-32](http://www.esvbible.org/Mark%2013:28-32); [Luke 21:29-33](http://www.esvbible.org/Luke%2021:29-33) ([All](http://www.esvbible.org/Matthew%2024:32-36;%20Mark%2013:28-32;%20Luke%2021:29-33))
 
 ### Matthew 24:32-36
@@ -6739,7 +6739,7 @@ All Verses: [Matthew 24:32-36](http://www.esvbible.org/Matthew%2024:32-36); [Mar
 </div>
 </div>
 
-## 294. Conclusion: "take Heed, Watch!" (according To Mark)<a name="pericope294"></a> (<a href="#pericopetoc">^</a>)
+## 294. Conclusion: "take Heed, Watch!" (according To Mark)<a name="pericope294"></a> (<a href="#pericope294toc">^</a>)
 Essential Verses: [Mark 13:33-37](http://www.esvbible.org/Mark%2013:33-37)
 Additional Verses: [Matthew 25:13-15](http://www.esvbible.org/Matthew%2025:13-15); [Matthew 24:42](http://www.esvbible.org/Matthew%2024:42); [Luke 19:12-13](http://www.esvbible.org/Luke%2019:12-13); [Luke 12:40](http://www.esvbible.org/Luke%2012:40) ([All](http://www.esvbible.org/Matthew%2025:13-15;%20Matthew%2024:42;%20Luke%2019:12-13;%20Luke%2012:40))
 All Verses: [Matthew 25:13-15](http://www.esvbible.org/Matthew%2025:13-15); [Matthew 24:42](http://www.esvbible.org/Matthew%2024:42); [Mark 13:33-37](http://www.esvbible.org/Mark%2013:33-37); [Luke 19:12-13](http://www.esvbible.org/Luke%2019:12-13); [Luke 12:40](http://www.esvbible.org/Luke%2012:40) ([All](http://www.esvbible.org/Matthew%2025:13-15;%20Matthew%2024:42;%20Mark%2013:33-37;%20Luke%2019:12-13;%20Luke%2012:40))
@@ -6776,7 +6776,7 @@ All Verses: [Matthew 25:13-15](http://www.esvbible.org/Matthew%2025:13-15); [Mat
 </div>
 </div>
 
-## 295. Conclusion: "take Heed, Watch!" (according To Luke)<a name="pericope295"></a> (<a href="#pericopetoc">^</a>)
+## 295. Conclusion: "take Heed, Watch!" (according To Luke)<a name="pericope295"></a> (<a href="#pericope295toc">^</a>)
 All Verses: [Luke 21:34-36](http://www.esvbible.org/Luke%2021:34-36) ([All](http://www.esvbible.org/Luke%2021:34-36))
 
 ### Luke 21:34-36
@@ -6786,7 +6786,7 @@ All Verses: [Luke 21:34-36](http://www.esvbible.org/Luke%2021:34-36) ([All](http
 </div>
 </div>
 
-## 296. The Parable Of The Flood And Exhortation To Watchfulness<a name="pericope296"></a> (<a href="#pericopetoc">^</a>)
+## 296. The Parable Of The Flood And Exhortation To Watchfulness<a name="pericope296"></a> (<a href="#pericope296toc">^</a>)
 Essential Verses: [Matthew 24:37-44](http://www.esvbible.org/Matthew%2024:37-44)
 Additional Verses: [Mark 13:35](http://www.esvbible.org/Mark%2013:35); [Luke 17:26-36](http://www.esvbible.org/Luke%2017:26-36); [Luke 12:39-40](http://www.esvbible.org/Luke%2012:39-40) ([All](http://www.esvbible.org/Mark%2013:35;%20Luke%2017:26-36;%20Luke%2012:39-40))
 All Verses: [Matthew 24:37-44](http://www.esvbible.org/Matthew%2024:37-44); [Mark 13:35](http://www.esvbible.org/Mark%2013:35); [Luke 17:26-36](http://www.esvbible.org/Luke%2017:26-36); [Luke 12:39-40](http://www.esvbible.org/Luke%2012:39-40) ([All](http://www.esvbible.org/Matthew%2024:37-44;%20Mark%2013:35;%20Luke%2017:26-36;%20Luke%2012:39-40))
@@ -6815,7 +6815,7 @@ All Verses: [Matthew 24:37-44](http://www.esvbible.org/Matthew%2024:37-44); [Mar
 </div>
 </div>
 
-## 297. The Parable Of The Good Servant And The Wicked Servant<a name="pericope297"></a> (<a href="#pericopetoc">^</a>)
+## 297. The Parable Of The Good Servant And The Wicked Servant<a name="pericope297"></a> (<a href="#pericope297toc">^</a>)
 Essential Verses: [Matthew 24:45-51](http://www.esvbible.org/Matthew%2024:45-51)
 Additional Verses: [Luke 12:41-46](http://www.esvbible.org/Luke%2012:41-46)
 All Verses: [Matthew 24:45-51](http://www.esvbible.org/Matthew%2024:45-51); [Luke 12:41-46](http://www.esvbible.org/Luke%2012:41-46) ([All](http://www.esvbible.org/Matthew%2024:45-51;%20Luke%2012:41-46))
@@ -6832,7 +6832,7 @@ All Verses: [Matthew 24:45-51](http://www.esvbible.org/Matthew%2024:45-51); [Luk
 </div>
 </div>
 
-## 298. The Parable Of The Ten Virgins<a name="pericope298"></a> (<a href="#pericopetoc">^</a>)
+## 298. The Parable Of The Ten Virgins<a name="pericope298"></a> (<a href="#pericope298toc">^</a>)
 All Verses: [Matthew 25:1-13](http://www.esvbible.org/Matthew%2025:1-13) ([All](http://www.esvbible.org/Matthew%2025:1-13))
 
 ### Matthew 25:1-13
@@ -6842,7 +6842,7 @@ All Verses: [Matthew 25:1-13](http://www.esvbible.org/Matthew%2025:1-13) ([All](
 </div>
 </div>
 
-## 299. The Parable Of The Talents<a name="pericope299"></a> (<a href="#pericopetoc">^</a>)
+## 299. The Parable Of The Talents<a name="pericope299"></a> (<a href="#pericope299toc">^</a>)
 Essential Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30)
 Additional Verses: [Mark 13:34](http://www.esvbible.org/Mark%2013:34); [Luke 19:11-27](http://www.esvbible.org/Luke%2019:11-27) ([All](http://www.esvbible.org/Mark%2013:34;%20Luke%2019:11-27))
 All Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30); [Mark 13:34](http://www.esvbible.org/Mark%2013:34); [Luke 19:11-27](http://www.esvbible.org/Luke%2019:11-27) ([All](http://www.esvbible.org/Matthew%2025:14-30;%20Mark%2013:34;%20Luke%2019:11-27))
@@ -6867,7 +6867,7 @@ All Verses: [Matthew 25:14-30](http://www.esvbible.org/Matthew%2025:14-30); [Mar
 </div>
 </div>
 
-## 300. The Last Judgment<a name="pericope300"></a> (<a href="#pericopetoc">^</a>)
+## 300. The Last Judgment<a name="pericope300"></a> (<a href="#pericope300toc">^</a>)
 Essential Verses: [Matthew 25:31-46](http://www.esvbible.org/Matthew%2025:31-46)
 Additional Verses: [John 5:29](http://www.esvbible.org/John%205:29)
 All Verses: [Matthew 25:31-46](http://www.esvbible.org/Matthew%2025:31-46); [John 5:29](http://www.esvbible.org/John%205:29) ([All](http://www.esvbible.org/Matthew%2025:31-46;%20John%205:29))
@@ -6886,7 +6886,7 @@ All Verses: [Matthew 25:31-46](http://www.esvbible.org/Matthew%2025:31-46); [Joh
 </div>
 </div>
 
-## 301. The Ministry Of Jesus In Jerusalem<a name="pericope301"></a> (<a href="#pericopetoc">^</a>)
+## 301. The Ministry Of Jesus In Jerusalem<a name="pericope301"></a> (<a href="#pericope301toc">^</a>)
 All Verses: [Luke 21:37-38](http://www.esvbible.org/Luke%2021:37-38) ([All](http://www.esvbible.org/Luke%2021:37-38))
 
 ### Luke 21:37-38
@@ -6895,7 +6895,7 @@ All Verses: [Luke 21:37-38](http://www.esvbible.org/Luke%2021:37-38) ([All](http
 </div>
 </div>
 
-## 302. Greeks Seek Jesus; Discourse On His Death<a name="pericope302"></a> (<a href="#pericopetoc">^</a>)
+## 302. Greeks Seek Jesus; Discourse On His Death<a name="pericope302"></a> (<a href="#pericope302toc">^</a>)
 All Verses: [John 12:20-36](http://www.esvbible.org/John%2012:20-36) ([All](http://www.esvbible.org/John%2012:20-36))
 
 ### John 12:20-36
@@ -6909,7 +6909,7 @@ All Verses: [John 12:20-36](http://www.esvbible.org/John%2012:20-36) ([All](http
 </div>
 </div>
 
-## 303. The Unbelief Of The People<a name="pericope303"></a> (<a href="#pericopetoc">^</a>)
+## 303. The Unbelief Of The People<a name="pericope303"></a> (<a href="#pericope303toc">^</a>)
 All Verses: [John 12:37-43](http://www.esvbible.org/John%2012:37-43) ([All](http://www.esvbible.org/John%2012:37-43))
 
 ### John 12:37-43
@@ -6925,7 +6925,7 @@ lest they see with their eyes,<br/>and understand with their heart, and turn,<br
 </div>
 </div>
 
-## 304. Judgment By The Word<a name="pericope304"></a> (<a href="#pericopetoc">^</a>)
+## 304. Judgment By The Word<a name="pericope304"></a> (<a href="#pericope304toc">^</a>)
 All Verses: [John 12:44-50](http://www.esvbible.org/John%2012:44-50) ([All](http://www.esvbible.org/John%2012:44-50))
 
 ### John 12:44-50
@@ -6935,7 +6935,7 @@ All Verses: [John 12:44-50](http://www.esvbible.org/John%2012:44-50) ([All](http
 </div>
 </div>
 
-## 305. Jesus' Death Is Premeditated<a name="pericope305"></a> (<a href="#pericopetoc">^</a>)
+## 305. Jesus' Death Is Premeditated<a name="pericope305"></a> (<a href="#pericope305toc">^</a>)
 All Verses: [Matthew 26:1-5](http://www.esvbible.org/Matthew%2026:1-5); [Mark 14:1-2](http://www.esvbible.org/Mark%2014:1-2); [Luke 22:1-2](http://www.esvbible.org/Luke%2022:1-2) ([All](http://www.esvbible.org/Matthew%2026:1-5;%20Mark%2014:1-2;%20Luke%2022:1-2))
 
 ### Matthew 26:1-5
@@ -6960,7 +6960,7 @@ All Verses: [Matthew 26:1-5](http://www.esvbible.org/Matthew%2026:1-5); [Mark 14
 </div>
 </div>
 
-## 306. The Anointing In Bethany<a name="pericope306"></a> (<a href="#pericopetoc">^</a>)
+## 306. The Anointing In Bethany<a name="pericope306"></a> (<a href="#pericope306toc">^</a>)
 Essential Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9))
 Additional Verses: [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50); [John 12:1-8](http://www.esvbible.org/John%2012:1-8) ([All](http://www.esvbible.org/Luke%207:36-50;%20John%2012:1-8))
 All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 14:3-9](http://www.esvbible.org/Mark%2014:3-9); [Luke 7:36-50](http://www.esvbible.org/Luke%207:36-50); [John 12:1-8](http://www.esvbible.org/John%2012:1-8) ([All](http://www.esvbible.org/Matthew%2026:6-13;%20Mark%2014:3-9;%20Luke%207:36-50;%20John%2012:1-8))
@@ -6994,7 +6994,7 @@ All Verses: [Matthew 26:6-13](http://www.esvbible.org/Matthew%2026:6-13); [Mark 
 </div>
 </div>
 
-## 307. The Betrayal By Judas<a name="pericope307"></a> (<a href="#pericopetoc">^</a>)
+## 307. The Betrayal By Judas<a name="pericope307"></a> (<a href="#pericope307toc">^</a>)
 All Verses: [Matthew 26:14-16](http://www.esvbible.org/Matthew%2026:14-16); [Mark 14:10-11](http://www.esvbible.org/Mark%2014:10-11); [Luke 22:3-6](http://www.esvbible.org/Luke%2022:3-6) ([All](http://www.esvbible.org/Matthew%2026:14-16;%20Mark%2014:10-11;%20Luke%2022:3-6))
 
 ### Matthew 26:14-16
@@ -7018,7 +7018,7 @@ All Verses: [Matthew 26:14-16](http://www.esvbible.org/Matthew%2026:14-16); [Mar
 </div>
 </div>
 
-## 308. Preparation For The Passover<a name="pericope308"></a> (<a href="#pericopetoc">^</a>)
+## 308. Preparation For The Passover<a name="pericope308"></a> (<a href="#pericope308toc">^</a>)
 All Verses: [Matthew 26:17-20](http://www.esvbible.org/Matthew%2026:17-20); [Mark 14:12-17](http://www.esvbible.org/Mark%2014:12-17); [Luke 22:7-14](http://www.esvbible.org/Luke%2022:7-14) ([All](http://www.esvbible.org/Matthew%2026:17-20;%20Mark%2014:12-17;%20Luke%2022:7-14))
 
 ### Matthew 26:17-20
@@ -7046,7 +7046,7 @@ All Verses: [Matthew 26:17-20](http://www.esvbible.org/Matthew%2026:17-20); [Mar
 </div>
 </div>
 
-## 309. Washing The Disciples' Feet<a name="pericope309"></a> (<a href="#pericopetoc">^</a>)
+## 309. Washing The Disciples' Feet<a name="pericope309"></a> (<a href="#pericope309toc">^</a>)
 Essential Verses: [John 13:1-20](http://www.esvbible.org/John%2013:1-20)
 Additional Verses: [Matthew 10:24](http://www.esvbible.org/Matthew%2010:24); [Matthew 10:40](http://www.esvbible.org/Matthew%2010:40); [Luke 6:40](http://www.esvbible.org/Luke%206:40) ([All](http://www.esvbible.org/Matthew%2010:24;%20Matthew%2010:40;%20Luke%206:40))
 All Verses: [Matthew 10:24](http://www.esvbible.org/Matthew%2010:24); [Matthew 10:40](http://www.esvbible.org/Matthew%2010:40); [Luke 6:40](http://www.esvbible.org/Luke%206:40); [John 13:1-20](http://www.esvbible.org/John%2013:1-20) ([All](http://www.esvbible.org/Matthew%2010:24;%20Matthew%2010:40;%20Luke%206:40;%20John%2013:1-20))
@@ -7078,7 +7078,7 @@ All Verses: [Matthew 10:24](http://www.esvbible.org/Matthew%2010:24); [Matthew 1
 </div>
 </div>
 
-## 310. Jesus Foretells His Betrayal<a name="pericope310"></a> (<a href="#pericopetoc">^</a>)
+## 310. Jesus Foretells His Betrayal<a name="pericope310"></a> (<a href="#pericope310toc">^</a>)
 Essential Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mark 14:18-21](http://www.esvbible.org/Mark%2014:18-21); [John 13:21-30](http://www.esvbible.org/John%2013:21-30) ([All](http://www.esvbible.org/Matthew%2026:21-25;%20Mark%2014:18-21;%20John%2013:21-30))
 Additional Verses: [Luke 22:21-23](http://www.esvbible.org/Luke%2022:21-23)
 All Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mark 14:18-21](http://www.esvbible.org/Mark%2014:18-21); [Luke 22:21-23](http://www.esvbible.org/Luke%2022:21-23); [John 13:21-30](http://www.esvbible.org/John%2013:21-30) ([All](http://www.esvbible.org/Matthew%2026:21-25;%20Mark%2014:18-21;%20Luke%2022:21-23;%20John%2013:21-30))
@@ -7108,7 +7108,7 @@ All Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mar
 </div>
 </div>
 
-## 311. The Last Supper<a name="pericope311"></a> (<a href="#pericopetoc">^</a>)
+## 311. The Last Supper<a name="pericope311"></a> (<a href="#pericope311toc">^</a>)
 All Verses: [Matthew 26:26-29](http://www.esvbible.org/Matthew%2026:26-29); [Mark 14:22-25](http://www.esvbible.org/Mark%2014:22-25); [Luke 22:15-20](http://www.esvbible.org/Luke%2022:15-20) ([All](http://www.esvbible.org/Matthew%2026:26-29;%20Mark%2014:22-25;%20Luke%2022:15-20))
 
 ### Matthew 26:26-29
@@ -7131,7 +7131,7 @@ All Verses: [Matthew 26:26-29](http://www.esvbible.org/Matthew%2026:26-29); [Mar
 </div>
 </div>
 
-## 312. Jesus Foretells His Betrayal<a name="pericope312"></a> (<a href="#pericopetoc">^</a>)
+## 312. Jesus Foretells His Betrayal<a name="pericope312"></a> (<a href="#pericope312toc">^</a>)
 Essential Verses: [Luke 22:21-23](http://www.esvbible.org/Luke%2022:21-23)
 Additional Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mark 14:18-21](http://www.esvbible.org/Mark%2014:18-21); [John 13:21-30](http://www.esvbible.org/John%2013:21-30) ([All](http://www.esvbible.org/Matthew%2026:21-25;%20Mark%2014:18-21;%20John%2013:21-30))
 All Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mark 14:18-21](http://www.esvbible.org/Mark%2014:18-21); [Luke 22:21-23](http://www.esvbible.org/Luke%2022:21-23); [John 13:21-30](http://www.esvbible.org/John%2013:21-30) ([All](http://www.esvbible.org/Matthew%2026:21-25;%20Mark%2014:18-21;%20Luke%2022:21-23;%20John%2013:21-30))
@@ -7161,7 +7161,7 @@ All Verses: [Matthew 26:21-25](http://www.esvbible.org/Matthew%2026:21-25); [Mar
 </div>
 </div>
 
-## 313. Precedence Among The Disciples And The Reward Of Discipleship<a name="pericope313"></a> (<a href="#pericopetoc">^</a>)
+## 313. Precedence Among The Disciples And The Reward Of Discipleship<a name="pericope313"></a> (<a href="#pericope313toc">^</a>)
 Essential Verses: [Luke 22:24-30](http://www.esvbible.org/Luke%2022:24-30)
 Additional Verses: [Matthew 20:24-28](http://www.esvbible.org/Matthew%2020:24-28); [Matthew 19:28](http://www.esvbible.org/Matthew%2019:28); [Mark 10:41-45](http://www.esvbible.org/Mark%2010:41-45) ([All](http://www.esvbible.org/Matthew%2020:24-28;%20Matthew%2019:28;%20Mark%2010:41-45))
 All Verses: [Matthew 20:24-28](http://www.esvbible.org/Matthew%2020:24-28); [Matthew 19:28](http://www.esvbible.org/Matthew%2019:28); [Mark 10:41-45](http://www.esvbible.org/Mark%2010:41-45); [Luke 22:24-30](http://www.esvbible.org/Luke%2022:24-30) ([All](http://www.esvbible.org/Matthew%2020:24-28;%20Matthew%2019:28;%20Mark%2010:41-45;%20Luke%2022:24-30))
@@ -7192,7 +7192,7 @@ All Verses: [Matthew 20:24-28](http://www.esvbible.org/Matthew%2020:24-28); [Mat
 </div>
 </div>
 
-## 314. The New Commandment Of Love<a name="pericope314"></a> (<a href="#pericopetoc">^</a>)
+## 314. The New Commandment Of Love<a name="pericope314"></a> (<a href="#pericope314toc">^</a>)
 All Verses: [John 13:31-35](http://www.esvbible.org/John%2013:31-35) ([All](http://www.esvbible.org/John%2013:31-35))
 
 ### John 13:31-35
@@ -7202,7 +7202,7 @@ All Verses: [John 13:31-35](http://www.esvbible.org/John%2013:31-35) ([All](http
 </div>
 </div>
 
-## 315. Peter's Denial Predicted<a name="pericope315"></a> (<a href="#pericopetoc">^</a>)
+## 315. Peter's Denial Predicted<a name="pericope315"></a> (<a href="#pericope315toc">^</a>)
 All Verses: [Matthew 26:30-35](http://www.esvbible.org/Matthew%2026:30-35); [Mark 14:26-31](http://www.esvbible.org/Mark%2014:26-31); [Luke 22:31-34](http://www.esvbible.org/Luke%2022:31-34); [John 13:36-38](http://www.esvbible.org/John%2013:36-38) ([All](http://www.esvbible.org/Matthew%2026:30-35;%20Mark%2014:26-31;%20Luke%2022:31-34;%20John%2013:36-38))
 
 ### Matthew 26:30-35
@@ -7233,7 +7233,7 @@ All Verses: [Matthew 26:30-35](http://www.esvbible.org/Matthew%2026:30-35); [Mar
 </div>
 </div>
 
-## 316. The Two Swords<a name="pericope316"></a> (<a href="#pericopetoc">^</a>)
+## 316. The Two Swords<a name="pericope316"></a> (<a href="#pericope316toc">^</a>)
 All Verses: [Luke 22:35-38](http://www.esvbible.org/Luke%2022:35-38) ([All](http://www.esvbible.org/Luke%2022:35-38))
 
 ### Luke 22:35-38
@@ -7243,7 +7243,7 @@ All Verses: [Luke 22:35-38](http://www.esvbible.org/Luke%2022:35-38) ([All](http
 </div>
 </div>
 
-## 317. Let Not Your Hearts Be Troubled<a name="pericope317"></a> (<a href="#pericopetoc">^</a>)
+## 317. Let Not Your Hearts Be Troubled<a name="pericope317"></a> (<a href="#pericope317toc">^</a>)
 All Verses: [John 14:1-14](http://www.esvbible.org/John%2014:1-14) ([All](http://www.esvbible.org/John%2014:1-14))
 
 ### John 14:1-14
@@ -7255,7 +7255,7 @@ All Verses: [John 14:1-14](http://www.esvbible.org/John%2014:1-14) ([All](http:/
 </div>
 </div>
 
-## 318. The Promise Of The Paraclete<a name="pericope318"></a> (<a href="#pericopetoc">^</a>)
+## 318. The Promise Of The Paraclete<a name="pericope318"></a> (<a href="#pericope318toc">^</a>)
 All Verses: [John 14:15-26](http://www.esvbible.org/John%2014:15-26) ([All](http://www.esvbible.org/John%2014:15-26))
 
 ### John 14:15-26
@@ -7267,7 +7267,7 @@ All Verses: [John 14:15-26](http://www.esvbible.org/John%2014:15-26) ([All](http
 </div>
 </div>
 
-## 319. The Gift Of Peace<a name="pericope319"></a> (<a href="#pericopetoc">^</a>)
+## 319. The Gift Of Peace<a name="pericope319"></a> (<a href="#pericope319toc">^</a>)
 All Verses: [John 14:27-31](http://www.esvbible.org/John%2014:27-31) ([All](http://www.esvbible.org/John%2014:27-31))
 
 ### John 14:27-31
@@ -7276,7 +7276,7 @@ All Verses: [John 14:27-31](http://www.esvbible.org/John%2014:27-31) ([All](http
 </div>
 </div>
 
-## 320. Jesus The True Vine<a name="pericope320"></a> (<a href="#pericopetoc">^</a>)
+## 320. Jesus The True Vine<a name="pericope320"></a> (<a href="#pericope320toc">^</a>)
 All Verses: [John 15:1-8](http://www.esvbible.org/John%2015:1-8) ([All](http://www.esvbible.org/John%2015:1-8))
 
 ### John 15:1-8
@@ -7286,7 +7286,7 @@ All Verses: [John 15:1-8](http://www.esvbible.org/John%2015:1-8) ([All](http://w
 </div>
 </div>
 
-## 321. Abide In My Love<a name="pericope321"></a> (<a href="#pericopetoc">^</a>)
+## 321. Abide In My Love<a name="pericope321"></a> (<a href="#pericope321toc">^</a>)
 All Verses: [John 15:9-17](http://www.esvbible.org/John%2015:9-17) ([All](http://www.esvbible.org/John%2015:9-17))
 
 ### John 15:9-17
@@ -7296,7 +7296,7 @@ All Verses: [John 15:9-17](http://www.esvbible.org/John%2015:9-17) ([All](http:/
 </div>
 </div>
 
-## 322. The World's Hatred<a name="pericope322"></a> (<a href="#pericopetoc">^</a>)
+## 322. The World's Hatred<a name="pericope322"></a> (<a href="#pericope322toc">^</a>)
 All Verses: [John 15:18-25](http://www.esvbible.org/John%2015:18-25) ([All](http://www.esvbible.org/John%2015:18-25))
 
 ### John 15:18-25
@@ -7306,7 +7306,7 @@ All Verses: [John 15:18-25](http://www.esvbible.org/John%2015:18-25) ([All](http
 </div>
 </div>
 
-## 323. The Witness Of The Paraclete<a name="pericope323"></a> (<a href="#pericopetoc">^</a>)
+## 323. The Witness Of The Paraclete<a name="pericope323"></a> (<a href="#pericope323toc">^</a>)
 All Verses: [John 15:26-27](http://www.esvbible.org/John%2015:26-27) ([All](http://www.esvbible.org/John%2015:26-27))
 
 ### John 15:26-27
@@ -7315,7 +7315,7 @@ All Verses: [John 15:26-27](http://www.esvbible.org/John%2015:26-27) ([All](http
 </div>
 </div>
 
-## 324. On Persecutions<a name="pericope324"></a> (<a href="#pericopetoc">^</a>)
+## 324. On Persecutions<a name="pericope324"></a> (<a href="#pericope324toc">^</a>)
 All Verses: [John 16:1-4](http://www.esvbible.org/John%2016:1-4) ([All](http://www.esvbible.org/John%2016:1-4))
 
 ### John 16:1-4
@@ -7326,7 +7326,7 @@ All Verses: [John 16:1-4](http://www.esvbible.org/John%2016:1-4) ([All](http://w
 </div>
 </div>
 
-## 325. The Work Of The Paraclete<a name="pericope325"></a> (<a href="#pericopetoc">^</a>)
+## 325. The Work Of The Paraclete<a name="pericope325"></a> (<a href="#pericope325toc">^</a>)
 All Verses: [John 16:5-15](http://www.esvbible.org/John%2016:5-15) ([All](http://www.esvbible.org/John%2016:5-15))
 
 ### John 16:5-15
@@ -7336,7 +7336,7 @@ All Verses: [John 16:5-15](http://www.esvbible.org/John%2016:5-15) ([All](http:/
 </div>
 </div>
 
-## 326. Sorrow Turned To Joy<a name="pericope326"></a> (<a href="#pericopetoc">^</a>)
+## 326. Sorrow Turned To Joy<a name="pericope326"></a> (<a href="#pericope326toc">^</a>)
 All Verses: [John 16:16-22](http://www.esvbible.org/John%2016:16-22) ([All](http://www.esvbible.org/John%2016:16-22))
 
 ### John 16:16-22
@@ -7346,7 +7346,7 @@ All Verses: [John 16:16-22](http://www.esvbible.org/John%2016:16-22) ([All](http
 </div>
 </div>
 
-## 327. Prayer In The Name Of Jesus<a name="pericope327"></a> (<a href="#pericopetoc">^</a>)
+## 327. Prayer In The Name Of Jesus<a name="pericope327"></a> (<a href="#pericope327toc">^</a>)
 All Verses: [John 16:23-28](http://www.esvbible.org/John%2016:23-28) ([All](http://www.esvbible.org/John%2016:23-28))
 
 ### John 16:23-28
@@ -7357,7 +7357,7 @@ All Verses: [John 16:23-28](http://www.esvbible.org/John%2016:23-28) ([All](http
 </div>
 </div>
 
-## 328. Prediction Of The Disciples' Flight<a name="pericope328"></a> (<a href="#pericopetoc">^</a>)
+## 328. Prediction Of The Disciples' Flight<a name="pericope328"></a> (<a href="#pericope328toc">^</a>)
 All Verses: [John 16:29-33](http://www.esvbible.org/John%2016:29-33) ([All](http://www.esvbible.org/John%2016:29-33))
 
 ### John 16:29-33
@@ -7366,7 +7366,7 @@ All Verses: [John 16:29-33](http://www.esvbible.org/John%2016:29-33) ([All](http
 </div>
 </div>
 
-## 329. The Intercessory Prayer<a name="pericope329"></a> (<a href="#pericopetoc">^</a>)
+## 329. The Intercessory Prayer<a name="pericope329"></a> (<a href="#pericope329toc">^</a>)
 All Verses: [John 17:1-26](http://www.esvbible.org/John%2017:1-26) ([All](http://www.esvbible.org/John%2017:1-26))
 
 ### John 17:1-26
@@ -7378,7 +7378,7 @@ All Verses: [John 17:1-26](http://www.esvbible.org/John%2017:1-26) ([All](http:/
 </div>
 </div>
 
-## 330. Gethsemane<a name="pericope330"></a> (<a href="#pericopetoc">^</a>)
+## 330. Gethsemane<a name="pericope330"></a> (<a href="#pericope330toc">^</a>)
 Essential Verses: [Matthew 26:36-46](http://www.esvbible.org/Matthew%2026:36-46); [Mark 14:32-42](http://www.esvbible.org/Mark%2014:32-42); [Luke 22:39-46](http://www.esvbible.org/Luke%2022:39-46); [John 18:1](http://www.esvbible.org/John%2018:1) ([All](http://www.esvbible.org/Matthew%2026:36-46;%20Mark%2014:32-42;%20Luke%2022:39-46;%20John%2018:1))
 Additional Verses: [John 12:27](http://www.esvbible.org/John%2012:27)
 All Verses: [Matthew 26:36-46](http://www.esvbible.org/Matthew%2026:36-46); [Mark 14:32-42](http://www.esvbible.org/Mark%2014:32-42); [Luke 22:39-46](http://www.esvbible.org/Luke%2022:39-46); [John 18:1](http://www.esvbible.org/John%2018:1); [John 12:27](http://www.esvbible.org/John%2012:27) ([All](http://www.esvbible.org/Matthew%2026:36-46;%20Mark%2014:32-42;%20Luke%2022:39-46;%20John%2018:1;%20John%2012:27))
@@ -7418,7 +7418,7 @@ All Verses: [Matthew 26:36-46](http://www.esvbible.org/Matthew%2026:36-46); [Mar
 </div>
 </div>
 
-## 331. Jesus Arrested<a name="pericope331"></a> (<a href="#pericopetoc">^</a>)
+## 331. Jesus Arrested<a name="pericope331"></a> (<a href="#pericope331toc">^</a>)
 All Verses: [Matthew 26:47-56](http://www.esvbible.org/Matthew%2026:47-56); [Mark 14:43-52](http://www.esvbible.org/Mark%2014:43-52); [Luke 22:47-53](http://www.esvbible.org/Luke%2022:47-53); [John 18:2-12](http://www.esvbible.org/John%2018:2-12) ([All](http://www.esvbible.org/Matthew%2026:47-56;%20Mark%2014:43-52;%20Luke%2022:47-53;%20John%2018:2-12))
 
 ### Matthew 26:47-56
@@ -7452,7 +7452,7 @@ All Verses: [Matthew 26:47-56](http://www.esvbible.org/Matthew%2026:47-56); [Mar
 </div>
 </div>
 
-## 332. Jesus Before The Sanhedrin (peter's Denial)<a name="pericope332"></a> (<a href="#pericopetoc">^</a>)
+## 332. Jesus Before The Sanhedrin (peter's Denial)<a name="pericope332"></a> (<a href="#pericope332toc">^</a>)
 All Verses: [Matthew 26:57-68](http://www.esvbible.org/Matthew%2026:57-68); [Mark 14:53-65](http://www.esvbible.org/Mark%2014:53-65); [Luke 22:54-71](http://www.esvbible.org/Luke%2022:54-71); [John 18:13-24](http://www.esvbible.org/John%2018:13-24) ([All](http://www.esvbible.org/Matthew%2026:57-68;%20Mark%2014:53-65;%20Luke%2022:54-71;%20John%2018:13-24))
 
 ### Matthew 26:57-68
@@ -7490,7 +7490,7 @@ All Verses: [Matthew 26:57-68](http://www.esvbible.org/Matthew%2026:57-68); [Mar
 </div>
 </div>
 
-## 333. Peter's Denial<a name="pericope333"></a> (<a href="#pericopetoc">^</a>)
+## 333. Peter's Denial<a name="pericope333"></a> (<a href="#pericope333toc">^</a>)
 Essential Verses: [Matthew 26:69-75](http://www.esvbible.org/Matthew%2026:69-75); [Mark 14:66-72](http://www.esvbible.org/Mark%2014:66-72); [John 18:25-27](http://www.esvbible.org/John%2018:25-27) ([All](http://www.esvbible.org/Matthew%2026:69-75;%20Mark%2014:66-72;%20John%2018:25-27))
 Additional Verses: [Luke 22:56-62](http://www.esvbible.org/Luke%2022:56-62)
 All Verses: [Matthew 26:69-75](http://www.esvbible.org/Matthew%2026:69-75); [Mark 14:66-72](http://www.esvbible.org/Mark%2014:66-72); [Luke 22:56-62](http://www.esvbible.org/Luke%2022:56-62); [John 18:25-27](http://www.esvbible.org/John%2018:25-27) ([All](http://www.esvbible.org/Matthew%2026:69-75;%20Mark%2014:66-72;%20Luke%2022:56-62;%20John%2018:25-27))
@@ -7522,7 +7522,7 @@ All Verses: [Matthew 26:69-75](http://www.esvbible.org/Matthew%2026:69-75); [Mar
 </div>
 </div>
 
-## 334. Jesus Delivered To Pilate<a name="pericope334"></a> (<a href="#pericopetoc">^</a>)
+## 334. Jesus Delivered To Pilate<a name="pericope334"></a> (<a href="#pericope334toc">^</a>)
 All Verses: [Matthew 27:1-2](http://www.esvbible.org/Matthew%2027:1-2); [Mark 15:1](http://www.esvbible.org/Mark%2015:1); [Luke 23:1](http://www.esvbible.org/Luke%2023:1); [John 18:28](http://www.esvbible.org/John%2018:28) ([All](http://www.esvbible.org/Matthew%2027:1-2;%20Mark%2015:1;%20Luke%2023:1;%20John%2018:28))
 
 ### Matthew 27:1-2
@@ -7553,7 +7553,7 @@ All Verses: [Matthew 27:1-2](http://www.esvbible.org/Matthew%2027:1-2); [Mark 15
 </div>
 </div>
 
-## 335. The Death Of Judas<a name="pericope335"></a> (<a href="#pericopetoc">^</a>)
+## 335. The Death Of Judas<a name="pericope335"></a> (<a href="#pericope335toc">^</a>)
 All Verses: [Matthew 27:3-10](http://www.esvbible.org/Matthew%2027:3-10) ([All](http://www.esvbible.org/Matthew%2027:3-10))
 
 ### Matthew 27:3-10
@@ -7563,7 +7563,7 @@ All Verses: [Matthew 27:3-10](http://www.esvbible.org/Matthew%2027:3-10) ([All](
 </div>
 </div>
 
-## 336. The Trial Before Pilate<a name="pericope336"></a> (<a href="#pericopetoc">^</a>)
+## 336. The Trial Before Pilate<a name="pericope336"></a> (<a href="#pericope336toc">^</a>)
 All Verses: [Matthew 27:11-14](http://www.esvbible.org/Matthew%2027:11-14); [Mark 15:2-5](http://www.esvbible.org/Mark%2015:2-5); [Luke 23:2-5](http://www.esvbible.org/Luke%2023:2-5); [John 18:29-38](http://www.esvbible.org/John%2018:29-38) ([All](http://www.esvbible.org/Matthew%2027:11-14;%20Mark%2015:2-5;%20Luke%2023:2-5;%20John%2018:29-38))
 
 ### Matthew 27:11-14
@@ -7594,7 +7594,7 @@ All Verses: [Matthew 27:11-14](http://www.esvbible.org/Matthew%2027:11-14); [Mar
 </div>
 </div>
 
-## 337. Jesus Before Herod<a name="pericope337"></a> (<a href="#pericopetoc">^</a>)
+## 337. Jesus Before Herod<a name="pericope337"></a> (<a href="#pericope337toc">^</a>)
 All Verses: [Luke 23:6-12](http://www.esvbible.org/Luke%2023:6-12) ([All](http://www.esvbible.org/Luke%2023:6-12))
 
 ### Luke 23:6-12
@@ -7604,7 +7604,7 @@ All Verses: [Luke 23:6-12](http://www.esvbible.org/Luke%2023:6-12) ([All](http:/
 </div>
 </div>
 
-## 338. Pilate Declares Jesus Innocent<a name="pericope338"></a> (<a href="#pericopetoc">^</a>)
+## 338. Pilate Declares Jesus Innocent<a name="pericope338"></a> (<a href="#pericope338toc">^</a>)
 All Verses: [Luke 23:13-16](http://www.esvbible.org/Luke%2023:13-16) ([All](http://www.esvbible.org/Luke%2023:13-16))
 
 ### Luke 23:13-16
@@ -7613,7 +7613,7 @@ All Verses: [Luke 23:13-16](http://www.esvbible.org/Luke%2023:13-16) ([All](http
 </div>
 </div>
 
-## 339. Jesus Or Barabbas?<a name="pericope339"></a> (<a href="#pericopetoc">^</a>)
+## 339. Jesus Or Barabbas?<a name="pericope339"></a> (<a href="#pericope339toc">^</a>)
 All Verses: [Matthew 27:15-23](http://www.esvbible.org/Matthew%2027:15-23); [Mark 15:6-14](http://www.esvbible.org/Mark%2015:6-14); [Luke 23:17-23](http://www.esvbible.org/Luke%2023:17-23); [John 18:39-40](http://www.esvbible.org/John%2018:39-40) ([All](http://www.esvbible.org/Matthew%2027:15-23;%20Mark%2015:6-14;%20Luke%2023:17-23;%20John%2018:39-40))
 
 ### Matthew 27:15-23
@@ -7644,7 +7644,7 @@ All Verses: [Matthew 27:15-23](http://www.esvbible.org/Matthew%2027:15-23); [Mar
 </div>
 </div>
 
-## 340. Behold The Man!<a name="pericope340"></a> (<a href="#pericopetoc">^</a>)
+## 340. Behold The Man!<a name="pericope340"></a> (<a href="#pericope340toc">^</a>)
 Essential Verses: [John 19:1-15](http://www.esvbible.org/John%2019:1-15)
 Additional Verses: [Matthew 27:28-31a](http://www.esvbible.org/Matthew%2027:28-31a); [Mark 15:17-20a](http://www.esvbible.org/Mark%2015:17-20a) ([All](http://www.esvbible.org/Matthew%2027:28-31a;%20Mark%2015:17-20a))
 All Verses: [Matthew 27:28-31a](http://www.esvbible.org/Matthew%2027:28-31a); [Mark 15:17-20a](http://www.esvbible.org/Mark%2015:17-20a); [John 19:1-15](http://www.esvbible.org/John%2019:1-15) ([All](http://www.esvbible.org/Matthew%2027:28-31a;%20Mark%2015:17-20a;%20John%2019:1-15))
@@ -7669,7 +7669,7 @@ All Verses: [Matthew 27:28-31a](http://www.esvbible.org/Matthew%2027:28-31a); [M
 </div>
 </div>
 
-## 341. Pilate Delivers Jesus To Be Crucified<a name="pericope341"></a> (<a href="#pericopetoc">^</a>)
+## 341. Pilate Delivers Jesus To Be Crucified<a name="pericope341"></a> (<a href="#pericope341toc">^</a>)
 All Verses: [Matthew 27:24-26](http://www.esvbible.org/Matthew%2027:24-26); [Mark 15:15](http://www.esvbible.org/Mark%2015:15); [Luke 23:24-25](http://www.esvbible.org/Luke%2023:24-25); [John 19:16](http://www.esvbible.org/John%2019:16) ([All](http://www.esvbible.org/Matthew%2027:24-26;%20Mark%2015:15;%20Luke%2023:24-25;%20John%2019:16))
 
 ### Matthew 27:24-26
@@ -7699,7 +7699,7 @@ All Verses: [Matthew 27:24-26](http://www.esvbible.org/Matthew%2027:24-26); [Mar
 </div>
 </div>
 
-## 342. Jesus Mocked By The Soldiers<a name="pericope342"></a> (<a href="#pericopetoc">^</a>)
+## 342. Jesus Mocked By The Soldiers<a name="pericope342"></a> (<a href="#pericope342toc">^</a>)
 Essential Verses: [Matthew 27:27-31a](http://www.esvbible.org/Matthew%2027:27-31a); [Mark 15:16-20a](http://www.esvbible.org/Mark%2015:16-20a) ([All](http://www.esvbible.org/Matthew%2027:27-31a;%20Mark%2015:16-20a))
 Additional Verses: [John 19:2-3](http://www.esvbible.org/John%2019:2-3)
 All Verses: [Matthew 27:27-31a](http://www.esvbible.org/Matthew%2027:27-31a); [Mark 15:16-20a](http://www.esvbible.org/Mark%2015:16-20a); [John 19:2-3](http://www.esvbible.org/John%2019:2-3) ([All](http://www.esvbible.org/Matthew%2027:27-31a;%20Mark%2015:16-20a;%20John%2019:2-3))
@@ -7724,7 +7724,7 @@ All Verses: [Matthew 27:27-31a](http://www.esvbible.org/Matthew%2027:27-31a); [M
 </div>
 </div>
 
-## 343. The Road To Golgotha<a name="pericope343"></a> (<a href="#pericopetoc">^</a>)
+## 343. The Road To Golgotha<a name="pericope343"></a> (<a href="#pericope343toc">^</a>)
 All Verses: [Matthew 27:31b-32](http://www.esvbible.org/Matthew%2027:31b-32); [Mark 15:20b-21](http://www.esvbible.org/Mark%2015:20b-21); [Luke 23:26-32](http://www.esvbible.org/Luke%2023:26-32); [John 19:17](http://www.esvbible.org/John%2019:17) ([All](http://www.esvbible.org/Matthew%2027:31b-32;%20Mark%2015:20b-21;%20Luke%2023:26-32;%20John%2019:17))
 
 ### Matthew 27:31b-32
@@ -7757,7 +7757,7 @@ All Verses: [Matthew 27:31b-32](http://www.esvbible.org/Matthew%2027:31b-32); [M
 </div>
 </div>
 
-## 344. The Crucifixion<a name="pericope344"></a> (<a href="#pericopetoc">^</a>)
+## 344. The Crucifixion<a name="pericope344"></a> (<a href="#pericope344toc">^</a>)
 All Verses: [Matthew 27:33-37](http://www.esvbible.org/Matthew%2027:33-37); [Mark 15:22-26](http://www.esvbible.org/Mark%2015:22-26); [Luke 23:33-34](http://www.esvbible.org/Luke%2023:33-34); [John 19:17b-27](http://www.esvbible.org/John%2019:17b-27) ([All](http://www.esvbible.org/Matthew%2027:33-37;%20Mark%2015:22-26;%20Luke%2023:33-34;%20John%2019:17b-27))
 
 ### Matthew 27:33-37
@@ -7788,7 +7788,7 @@ All Verses: [Matthew 27:33-37](http://www.esvbible.org/Matthew%2027:33-37); [Mar
 </div>
 </div>
 
-## 345. Jesus Derided On The Cross<a name="pericope345"></a> (<a href="#pericopetoc">^</a>)
+## 345. Jesus Derided On The Cross<a name="pericope345"></a> (<a href="#pericope345toc">^</a>)
 All Verses: [Matthew 27:38-43](http://www.esvbible.org/Matthew%2027:38-43); [Mark 15:27-32a](http://www.esvbible.org/Mark%2015:27-32a); [Luke 23:35-38](http://www.esvbible.org/Luke%2023:35-38) ([All](http://www.esvbible.org/Matthew%2027:38-43;%20Mark%2015:27-32a;%20Luke%2023:35-38))
 
 ### Matthew 27:38-43
@@ -7809,7 +7809,7 @@ All Verses: [Matthew 27:38-43](http://www.esvbible.org/Matthew%2027:38-43); [Mar
 </div>
 </div>
 
-## 346. The Two Thieves<a name="pericope346"></a> (<a href="#pericopetoc">^</a>)
+## 346. The Two Thieves<a name="pericope346"></a> (<a href="#pericope346toc">^</a>)
 All Verses: [Matthew 27:44](http://www.esvbible.org/Matthew%2027:44); [Mark 15:32b](http://www.esvbible.org/Mark%2015:32b); [Luke 23:39-43](http://www.esvbible.org/Luke%2023:39-43) ([All](http://www.esvbible.org/Matthew%2027:44;%20Mark%2015:32b;%20Luke%2023:39-43))
 
 ### Matthew 27:44
@@ -7830,7 +7830,7 @@ All Verses: [Matthew 27:44](http://www.esvbible.org/Matthew%2027:44); [Mark 15:3
 </div>
 </div>
 
-## 347. The Death Of Jesus<a name="pericope347"></a> (<a href="#pericopetoc">^</a>)
+## 347. The Death Of Jesus<a name="pericope347"></a> (<a href="#pericope347toc">^</a>)
 All Verses: [Matthew 27:45-54](http://www.esvbible.org/Matthew%2027:45-54); [Mark 15:33-39](http://www.esvbible.org/Mark%2015:33-39); [Luke 23:44-48](http://www.esvbible.org/Luke%2023:44-48); [John 19:28-30](http://www.esvbible.org/John%2019:28-30) ([All](http://www.esvbible.org/Matthew%2027:45-54;%20Mark%2015:33-39;%20Luke%2023:44-48;%20John%2019:28-30))
 
 ### Matthew 27:45-54
@@ -7862,7 +7862,7 @@ All Verses: [Matthew 27:45-54](http://www.esvbible.org/Matthew%2027:45-54); [Mar
 </div>
 </div>
 
-## 348. Witnesses Of The Crucifixion<a name="pericope348"></a> (<a href="#pericopetoc">^</a>)
+## 348. Witnesses Of The Crucifixion<a name="pericope348"></a> (<a href="#pericope348toc">^</a>)
 Essential Verses: [Matthew 27:55-56](http://www.esvbible.org/Matthew%2027:55-56); [Mark 15:40-41](http://www.esvbible.org/Mark%2015:40-41); [Luke 23:49](http://www.esvbible.org/Luke%2023:49) ([All](http://www.esvbible.org/Matthew%2027:55-56;%20Mark%2015:40-41;%20Luke%2023:49))
 Additional Verses: [John 19:25-27](http://www.esvbible.org/John%2019:25-27)
 All Verses: [Matthew 27:55-56](http://www.esvbible.org/Matthew%2027:55-56); [Mark 15:40-41](http://www.esvbible.org/Mark%2015:40-41); [Luke 23:49](http://www.esvbible.org/Luke%2023:49); [John 19:25-27](http://www.esvbible.org/John%2019:25-27) ([All](http://www.esvbible.org/Matthew%2027:55-56;%20Mark%2015:40-41;%20Luke%2023:49;%20John%2019:25-27))
@@ -7891,7 +7891,7 @@ All Verses: [Matthew 27:55-56](http://www.esvbible.org/Matthew%2027:55-56); [Mar
 </div>
 </div>
 
-## 349. Jesus' Side Pierced<a name="pericope349"></a> (<a href="#pericopetoc">^</a>)
+## 349. Jesus' Side Pierced<a name="pericope349"></a> (<a href="#pericope349toc">^</a>)
 All Verses: [John 19:31-37](http://www.esvbible.org/John%2019:31-37) ([All](http://www.esvbible.org/John%2019:31-37))
 
 ### John 19:31-37
@@ -7901,7 +7901,7 @@ All Verses: [John 19:31-37](http://www.esvbible.org/John%2019:31-37) ([All](http
 </div>
 </div>
 
-## 350. The Burial Of Jesus<a name="pericope350"></a> (<a href="#pericopetoc">^</a>)
+## 350. The Burial Of Jesus<a name="pericope350"></a> (<a href="#pericope350toc">^</a>)
 All Verses: [Matthew 27:57-61](http://www.esvbible.org/Matthew%2027:57-61); [Mark 15:42-47](http://www.esvbible.org/Mark%2015:42-47); [Luke 23:50-56](http://www.esvbible.org/Luke%2023:50-56); [John 19:38-42](http://www.esvbible.org/John%2019:38-42) ([All](http://www.esvbible.org/Matthew%2027:57-61;%20Mark%2015:42-47;%20Luke%2023:50-56;%20John%2019:38-42))
 
 ### Matthew 27:57-61
@@ -7933,7 +7933,7 @@ All Verses: [Matthew 27:57-61](http://www.esvbible.org/Matthew%2027:57-61); [Mar
 </div>
 </div>
 
-## 351. The Guard At The Tomb<a name="pericope351"></a> (<a href="#pericopetoc">^</a>)
+## 351. The Guard At The Tomb<a name="pericope351"></a> (<a href="#pericope351toc">^</a>)
 All Verses: [Matthew 27:62-66](http://www.esvbible.org/Matthew%2027:62-66) ([All](http://www.esvbible.org/Matthew%2027:62-66))
 
 ### Matthew 27:62-66
@@ -7943,7 +7943,7 @@ All Verses: [Matthew 27:62-66](http://www.esvbible.org/Matthew%2027:62-66) ([All
 </div>
 </div>
 
-## 352. The Women At The Tomb<a name="pericope352"></a> (<a href="#pericopetoc">^</a>)
+## 352. The Women At The Tomb<a name="pericope352"></a> (<a href="#pericope352toc">^</a>)
 All Verses: [Matthew 28:1-8](http://www.esvbible.org/Matthew%2028:1-8); [Mark 16:1-8](http://www.esvbible.org/Mark%2016:1-8); [Luke 24:1-12](http://www.esvbible.org/Luke%2024:1-12); [John 20:1-13](http://www.esvbible.org/John%2020:1-13) ([All](http://www.esvbible.org/Matthew%2028:1-8;%20Mark%2016:1-8;%20Luke%2024:1-12;%20John%2020:1-13))
 
 ### Matthew 28:1-8
@@ -7976,7 +7976,7 @@ All Verses: [Matthew 28:1-8](http://www.esvbible.org/Matthew%2028:1-8); [Mark 16
 </div>
 </div>
 
-## 353. Jesus Appears To The Women<a name="pericope353"></a> (<a href="#pericopetoc">^</a>)
+## 353. Jesus Appears To The Women<a name="pericope353"></a> (<a href="#pericope353toc">^</a>)
 Essential Verses: [Matthew 28:9-10](http://www.esvbible.org/Matthew%2028:9-10); [John 20:14-18](http://www.esvbible.org/John%2020:14-18) ([All](http://www.esvbible.org/Matthew%2028:9-10;%20John%2020:14-18))
 Additional Verses: [Mark 16:9-11](http://www.esvbible.org/Mark%2016:9-11); [Luke 24:10-11](http://www.esvbible.org/Luke%2024:10-11) ([All](http://www.esvbible.org/Mark%2016:9-11;%20Luke%2024:10-11))
 All Verses: [Matthew 28:9-10](http://www.esvbible.org/Matthew%2028:9-10); [Mark 16:9-11](http://www.esvbible.org/Mark%2016:9-11); [Luke 24:10-11](http://www.esvbible.org/Luke%2024:10-11); [John 20:14-18](http://www.esvbible.org/John%2020:14-18) ([All](http://www.esvbible.org/Matthew%2028:9-10;%20Mark%2016:9-11;%20Luke%2024:10-11;%20John%2020:14-18))
@@ -8007,7 +8007,7 @@ All Verses: [Matthew 28:9-10](http://www.esvbible.org/Matthew%2028:9-10); [Mark 
 </div>
 </div>
 
-## 354. The Report Of The Guard<a name="pericope354"></a> (<a href="#pericopetoc">^</a>)
+## 354. The Report Of The Guard<a name="pericope354"></a> (<a href="#pericope354toc">^</a>)
 All Verses: [Matthew 28:11-15](http://www.esvbible.org/Matthew%2028:11-15) ([All](http://www.esvbible.org/Matthew%2028:11-15))
 
 ### Matthew 28:11-15
@@ -8017,7 +8017,7 @@ All Verses: [Matthew 28:11-15](http://www.esvbible.org/Matthew%2028:11-15) ([All
 </div>
 </div>
 
-## 355. Jesus Appears To Two On The Way To Emmaus<a name="pericope355"></a> (<a href="#pericopetoc">^</a>)
+## 355. Jesus Appears To Two On The Way To Emmaus<a name="pericope355"></a> (<a href="#pericope355toc">^</a>)
 Essential Verses: [Luke 24:13-35](http://www.esvbible.org/Luke%2024:13-35)
 Additional Verses: [Mark 16:12-13](http://www.esvbible.org/Mark%2016:12-13)
 All Verses: [Mark 16:12-13](http://www.esvbible.org/Mark%2016:12-13); [Luke 24:13-35](http://www.esvbible.org/Luke%2024:13-35) ([All](http://www.esvbible.org/Mark%2016:12-13;%20Luke%2024:13-35))
@@ -8037,7 +8037,7 @@ All Verses: [Mark 16:12-13](http://www.esvbible.org/Mark%2016:12-13); [Luke 24:1
 </div>
 </div>
 
-## 356. Jesus Appears To His Disciples (thomas Being Absent)<a name="pericope356"></a> (<a href="#pericopetoc">^</a>)
+## 356. Jesus Appears To His Disciples (thomas Being Absent)<a name="pericope356"></a> (<a href="#pericope356toc">^</a>)
 All Verses: [Luke 24:36-43](http://www.esvbible.org/Luke%2024:36-43); [John 20:19-23](http://www.esvbible.org/John%2020:19-23) ([All](http://www.esvbible.org/Luke%2024:36-43;%20John%2020:19-23))
 
 ### Luke 24:36-43
@@ -8054,7 +8054,7 @@ All Verses: [Luke 24:36-43](http://www.esvbible.org/Luke%2024:36-43); [John 20:1
 </div>
 </div>
 
-## 357. Jesus Appears To His Disciples (thomas Being Present)<a name="pericope357"></a> (<a href="#pericopetoc">^</a>)
+## 357. Jesus Appears To His Disciples (thomas Being Present)<a name="pericope357"></a> (<a href="#pericope357toc">^</a>)
 All Verses: [John 20:24-29](http://www.esvbible.org/John%2020:24-29) ([All](http://www.esvbible.org/John%2020:24-29))
 
 ### John 20:24-29
@@ -8065,7 +8065,7 @@ All Verses: [John 20:24-29](http://www.esvbible.org/John%2020:24-29) ([All](http
 </div>
 </div>
 
-## 358. Jesus Appears To The Eleven While They Sit At Table<a name="pericope358"></a> (<a href="#pericopetoc">^</a>)
+## 358. Jesus Appears To The Eleven While They Sit At Table<a name="pericope358"></a> (<a href="#pericope358toc">^</a>)
 Additional Verses: [Mark 16:14-18](http://www.esvbible.org/Mark%2016:14-18)
 All Verses: [Mark 16:14-18](http://www.esvbible.org/Mark%2016:14-18) ([All](http://www.esvbible.org/Mark%2016:14-18))
 
@@ -8076,7 +8076,7 @@ All Verses: [Mark 16:14-18](http://www.esvbible.org/Mark%2016:14-18) ([All](http
 </div>
 </div>
 
-## 359. Jesus Appears To The Eleven On A Mountain In Galilee<a name="pericope359"></a> (<a href="#pericopetoc">^</a>)
+## 359. Jesus Appears To The Eleven On A Mountain In Galilee<a name="pericope359"></a> (<a href="#pericope359toc">^</a>)
 Additional Verses: [Matthew 28:16-20](http://www.esvbible.org/Matthew%2028:16-20)
 All Verses: [Matthew 28:16-20](http://www.esvbible.org/Matthew%2028:16-20) ([All](http://www.esvbible.org/Matthew%2028:16-20))
 
@@ -8087,7 +8087,7 @@ All Verses: [Matthew 28:16-20](http://www.esvbible.org/Matthew%2028:16-20) ([All
 </div>
 </div>
 
-## 360. Jesus Appears To His Disciples By The Sea Of Tiberias<a name="pericope360"></a> (<a href="#pericopetoc">^</a>)
+## 360. Jesus Appears To His Disciples By The Sea Of Tiberias<a name="pericope360"></a> (<a href="#pericope360toc">^</a>)
 Additional Verses: [John 21:1-14](http://www.esvbible.org/John%2021:1-14)
 All Verses: [John 21:1-14](http://www.esvbible.org/John%2021:1-14) ([All](http://www.esvbible.org/John%2021:1-14))
 
@@ -8100,7 +8100,7 @@ All Verses: [John 21:1-14](http://www.esvbible.org/John%2021:1-14) ([All](http:/
 </div>
 </div>
 
-## 361. Paul's Account Of The Appearances Of Jesus<a name="pericope361"></a> (<a href="#pericopetoc">^</a>)
+## 361. Paul's Account Of The Appearances Of Jesus<a name="pericope361"></a> (<a href="#pericope361toc">^</a>)
 Additional Verses: [Mark 1 Corinthians 15:3-8](http://www.esvbible.org/Mark%201%20Corinthians%2015:3-8)
 All Verses: [Mark 1 Corinthians 15:3-8](http://www.esvbible.org/Mark%201%20Corinthians%2015:3-8) ([All](http://www.esvbible.org/Mark%201%20Corinthians%2015:3-8))
 
@@ -8135,7 +8135,7 @@ All Verses: [Mark 1 Corinthians 15:3-8](http://www.esvbible.org/Mark%201%20Corin
 </div>
 </div>
 
-## 362. The Longer Ending Of Mark<a name="pericope362"></a> (<a href="#pericopetoc">^</a>)
+## 362. The Longer Ending Of Mark<a name="pericope362"></a> (<a href="#pericope362toc">^</a>)
 All Verses: [Mark 16:9-20](http://www.esvbible.org/Mark%2016:9-20) ([All](http://www.esvbible.org/Mark%2016:9-20))
 
 ### Mark 16:9-20
@@ -8151,7 +8151,7 @@ All Verses: [Mark 16:9-20](http://www.esvbible.org/Mark%2016:9-20) ([All](http:/
 </div>
 </div>
 
-## 363. The Ending Of Matthew: The Great Commission<a name="pericope363"></a> (<a href="#pericopetoc">^</a>)
+## 363. The Ending Of Matthew: The Great Commission<a name="pericope363"></a> (<a href="#pericope363toc">^</a>)
 All Verses: [Matthew 28:16-20](http://www.esvbible.org/Matthew%2028:16-20) ([All](http://www.esvbible.org/Matthew%2028:16-20))
 
 ### Matthew 28:16-20
@@ -8161,7 +8161,7 @@ All Verses: [Matthew 28:16-20](http://www.esvbible.org/Matthew%2028:16-20) ([All
 </div>
 </div>
 
-## 364. The Ending Of Luke: Jesus' Last Words And Ascension<a name="pericope364"></a> (<a href="#pericopetoc">^</a>)
+## 364. The Ending Of Luke: Jesus' Last Words And Ascension<a name="pericope364"></a> (<a href="#pericope364toc">^</a>)
 Essential Verses: [Luke 24:44-53](http://www.esvbible.org/Luke%2024:44-53)
 Additional Verses: [Mark 16:15,19](http://www.esvbible.org/Mark%2016:15,19)
 All Verses: [Mark 16:15,19](http://www.esvbible.org/Mark%2016:15,19); [Luke 24:44-53](http://www.esvbible.org/Luke%2024:44-53) ([All](http://www.esvbible.org/Mark%2016:15,19;%20Luke%2024:44-53))
@@ -8182,7 +8182,7 @@ All Verses: [Mark 16:15,19](http://www.esvbible.org/Mark%2016:15,19); [Luke 24:4
 </div>
 </div>
 
-## 365. The Ending Of John<a name="pericope365"></a> (<a href="#pericopetoc">^</a>)
+## 365. The Ending Of John<a name="pericope365"></a> (<a href="#pericope365toc">^</a>)
 All Verses: [John 20:30-31](http://www.esvbible.org/John%2020:30-31) ([All](http://www.esvbible.org/John%2020:30-31))
 
 ### John 20:30-31
@@ -8192,7 +8192,7 @@ All Verses: [John 20:30-31](http://www.esvbible.org/John%2020:30-31) ([All](http
 </div>
 </div>
 
-## 366. The Appendix To John: Jesus At The Sea Of Tiberias.<a name="pericope366"></a> (<a href="#pericopetoc">^</a>)
+## 366. The Appendix To John: Jesus At The Sea Of Tiberias.<a name="pericope366"></a> (<a href="#pericope366toc">^</a>)
 All Verses: [John 21:1-25](http://www.esvbible.org/John%2021:1-25) ([All](http://www.esvbible.org/John%2021:1-25))
 
 ### John 21:1-25

@@ -108,7 +108,7 @@ class GospelParallelsGenerator
   def toc_to_markdown
     puts "\# Table of Contents<a name=\"pericopetoc\"></a>\n\n"
     @entries.each do |entry|
-      puts "1. [#{entry.pericope}](\#pericope#{entry.num})\n"
+      puts "1. [#{entry.pericope}](\#pericope#{entry.num})<a name=\"pericope#{entry.num}toc\"></a>\n"
     end
     puts "\n"
   end
@@ -171,7 +171,7 @@ class GospelParallelsEntry
   end
 
   def to_markdown
-    output = "\n\#\# #{num}. #{pericope}<a name=\"pericope#{num}\"></a> (<a href=\"#pericopetoc\">^</a>)"
+    output = "\n\#\# #{num}. #{pericope}<a name=\"pericope#{num}\"></a> (<a href=\"#pericope#{num}toc\">^</a>)"
 
     if @essential_references.count > 0 and @additional_references.count > 0
       output << "\nEssential Verses:"
