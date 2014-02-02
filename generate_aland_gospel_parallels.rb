@@ -127,11 +127,6 @@ class GospelParallelsGenerator
     puts "\n</div>\n"
   end
 
-  def header_to_markdown
-    puts "# A Harmony of the Gospel\n\n"
-    puts "Derived from _Synopsis Quattuor Evangeliorum_ by **Kurt Aland**.\n"
-  end
-
   def toc_to_markdown
     puts "\n<div id=\"table-of-contents\" markdown=\"1\">\n\n"
     puts "## <a name=\"toc\"></a>Table of Contents\n\n"
@@ -263,7 +258,6 @@ end
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
   generator.process_data
-  generator.header_to_markdown
   generator.toc_to_markdown
   generator.entries_to_markdown
 end
