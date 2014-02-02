@@ -16,7 +16,7 @@ class ESVAPI
   end
 
   def self.get reference
-    key = 'beff9d1aa1762bbd'
+    key = '8f1a04b76ba6af79'
 
     # Replace " " with "+"; ":" with "%3A". Required for ESV API request.
     modified_reference = reference.gsub(/\s/, '+').gsub(/:/, '%3A')
@@ -33,6 +33,9 @@ class ESVAPI
     end
 
     doc = Nokogiri::XML(html)
+
+    #File.open('debug.out', 'a') { |f| f.write("OUTPUTTING (#{reference}):\n#{doc.to_s}\n\n\n") }
+
     doc.css("div.block-indent").each do |div|
       blockquote_node = doc.create_element("blockquote")
       blockquote_node.inner_html = div.inner_html
@@ -259,7 +262,7 @@ end
 
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
-  generator.process_data 20
+  generator.process_data
   generator.header_to_markdown
   generator.toc_to_markdown
   generator.entries_to_markdown
