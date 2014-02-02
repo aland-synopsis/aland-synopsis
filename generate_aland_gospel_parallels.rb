@@ -3,6 +3,7 @@
 require 'json'
 require 'net/http'
 require 'nokogiri'
+require 'string-urlize'
 require 'uri'
 
 class ESVAPI
@@ -99,16 +100,28 @@ class GospelParallelsGenerator
   end
 
   def entries_to_markdown
-    puts "\# Gospel Parallels\n\n"
+    puts "# Gospel Parallels\n\n"
+
+    current_section = ""
     @entries.each do |entry|
+      if entry.section != current_section
+        puts "## #{entry.section} ([\^](##{entry.section_toc_url}))<a name=\"#{entry.section_url}\"></a>\n"
+        current_section = entry.section
+      end
       puts entry.to_markdown
     end
   end
 
   def toc_to_markdown
-    puts "\# Table of Contents<a name=\"pericopetoc\"></a>\n\n"
+    puts "# Table of Contents<a name=\"pericopetoc\"></a>\n\n"
+
+    current_section = ""
     @entries.each do |entry|
-      puts "1. [#{entry.pericope}](\#pericope#{entry.num})<a name=\"pericope#{entry.num}toc\"></a>\n"
+      if entry.section != current_section
+        puts "+ [#{entry.section}](##{entry.section_url})<a name=\"#{entry.section_toc_url}\"></a>\n"
+        current_section = entry.section
+      end
+      puts "    + [#{entry.num}. #{entry.pericope}](##{entry.url})<a name=\"#{entry.toc_url}\"></a>\n"
     end
     puts "\n"
   end
@@ -118,12 +131,13 @@ class GospelParallelsEntry
   @@SEARCH_QUERY = "http://www.esvbible.org/"
   @@SIMPLE_SEARCH_QUERY = "http://www.gnpcb.org/esv/mobile/?q="
 
-  attr_accessor :num, :pericope
+  attr_accessor :num, :pericope, :section
   attr_accessor :all_references, :essential_references, :additional_references
 
   def initialize entry_data
     @num = entry_data["gsx$no."]["$t"]
     @pericope = entry_data["gsx$pericope"]["$t"].split(" ").map(&:capitalize).join(" ")
+    @section = entry_data["gsx$section"]["$t"]
     @all_references = []
     @essential_references = []
     @additional_references = []
@@ -162,6 +176,22 @@ class GospelParallelsEntry
     end
   end
 
+  def url
+    "entry-#{num}"
+  end
+
+  def toc_url
+    "entry-#{num}-toc"
+  end
+
+  def section_url
+    "section-#{@section.urlize}"
+  end
+
+  def section_toc_url
+    "section-#{@section.urlize}-toc"
+  end
+
   def to_debug
     output = "No. #{num}: #{pericope}"
     output << "\nESSENTIAL: " + @@SEARCH_QUERY + URI.escape(@essential_references.join("; ")) unless @essential_references.empty?
@@ -171,7 +201,7 @@ class GospelParallelsEntry
   end
 
   def to_markdown
-    output = "\n\#\# #{num}. #{pericope}<a name=\"pericope#{num}\"></a> (<a href=\"#pericope#{num}toc\">^</a>)"
+    output = "\n### #{num}. #{pericope}<a name=\"#{self.url}\"></a> ([^](##{self.toc_url}))"
 
     if @essential_references.count > 0 and @additional_references.count > 0
       output << "\nEssential Verses:"
@@ -201,7 +231,7 @@ class GospelParallelsEntry
     end
 
     @all_references.each do |reference|
-      output << "\n\n\#\#\# #{reference}"
+      output << "\n\n#### #{reference}"
       output << "\n#{ESVAPI.get(reference)}"
     end
 
@@ -211,7 +241,7 @@ end
 
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
-  generator.process_data
+  generator.process_data 13
   generator.toc_to_markdown
   generator.entries_to_markdown
 end
