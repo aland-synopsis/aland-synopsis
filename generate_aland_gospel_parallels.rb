@@ -152,7 +152,7 @@ class GospelParallelsEntry
 
   def initialize entry_data
     @num = entry_data["gsx$no."]["$t"]
-    @pericope = entry_data["gsx$pericope"]["$t"].split(" ").map(&:capitalize).join(" ").sub(/\(./) do |w|
+    @pericope = entry_data["gsx$pericope"]["$t"].split(" ").map(&:capitalize).join(" ").gsub(/[("]./) do |w|
       w.upcase
     end
     @section = entry_data["gsx$section"]["$t"]
