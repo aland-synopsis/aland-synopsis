@@ -241,7 +241,7 @@ end
 
 if __FILE__ == $0
   generator = GospelParallelsGenerator.new
-  generator.process_data 13
+  generator.process_data
   generator.toc_to_markdown
   generator.entries_to_markdown
 end
